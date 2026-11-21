@@ -1,0 +1,6160 @@
+[
+  {
+    "id": "u_demo_admin",
+    "display_name": "Demo Admin",
+    "roles": [
+      "admin"
+    ],
+    "email": "demo.admin@example.com",
+    "joined": "2026-01-05",
+    "bio": null,
+    "is_demo": true,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "food"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_demo_resident",
+    "display_name": "Demo Resident",
+    "roles": [
+      "resident"
+    ],
+    "email": "demo.resident@example.com",
+    "joined": "2026-03-14",
+    "bio": null,
+    "is_demo": true,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "kids_activities",
+        "hiking"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_demo_owner",
+    "display_name": "Demo Business Owner",
+    "roles": [
+      "business_owner"
+    ],
+    "email": "demo.owner@example.com",
+    "joined": "2026-02-20",
+    "bio": null,
+    "is_demo": true,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "45-54",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "history"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_wren",
+    "display_name": "Wren Okafor-Lind",
+    "roles": [
+      "admin"
+    ],
+    "email": "wren@example.com",
+    "joined": "2026-01-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "35-44",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "local_politics",
+        "theatre",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_hamish",
+    "display_name": "Hamish Dunleavy",
+    "roles": [
+      "business_owner"
+    ],
+    "email": "hamish@example.com",
+    "joined": "2026-02-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "55-64",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "music",
+        "history"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_teodora",
+    "display_name": "Teodora Vasquez-Reid",
+    "roles": [
+      "business_owner"
+    ],
+    "email": "teodora@example.com",
+    "joined": "2026-02-11",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "interests": [
+        "kids_activities",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_elias",
+    "display_name": "Elias Wiebe",
+    "roles": [
+      "business_owner"
+    ],
+    "email": "elias@example.com",
+    "joined": "2026-04-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "35-44",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en",
+        "de"
+      ],
+      "interests": [
+        "antiques",
+        "crafts"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_jonah",
+    "display_name": "Jonah Pettigrew",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "jonah@example.com",
+    "joined": "2026-03-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "cycling",
+        "hockey"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_meilin",
+    "display_name": "Mei-Lin Abernathy",
+    "roles": [
+      "resident",
+      "organiser"
+    ],
+    "email": "meilin@example.com",
+    "joined": "2026-03-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "single",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "reading",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_darnell",
+    "display_name": "Darnell Okoye",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "darnell@example.com",
+    "joined": "2026-03-21",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "kids_activities",
+        "local_politics"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_sofia",
+    "display_name": "Sofia Brandvold",
+    "roles": [
+      "resident"
+    ],
+    "email": "sofia@example.com",
+    "joined": "2026-04-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "reading"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_arjun",
+    "display_name": "Arjun Kettleby",
+    "roles": [
+      "resident"
+    ],
+    "email": "arjun@example.com",
+    "joined": "2026-04-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "family_teens",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en",
+        "pa"
+      ],
+      "interests": [
+        "food",
+        "hockey",
+        "kids_activities",
+        "reading",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "step_free"
+      ],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_colleen",
+    "display_name": "Colleen Marchetti",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "colleen@example.com",
+    "joined": "2026-05-01",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_fatima",
+    "display_name": "Fatima Dunmore",
+    "roles": [
+      "resident"
+    ],
+    "email": "fatima@example.com",
+    "joined": "2026-05-12",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_gus",
+    "display_name": "Gus Ferreira-Hale",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "gus@example.com",
+    "joined": "2026-05-28",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": null,
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en",
+        "pt"
+      ],
+      "interests": [
+        "curling",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_harriet",
+    "display_name": "Harriet Nakamura",
+    "roles": [
+      "resident"
+    ],
+    "email": "harriet@example.com",
+    "joined": "2026-06-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "volunteering",
+        "gardening"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_isaac",
+    "display_name": "Isaac Lindqvist",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "isaac@example.com",
+    "joined": "2026-06-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "18-24",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "photography",
+        "hiking"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_josie",
+    "display_name": "Josie Mbeki-Clarke",
+    "roles": [
+      "resident",
+      "staff",
+      "organiser"
+    ],
+    "email": "josie@example.com",
+    "joined": "2026-07-03",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "theatre",
+        "music"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_kenji",
+    "display_name": "Kenji Albrecht",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "kenji@example.com",
+    "joined": "2026-07-22",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "food"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_lorna",
+    "display_name": "Lorna Sauvé",
+    "roles": [
+      "resident"
+    ],
+    "email": "lorna@example.com",
+    "joined": "2026-08-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "65-74",
+      "household_stage": null,
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "interests": [
+        "history",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_mateo",
+    "display_name": "Mateo Brightman",
+    "roles": [
+      "resident"
+    ],
+    "email": "mateo@example.com",
+    "joined": "2026-08-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "paddling"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [
+        "accessible_toilet",
+        "seating_available"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_nadia",
+    "display_name": "Nadia Kowalczyk",
+    "roles": [
+      "resident"
+    ],
+    "email": "nadia@example.com",
+    "joined": "2026-09-14",
+    "bio": "Commutes to Riverbend, home for the weekends.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "rent",
+      "languages": [
+        "en",
+        "pl"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_owen",
+    "display_name": "Owen Thistlewood",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "owen@example.com",
+    "joined": "2026-09-29",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "18-24",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "student",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "food"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_priya",
+    "display_name": "Priya Castellane",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "priya@example.com",
+    "joined": "2026-09-20",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "25-34",
+      "household_stage": "young_family",
+      "pets": null,
+      "years_in_town": "under_1",
+      "resident_type": "seasonal",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "kids_activities",
+        "fitness"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_quinn",
+    "display_name": "Quinn Holloway",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "quinn@example.com",
+    "joined": "2026-09-25",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_spam",
+    "display_name": "Best Deals 4 U",
+    "roles": [
+      "resident"
+    ],
+    "email": "spam@example.com",
+    "joined": "2026-11-12",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "suspended",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": null,
+      "digest": null
+    }
+  },
+  {
+    "id": "u_001",
+    "display_name": "Kestrel Nkemelu",
+    "roles": [
+      "resident"
+    ],
+    "email": "kestrel.nkemelu1@example.com",
+    "joined": "2026-01-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": null,
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hockey",
+        "music",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_002",
+    "display_name": "Tavish Takahashi",
+    "roles": [
+      "resident"
+    ],
+    "email": "tavish.takahashi2@example.com",
+    "joined": "2026-09-09",
+    "bio": "Retired, volunteer most days.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_003",
+    "display_name": "Clement Lowther",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "clement.lowther3@example.com",
+    "joined": "2026-02-04",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "young_family",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_004",
+    "display_name": "Simran Martens",
+    "roles": [
+      "resident"
+    ],
+    "email": "simran.martens4@example.com",
+    "joined": "2026-01-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "hockey",
+        "kids_activities",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_005",
+    "display_name": "Adaeze Hawthorne",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "adaeze.hawthorne5@example.com",
+    "joined": "2026-01-11",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "crafts",
+        "paddling"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_006",
+    "display_name": "Orla Rennick",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "orla.rennick6@example.com",
+    "joined": "2026-02-23",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "fitness",
+        "hiking",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_007",
+    "display_name": "Hana Frobisher",
+    "roles": [
+      "resident"
+    ],
+    "email": "hana.frobisher7@example.com",
+    "joined": "2026-10-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_008",
+    "display_name": "Magnus Galbraith",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "magnus.galbraith8@example.com",
+    "joined": "2026-04-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "single",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "hiking"
+      ],
+      "gets_around": null,
+      "access_filters": [
+        "large_print",
+        "step_free"
+      ],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_009",
+    "display_name": "Carys Rennick",
+    "roles": [
+      "resident",
+      "creator"
+    ],
+    "email": "carys.rennick9@example.com",
+    "joined": "2026-04-04",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hiking",
+        "kids_activities",
+        "paddling",
+        "reading",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_010",
+    "display_name": "Abigail Blackwood",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "abigail.blackwood10@example.com",
+    "joined": "2026-04-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "empty_nest",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "local_politics",
+        "theatre"
+      ],
+      "gets_around": "no_car",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_011",
+    "display_name": "Adaeze Inglis",
+    "roles": [
+      "resident"
+    ],
+    "email": "adaeze.inglis11@example.com",
+    "joined": "2026-08-11",
+    "bio": "Retired and finally have time for the garden. Goes to council meetings.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "65-74",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "local_politics",
+        "music",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [
+        "accessible_toilet",
+        "quiet_hours"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_012",
+    "display_name": "Tavish Wedderburn",
+    "roles": [
+      "resident"
+    ],
+    "email": "tavish.wedderburn12@example.com",
+    "joined": "2026-05-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_013",
+    "display_name": "Orla Trevelyan",
+    "roles": [
+      "resident",
+      "staff",
+      "organiser"
+    ],
+    "email": "orla.trevelyan13@example.com",
+    "joined": "2026-01-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": null,
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "history",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_014",
+    "display_name": "Jessamy Abernethy",
+    "roles": [
+      "resident",
+      "staff",
+      "organiser"
+    ],
+    "email": "jessamy.abernethy14@example.com",
+    "joined": "2026-08-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "faith",
+        "kids_activities",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_015",
+    "display_name": "Perpetua Chaudhry",
+    "roles": [
+      "resident"
+    ],
+    "email": "perpetua.chaudhry15@example.com",
+    "joined": "2026-01-24",
+    "bio": "Remote worker, regular at the café. Rides everywhere, rain or shine.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "fitness",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_016",
+    "display_name": "Vesna Baptiste",
+    "roles": [
+      "resident"
+    ],
+    "email": "vesna.baptiste16@example.com",
+    "joined": "2026-09-24",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "curling",
+        "faith",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_017",
+    "display_name": "Brigid Galbraith",
+    "roles": [
+      "resident"
+    ],
+    "email": "brigid.galbraith17@example.com",
+    "joined": "2026-07-21",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": "multigenerational",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_018",
+    "display_name": "Magnus Hawthorne",
+    "roles": [
+      "resident",
+      "business_owner",
+      "organiser"
+    ],
+    "email": "magnus.hawthorne18@example.com",
+    "joined": "2026-02-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "45-54",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_019",
+    "display_name": "Delphine Nakashima",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "delphine.nakashima19@example.com",
+    "joined": "2026-01-12",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_020",
+    "display_name": "Valentin Elmsley",
+    "roles": [
+      "resident"
+    ],
+    "email": "valentin.elmsley20@example.com",
+    "joined": "2026-06-10",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "rent",
+      "languages": [
+        "en",
+        "de"
+      ],
+      "interests": [
+        "faith",
+        "paddling",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_021",
+    "display_name": "Callum Pellerin",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "callum.pellerin21@example.com",
+    "joined": "2026-02-18",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_022",
+    "display_name": "Osric Kavanagh",
+    "roles": [
+      "resident"
+    ],
+    "email": "osric.kavanagh22@example.com",
+    "joined": "2026-01-13",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "food",
+        "history"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_023",
+    "display_name": "Una Fairbairn",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "una.fairbairn23@example.com",
+    "joined": "2026-02-01",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": null,
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "gardening",
+        "music"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_024",
+    "display_name": "Stellan Yeoman",
+    "roles": [
+      "resident"
+    ],
+    "email": "stellan.yeoman24@example.com",
+    "joined": "2026-01-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "65-74",
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "curling",
+        "pets"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_025",
+    "display_name": "Bram Zielinski",
+    "roles": [
+      "resident",
+      "creator"
+    ],
+    "email": "bram.zielinski25@example.com",
+    "joined": "2026-01-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [
+        "quiet_hours"
+      ],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_026",
+    "display_name": "Esme Gillespie",
+    "roles": [
+      "resident"
+    ],
+    "email": "esme.gillespie26@example.com",
+    "joined": "2026-01-23",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "faith",
+        "local_politics",
+        "music"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_027",
+    "display_name": "Ines Carrick",
+    "roles": [
+      "resident"
+    ],
+    "email": "ines.carrick27@example.com",
+    "joined": "2026-02-24",
+    "bio": "Remote worker, regular at the café. Can't drive past Bardsley Corners.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "visitor",
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "hiking"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_028",
+    "display_name": "Joaquin Mallory",
+    "roles": [
+      "resident",
+      "staff",
+      "creator"
+    ],
+    "email": "joaquin.mallory28@example.com",
+    "joined": "2026-10-29",
+    "bio": "On the gorge trail most mornings.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "gardening",
+        "hiking"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_029",
+    "display_name": "Rafferty Mallory",
+    "roles": [
+      "resident"
+    ],
+    "email": "rafferty.mallory29@example.com",
+    "joined": "2026-02-10",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "25-34",
+      "household_stage": "multigenerational",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_030",
+    "display_name": "Rania Ashdown",
+    "roles": [
+      "resident",
+      "reporter"
+    ],
+    "email": "rania.ashdown30@example.com",
+    "joined": "2026-05-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_031",
+    "display_name": "Rhiannon Szabo",
+    "roles": [
+      "resident",
+      "reporter"
+    ],
+    "email": "rhiannon.szabo31@example.com",
+    "joined": "2026-01-27",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "seasonal",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_032",
+    "display_name": "Jovan Drummond",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "jovan.drummond32@example.com",
+    "joined": "2026-02-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "fitness",
+        "food",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "accessible_toilet",
+        "seating_available"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_033",
+    "display_name": "Lucinda Underhill",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "lucinda.underhill33@example.com",
+    "joined": "2026-01-18",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "25-34",
+      "household_stage": "single",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "food",
+        "hockey",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_034",
+    "display_name": "Clement Dalhousie",
+    "roles": [
+      "resident"
+    ],
+    "email": "clement.dalhousie34@example.com",
+    "joined": "2026-07-28",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [
+        "large_print"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_035",
+    "display_name": "Rohan Thibodeau",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "rohan.thibodeau35@example.com",
+    "joined": "2026-07-12",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "faith",
+        "hiking",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_036",
+    "display_name": "Rania Fothergill",
+    "roles": [
+      "resident",
+      "business_owner",
+      "organiser"
+    ],
+    "email": "rania.fothergill36@example.com",
+    "joined": "2026-06-17",
+    "bio": "Works downtown. New in town, say hi.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "young_family",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "seasonal",
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_037",
+    "display_name": "Simran Lennox",
+    "roles": [
+      "resident"
+    ],
+    "email": "simran.lennox37@example.com",
+    "joined": "2026-02-13",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [
+        "accessible_toilet",
+        "seating_available"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_038",
+    "display_name": "Eamon Hawthorne",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "eamon.hawthorne38@example.com",
+    "joined": "2026-04-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "55-64",
+      "household_stage": "family_teens",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "fitness",
+        "gardening",
+        "history"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_039",
+    "display_name": "Corinne Inglis",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "corinne.inglis39@example.com",
+    "joined": "2026-03-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_040",
+    "display_name": "Chiara Abernethy",
+    "roles": [
+      "resident"
+    ],
+    "email": "chiara.abernethy40@example.com",
+    "joined": "2026-04-18",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_041",
+    "display_name": "Yusuf Gauthier",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "yusuf.gauthier41@example.com",
+    "joined": "2026-01-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en",
+        "pa"
+      ],
+      "interests": [
+        "antiques",
+        "food",
+        "hockey",
+        "kids_activities"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_042",
+    "display_name": "Joaquin Zielinski",
+    "roles": [
+      "resident"
+    ],
+    "email": "joaquin.zielinski42@example.com",
+    "joined": "2026-02-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "fitness",
+        "gardening",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_043",
+    "display_name": "Yusuf Takahashi",
+    "roles": [
+      "resident"
+    ],
+    "email": "yusuf.takahashi43@example.com",
+    "joined": "2026-01-16",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "reading",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_044",
+    "display_name": "Cedric Sandhu",
+    "roles": [
+      "resident"
+    ],
+    "email": "cedric.sandhu44@example.com",
+    "joined": "2026-08-27",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "visitor",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "cycling",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_045",
+    "display_name": "Saoirse Baptiste",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "saoirse.baptiste45@example.com",
+    "joined": "2026-02-21",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "55-64",
+      "household_stage": "family_teens",
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "faith",
+        "food",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_046",
+    "display_name": "Beatrix Martens",
+    "roles": [
+      "resident"
+    ],
+    "email": "beatrix.martens46@example.com",
+    "joined": "2026-06-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "55-64",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "history",
+        "hockey",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_047",
+    "display_name": "Nadim Brannigan",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "nadim.brannigan47@example.com",
+    "joined": "2026-02-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hockey",
+        "pets",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_048",
+    "display_name": "Vesna Larkspur",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "vesna.larkspur48@example.com",
+    "joined": "2026-07-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "65-74",
+      "household_stage": "empty_nest",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_049",
+    "display_name": "Zara Szabo",
+    "roles": [
+      "resident"
+    ],
+    "email": "zara.szabo49@example.com",
+    "joined": "2026-02-03",
+    "bio": "Home with the kids this year. Born and raised here.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "no_car",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_050",
+    "display_name": "Stellan Strachan",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "stellan.strachan50@example.com",
+    "joined": "2026-01-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "local_politics",
+        "reading"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_051",
+    "display_name": "Thea Drummond",
+    "roles": [
+      "resident"
+    ],
+    "email": "thea.drummond51@example.com",
+    "joined": "2026-06-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "photography",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_052",
+    "display_name": "Kestrel Brannigan",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "kestrel.brannigan52@example.com",
+    "joined": "2026-02-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "food",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_053",
+    "display_name": "Camille Desrosiers",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "camille.desrosiers53@example.com",
+    "joined": "2026-03-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_054",
+    "display_name": "Bram Rennick",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "bram.rennick54@example.com",
+    "joined": "2026-06-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "35-44",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_055",
+    "display_name": "Rohan Grewal",
+    "roles": [
+      "resident"
+    ],
+    "email": "rohan.grewal55@example.com",
+    "joined": "2026-05-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [
+        "seating_available"
+      ],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_056",
+    "display_name": "Esme Lowther",
+    "roles": [
+      "resident",
+      "staff",
+      "creator"
+    ],
+    "email": "esme.lowther56@example.com",
+    "joined": "2026-03-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "65-74",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "curling",
+        "kids_activities",
+        "theatre"
+      ],
+      "gets_around": "no_car",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_057",
+    "display_name": "Hana Galbraith",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "hana.galbraith57@example.com",
+    "joined": "2026-01-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_058",
+    "display_name": "Ruairi Stavros",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "ruairi.stavros58@example.com",
+    "joined": "2026-02-23",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [
+        "seating_available",
+        "step_free"
+      ],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_059",
+    "display_name": "Abigail Ostrander",
+    "roles": [
+      "resident"
+    ],
+    "email": "abigail.ostrander59@example.com",
+    "joined": "2026-02-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "18-24",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "antiques",
+        "food",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_060",
+    "display_name": "Petra Blackwood",
+    "roles": [
+      "resident",
+      "creator"
+    ],
+    "email": "petra.blackwood60@example.com",
+    "joined": "2026-02-16",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "music",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_061",
+    "display_name": "Bennett Martens",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "bennett.martens61@example.com",
+    "joined": "2026-05-10",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "65-74",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "photography",
+        "reading"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_062",
+    "display_name": "Lucinda Blackwood",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "lucinda.blackwood62@example.com",
+    "joined": "2026-01-22",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "student",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_063",
+    "display_name": "Linnea Chaudhry",
+    "roles": [
+      "resident"
+    ],
+    "email": "linnea.chaudhry63@example.com",
+    "joined": "2026-10-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "fitness",
+        "food"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_064",
+    "display_name": "Bennett Voss",
+    "roles": [
+      "resident"
+    ],
+    "email": "bennett.voss64@example.com",
+    "joined": "2026-01-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "seasonal",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_065",
+    "display_name": "Una Redekop",
+    "roles": [
+      "resident"
+    ],
+    "email": "una.redekop65@example.com",
+    "joined": "2026-11-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_066",
+    "display_name": "Hartley Quarrie",
+    "roles": [
+      "resident"
+    ],
+    "email": "hartley.quarrie66@example.com",
+    "joined": "2026-02-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "65-74",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "cycling",
+        "food",
+        "gardening",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_067",
+    "display_name": "Alasdair Iacobelli",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "alasdair.iacobelli67@example.com",
+    "joined": "2026-01-27",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "under_1",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "prefers_walkable",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_068",
+    "display_name": "Bennett Stavros",
+    "roles": [
+      "resident"
+    ],
+    "email": "bennett.stavros68@example.com",
+    "joined": "2026-02-03",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "kids_activities"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_069",
+    "display_name": "Jovan Eberhardt",
+    "roles": [
+      "resident"
+    ],
+    "email": "jovan.eberhardt69@example.com",
+    "joined": "2026-04-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "family_teens",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "paddling",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_070",
+    "display_name": "Niamh Drummond",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "niamh.drummond70@example.com",
+    "joined": "2026-04-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_071",
+    "display_name": "Wynn Nakashima",
+    "roles": [
+      "resident"
+    ],
+    "email": "wynn.nakashima71@example.com",
+    "joined": "2026-11-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "kids_activities",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_072",
+    "display_name": "Lachlan Hargreave",
+    "roles": [
+      "resident"
+    ],
+    "email": "lachlan.hargreave72@example.com",
+    "joined": "2026-04-04",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_073",
+    "display_name": "Liesel Corrigan",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "liesel.corrigan73@example.com",
+    "joined": "2026-01-18",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "shared",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_074",
+    "display_name": "Elspeth Brodie",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "elspeth.brodie74@example.com",
+    "joined": "2026-04-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "photography",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_075",
+    "display_name": "Saoirse Ashdown",
+    "roles": [
+      "resident"
+    ],
+    "email": "saoirse.ashdown75@example.com",
+    "joined": "2026-01-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_076",
+    "display_name": "Seren Duquette",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "seren.duquette76@example.com",
+    "joined": "2026-02-04",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "faith",
+        "history",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_077",
+    "display_name": "Jessamy Jablonski",
+    "roles": [
+      "resident",
+      "organiser"
+    ],
+    "email": "jessamy.jablonski77@example.com",
+    "joined": "2026-06-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "18-24",
+      "household_stage": "shared",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "food",
+        "pets"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_078",
+    "display_name": "Lachlan Rautenberg",
+    "roles": [
+      "resident"
+    ],
+    "email": "lachlan.rautenberg78@example.com",
+    "joined": "2026-07-18",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": [
+        "dog",
+        "cat"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_079",
+    "display_name": "Lorcan Drummond",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "lorcan.drummond79@example.com",
+    "joined": "2026-06-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "antiques",
+        "crafts",
+        "paddling"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_080",
+    "display_name": "Mirela Castellano",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "mirela.castellano80@example.com",
+    "joined": "2026-06-22",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_081",
+    "display_name": "Bennett Nakashima",
+    "roles": [
+      "resident",
+      "reporter"
+    ],
+    "email": "bennett.nakashima81@example.com",
+    "joined": "2026-01-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "food",
+        "gardening"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_082",
+    "display_name": "Lucinda Eberhardt",
+    "roles": [
+      "resident"
+    ],
+    "email": "lucinda.eberhardt82@example.com",
+    "joined": "2026-02-15",
+    "bio": "Retired and finally have time for the garden. Hockey parent.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "crafts",
+        "hockey",
+        "paddling",
+        "reading",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_083",
+    "display_name": "Callum Nakashima",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "callum.nakashima83@example.com",
+    "joined": "2026-04-15",
+    "bio": "St. Andrew's choir.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "65-74",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "hiking",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_084",
+    "display_name": "Camille Culloden",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "camille.culloden84@example.com",
+    "joined": "2026-07-28",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "music",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [
+        "accessible_toilet",
+        "quiet_hours"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_085",
+    "display_name": "Abigail Inglis",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "abigail.inglis85@example.com",
+    "joined": "2026-05-18",
+    "bio": "On the gorge trail most mornings.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hiking",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_086",
+    "display_name": "Gurpreet Mavros",
+    "roles": [
+      "resident"
+    ],
+    "email": "gurpreet.mavros86@example.com",
+    "joined": "2026-07-06",
+    "bio": "Works from home, walks the dog at noon. Ask me about the old mill.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "history",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "quiet_hours",
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_087",
+    "display_name": "Laila Ostrander",
+    "roles": [
+      "resident"
+    ],
+    "email": "laila.ostrander87@example.com",
+    "joined": "2026-08-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [
+        "accessible_toilet",
+        "quiet_hours"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_088",
+    "display_name": "Solveig Whitlock",
+    "roles": [
+      "resident"
+    ],
+    "email": "solveig.whitlock88@example.com",
+    "joined": "2026-05-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "seasonal",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "reading",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_089",
+    "display_name": "Murdo Lowther",
+    "roles": [
+      "resident",
+      "reporter"
+    ],
+    "email": "murdo.lowther89@example.com",
+    "joined": "2026-03-11",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "18-24",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "cycling",
+        "hockey",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_090",
+    "display_name": "Felix Durrant",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "felix.durrant90@example.com",
+    "joined": "2026-04-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "music",
+        "photography"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_091",
+    "display_name": "Dorothea Brodie",
+    "roles": [
+      "resident"
+    ],
+    "email": "dorothea.brodie91@example.com",
+    "joined": "2026-02-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_092",
+    "display_name": "Kofi Hollingsworth",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "kofi.hollingsworth92@example.com",
+    "joined": "2026-01-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": null,
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "history",
+        "pets",
+        "theatre"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [
+        "accessible_toilet",
+        "seating_available"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_093",
+    "display_name": "Zara Schellenberg",
+    "roles": [
+      "resident",
+      "staff",
+      "creator"
+    ],
+    "email": "zara.schellenberg93@example.com",
+    "joined": "2026-08-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "rent",
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_094",
+    "display_name": "Beatrix Hawthorne",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "beatrix.hawthorne94@example.com",
+    "joined": "2026-05-24",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "55-64",
+      "household_stage": "shared",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_095",
+    "display_name": "Magnus Corrigan",
+    "roles": [
+      "resident"
+    ],
+    "email": "magnus.corrigan95@example.com",
+    "joined": "2026-02-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "music"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_096",
+    "display_name": "Carys Achterhof",
+    "roles": [
+      "resident",
+      "creator"
+    ],
+    "email": "carys.achterhof96@example.com",
+    "joined": "2026-06-25",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_097",
+    "display_name": "Ida Quarrie",
+    "roles": [
+      "resident"
+    ],
+    "email": "ida.quarrie97@example.com",
+    "joined": "2026-02-07",
+    "bio": "Works from home, walks the dog at noon. Born and raised here.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_098",
+    "display_name": "Kai Takahashi",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "kai.takahashi98@example.com",
+    "joined": "2026-04-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_099",
+    "display_name": "Stellan Lamoureux",
+    "roles": [
+      "resident",
+      "business_owner"
+    ],
+    "email": "stellan.lamoureux99@example.com",
+    "joined": "2026-01-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "25-34",
+      "household_stage": "young_family",
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "local_politics"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_100",
+    "display_name": "Valentin Eberhardt",
+    "roles": [
+      "resident"
+    ],
+    "email": "valentin.eberhardt100@example.com",
+    "joined": "2026-02-04",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "35-44",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "fitness",
+        "kids_activities"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_101",
+    "display_name": "Anika Grewal",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "anika.grewal101@example.com",
+    "joined": "2026-03-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "55-64",
+      "household_stage": "shared",
+      "pets": [
+        "other"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hiking",
+        "pets"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_102",
+    "display_name": "Perpetua Frobisher",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "perpetua.frobisher102@example.com",
+    "joined": "2026-02-13",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "fitness",
+        "music"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_103",
+    "display_name": "Mirela Mavros",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "mirela.mavros103@example.com",
+    "joined": "2026-07-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "other"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "food",
+        "gardening",
+        "music",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_104",
+    "display_name": "Kai Lamoureux",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "kai.lamoureux104@example.com",
+    "joined": "2026-01-26",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "cycling",
+        "history",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_105",
+    "display_name": "Liesel Halvorsen",
+    "roles": [
+      "resident"
+    ],
+    "email": "liesel.halvorsen105@example.com",
+    "joined": "2026-08-21",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "history",
+        "hockey",
+        "volunteering"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_106",
+    "display_name": "Magnus Fennimore",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "magnus.fennimore106@example.com",
+    "joined": "2026-03-05",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "65-74",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_107",
+    "display_name": "Eilidh Elmsley",
+    "roles": [
+      "resident"
+    ],
+    "email": "eilidh.elmsley107@example.com",
+    "joined": "2026-02-21",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "history",
+        "pets"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_108",
+    "display_name": "Eilidh Frobisher",
+    "roles": [
+      "resident"
+    ],
+    "email": "eilidh.frobisher108@example.com",
+    "joined": "2026-03-12",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "food",
+        "reading",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_109",
+    "display_name": "Cedric Jablonski",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "cedric.jablonski109@example.com",
+    "joined": "2026-02-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "25-34",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_110",
+    "display_name": "Vesna Gauthier",
+    "roles": [
+      "resident"
+    ],
+    "email": "vesna.gauthier110@example.com",
+    "joined": "2026-03-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": null,
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "food",
+        "reading",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_111",
+    "display_name": "Gemma Frobisher",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "gemma.frobisher111@example.com",
+    "joined": "2026-03-29",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "seasonal",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_112",
+    "display_name": "Ewan Gillespie",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "ewan.gillespie112@example.com",
+    "joined": "2026-05-31",
+    "bio": "Knits through every meeting.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "multigenerational",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "music"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_113",
+    "display_name": "Imogen Ruthven",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "imogen.ruthven113@example.com",
+    "joined": "2026-01-26",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en",
+        "pa"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_114",
+    "display_name": "Leif Hollingsworth",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "leif.hollingsworth114@example.com",
+    "joined": "2026-08-03",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "25-34",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [
+        "large_print"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_115",
+    "display_name": "Corinne Fairbairn",
+    "roles": [
+      "resident"
+    ],
+    "email": "corinne.fairbairn115@example.com",
+    "joined": "2026-03-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": "retired",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "curling",
+        "food",
+        "paddling",
+        "reading"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_116",
+    "display_name": "Adaeze Larkspur",
+    "roles": [
+      "resident",
+      "staff",
+      "organiser"
+    ],
+    "email": "adaeze.larkspur116@example.com",
+    "joined": "2026-02-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_117",
+    "display_name": "Imogen Yeoman",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "imogen.yeoman117@example.com",
+    "joined": "2026-02-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "65-74",
+      "household_stage": "couple",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "crafts",
+        "fitness",
+        "food",
+        "local_politics"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_118",
+    "display_name": "Nils Schellenberg",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "nils.schellenberg118@example.com",
+    "joined": "2026-11-10",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": null,
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "curling",
+        "local_politics",
+        "pets",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_119",
+    "display_name": "Maren Inglis",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "maren.inglis119@example.com",
+    "joined": "2026-05-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "75+",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_120",
+    "display_name": "Rook Gillespie",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "rook.gillespie120@example.com",
+    "joined": "2026-05-06",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "nearby",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_121",
+    "display_name": "Kai Eberhardt",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "kai.eberhardt121@example.com",
+    "joined": "2026-03-22",
+    "bio": "Library regular.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "music",
+        "reading"
+      ],
+      "gets_around": "drives",
+      "access_filters": [
+        "seating_available",
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_122",
+    "display_name": "Hollis Abernethy",
+    "roles": [
+      "resident"
+    ],
+    "email": "hollis.abernethy122@example.com",
+    "joined": "2026-01-11",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "food",
+        "pets"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_123",
+    "display_name": "Ansel Ashdown",
+    "roles": [
+      "resident"
+    ],
+    "email": "ansel.ashdown123@example.com",
+    "joined": "2026-02-16",
+    "bio": "Works from home, walks the dog at noon. Library regular.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "remote",
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "history",
+        "reading"
+      ],
+      "gets_around": "cycles",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_124",
+    "display_name": "Gurpreet Oduya",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "gurpreet.oduya124@example.com",
+    "joined": "2026-03-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hiking",
+        "theatre"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_125",
+    "display_name": "Cedric Wedderburn",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "cedric.wedderburn125@example.com",
+    "joined": "2026-10-16",
+    "bio": "Works downtown. Dog person.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "25-34",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "pets"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_126",
+    "display_name": "Vesna Schellenberg",
+    "roles": [
+      "resident"
+    ],
+    "email": "vesna.schellenberg126@example.com",
+    "joined": "2026-07-23",
+    "bio": "Commutes to Riverbend, home for the weekends. Will drive anywhere for a good butter tart.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "25-34",
+      "household_stage": null,
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "food",
+        "hiking"
+      ],
+      "gets_around": "prefers_walkable",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_127",
+    "display_name": "Felix Lennox",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "felix.lennox127@example.com",
+    "joined": "2026-07-22",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": null,
+      "interests": [
+        "local_politics",
+        "theatre"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_128",
+    "display_name": "Jessamy Brannigan",
+    "roles": [
+      "resident"
+    ],
+    "email": "jessamy.brannigan128@example.com",
+    "joined": "2026-11-13",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "history",
+        "kids_activities",
+        "photography"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_129",
+    "display_name": "Ines Zielinski",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "ines.zielinski129@example.com",
+    "joined": "2026-10-25",
+    "bio": "Works a few blocks from home. On the gorge trail most mornings.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "65-74",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "gardening",
+        "hiking",
+        "theatre",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_130",
+    "display_name": "Pascal Achterhof",
+    "roles": [
+      "resident"
+    ],
+    "email": "pascal.achterhof130@example.com",
+    "joined": "2026-01-15",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": null,
+      "household_stage": "young_family",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "hiking",
+        "history",
+        "hockey",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_131",
+    "display_name": "Brigid Inglis",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "brigid.inglis131@example.com",
+    "joined": "2026-01-13",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "gardening",
+        "theatre",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_132",
+    "display_name": "Amara Iacobelli",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "amara.iacobelli132@example.com",
+    "joined": "2026-07-31",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "20+",
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_133",
+    "display_name": "Perpetua Iacobelli",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "perpetua.iacobelli133@example.com",
+    "joined": "2026-02-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "25-34",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": null,
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_134",
+    "display_name": "Seren Hollingsworth",
+    "roles": [
+      "resident"
+    ],
+    "email": "seren.hollingsworth134@example.com",
+    "joined": "2026-01-25",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "45-54",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "hockey",
+        "paddling",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [
+        "seating_available",
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_135",
+    "display_name": "Delphine Castellano",
+    "roles": [
+      "resident"
+    ],
+    "email": "delphine.castellano135@example.com",
+    "joined": "2026-01-07",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "75+",
+      "household_stage": "empty_nest",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": null,
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "curling",
+        "food",
+        "pets",
+        "volunteering"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_136",
+    "display_name": "Ingrid Calloway",
+    "roles": [
+      "resident"
+    ],
+    "email": "ingrid.calloway136@example.com",
+    "joined": "2026-01-17",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "seasonal",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_137",
+    "display_name": "Vesna Rautenberg",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "vesna.rautenberg137@example.com",
+    "joined": "2026-01-14",
+    "bio": "Dog person.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "crafts",
+        "fitness",
+        "pets"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_138",
+    "display_name": "Zara Iacobelli",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "zara.iacobelli138@example.com",
+    "joined": "2026-03-24",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": [
+        "food",
+        "local_politics",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_139",
+    "display_name": "Mirela Culloden",
+    "roles": [
+      "resident"
+    ],
+    "email": "mirela.culloden139@example.com",
+    "joined": "2026-05-02",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "18-24",
+      "household_stage": "single",
+      "pets": null,
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_140",
+    "display_name": "Keira Wedderburn",
+    "roles": [
+      "resident"
+    ],
+    "email": "keira.wedderburn140@example.com",
+    "joined": "2026-02-01",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "remote",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_141",
+    "display_name": "Ivo Rautenberg",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "ivo.rautenberg141@example.com",
+    "joined": "2026-03-24",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": "45-54",
+      "household_stage": "family_teens",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": null,
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_142",
+    "display_name": "Delphine Laidlaw",
+    "roles": [
+      "resident",
+      "staff",
+      "organiser"
+    ],
+    "email": "delphine.laidlaw142@example.com",
+    "joined": "2026-04-30",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "rural",
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "cycling",
+        "hiking",
+        "pets"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_143",
+    "display_name": "Beatrix Frobisher",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "beatrix.frobisher143@example.com",
+    "joined": "2026-10-22",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "55-64",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_144",
+    "display_name": "Liesel Redekop",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "liesel.redekop144@example.com",
+    "joined": "2026-10-09",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": "45-54",
+      "household_stage": null,
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "faith",
+        "fitness",
+        "hiking"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "none",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_145",
+    "display_name": "Lorcan Klassen",
+    "roles": [
+      "resident"
+    ],
+    "email": "lorcan.klassen145@example.com",
+    "joined": "2026-08-31",
+    "bio": "Retired teacher. Dog person.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "65-74",
+      "household_stage": "single",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "retired",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "food",
+        "gardening",
+        "hiking",
+        "pets",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_146",
+    "display_name": "Aiden Stavros",
+    "roles": [
+      "resident"
+    ],
+    "email": "aiden.stavros146@example.com",
+    "joined": "2026-05-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "downtown",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "local_politics",
+        "paddling",
+        "photography"
+      ],
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_147",
+    "display_name": "Rook Baptiste",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "rook.baptiste147@example.com",
+    "joined": "2026-10-19",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "18-24",
+      "household_stage": "shared",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": "born_here",
+      "resident_type": "year_round",
+      "work_pattern": "student",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "cycling",
+        "music",
+        "volunteering"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_148",
+    "display_name": "Ruairi Inglis",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "ruairi.inglis148@example.com",
+    "joined": "2026-02-24",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "18-24",
+      "household_stage": null,
+      "pets": [
+        "dog"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "works_in_town",
+      "housing": "own",
+      "languages": null,
+      "interests": [
+        "gardening",
+        "kids_activities",
+        "local_politics",
+        "reading"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_149",
+    "display_name": "Seren Larkspur",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "seren.larkspur149@example.com",
+    "joined": "2026-02-23",
+    "bio": "Knits through every meeting.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": null,
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "20+",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "own",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "crafts",
+        "food"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "daily"
+    }
+  },
+  {
+    "id": "u_150",
+    "display_name": "Nils Achterhof",
+    "roles": [
+      "resident",
+      "staff"
+    ],
+    "email": "nils.achterhof150@example.com",
+    "joined": "2026-02-24",
+    "bio": "Canoe on the Bannock all summer.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "orchard-hill",
+      "age_band": "65-74",
+      "household_stage": "couple",
+      "pets": null,
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": null,
+      "housing": "rent",
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "antiques",
+        "local_politics",
+        "paddling"
+      ],
+      "gets_around": null,
+      "access_filters": [
+        "quiet_hours",
+        "step_free"
+      ],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_151",
+    "display_name": "Farah Achterhof",
+    "roles": [
+      "resident",
+      "organiser"
+    ],
+    "email": "farah.achterhof151@example.com",
+    "joined": "2026-01-14",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "bardsley-corners",
+      "age_band": "55-64",
+      "household_stage": null,
+      "pets": [
+        "cat"
+      ],
+      "years_in_town": "1-5",
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en",
+        "pa"
+      ],
+      "interests": [
+        "curling",
+        "gardening",
+        "hockey",
+        "pets"
+      ],
+      "gets_around": "prefers_walkable",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_152",
+    "display_name": "Corinne Delacroix",
+    "roles": [
+      "resident"
+    ],
+    "email": "corinne.delacroix152@example.com",
+    "joined": "2026-10-08",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "mill-flats",
+      "age_band": "35-44",
+      "household_stage": "young_family",
+      "pets": [
+        "none"
+      ],
+      "years_in_town": null,
+      "resident_type": "year_round",
+      "work_pattern": "at_home",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "curling",
+        "food"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "weekly"
+    }
+  },
+  {
+    "id": "u_153",
+    "display_name": "Chiara Szabo",
+    "roles": [
+      "resident"
+    ],
+    "email": "chiara.szabo153@example.com",
+    "joined": "2026-03-17",
+    "bio": "Commutes to Riverbend, home for the weekends. Dog person.",
+    "is_demo": false,
+    "account_status": "active",
+    "profile": {
+      "neighbourhood": "north-ward",
+      "age_band": "35-44",
+      "household_stage": "empty_nest",
+      "pets": null,
+      "years_in_town": "6-20",
+      "resident_type": "year_round",
+      "work_pattern": "commutes",
+      "housing": null,
+      "languages": [
+        "en"
+      ],
+      "interests": [
+        "gardening",
+        "local_politics",
+        "pets"
+      ],
+      "gets_around": "drives",
+      "access_filters": [],
+      "contact_preference": "email",
+      "digest": "off"
+    }
+  },
+  {
+    "id": "u_154",
+    "display_name": "Former resident",
+    "roles": [
+      "resident"
+    ],
+    "email": null,
+    "joined": "2026-02-10",
+    "bio": null,
+    "is_demo": false,
+    "account_status": "erased",
+    "profile": {
+      "neighbourhood": null,
+      "age_band": null,
+      "household_stage": null,
+      "pets": null,
+      "years_in_town": null,
+      "resident_type": null,
+      "work_pattern": null,
+      "housing": null,
+      "languages": null,
+      "interests": null,
+      "gets_around": null,
+      "access_filters": [],
+      "contact_preference": null,
+      "digest": null
+    }
+  }
+]

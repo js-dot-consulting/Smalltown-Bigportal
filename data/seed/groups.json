@@ -1,0 +1,251 @@
+[
+  {
+    "id": "fergie-horticultural",
+    "name": "Fergie Horticultural Society",
+    "description": "Gardening club that plants and keeps the downtown flower beds.",
+    "kind": "club",
+    "verification": "verified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Second Monday, 7 pm",
+      "venue": {
+        "kind": "place",
+        "id": "st-andrews-hall"
+      }
+    },
+    "website": "https://fergie-horticultural.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-minor-hockey",
+    "name": "Fergie Minor Hockey",
+    "description": "House league and rep hockey for kids aged 4 to 18.",
+    "kind": "sports",
+    "verification": "verified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Saturdays in season",
+      "venue": {
+        "kind": "place",
+        "id": "memorial-arena"
+      }
+    },
+    "website": "https://fergie-minor-hockey.example",
+    "external_url": null
+  },
+  {
+    "id": "bannock-trail-club",
+    "name": "Bannock River Trail Club",
+    "description": "Volunteers who build and maintain the river trails.",
+    "kind": "club",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Work parties most Saturdays, May to October",
+      "venue": {
+        "kind": "place",
+        "id": "river-trail-footbridge"
+      }
+    },
+    "website": "https://bannock-trail-club.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-pipe-band",
+    "name": "Fergie Pipe Band",
+    "description": "Community pipe band that leads every parade in town.",
+    "kind": "arts",
+    "verification": "verified",
+    "membership_policy": "request",
+    "meets": {
+      "schedule": "Mondays, 7 pm",
+      "venue": {
+        "kind": "business",
+        "id": "fergie-pipe-and-drum"
+      }
+    },
+    "website": "https://fergie-pipe-band.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-food-bank",
+    "name": "Fergie & Area Food Bank",
+    "description": "Food bank and Thursday community meal at the Veterans' Hall.",
+    "kind": "service",
+    "verification": "verified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Thursdays",
+      "venue": {
+        "kind": "business",
+        "id": "veterans-hall"
+      }
+    },
+    "website": "https://fergie-food-bank.example",
+    "external_url": null
+  },
+  {
+    "id": "seniors-coffee",
+    "name": "Seniors' Coffee Club",
+    "description": "Tuesday-morning coffee and conversation at the library.",
+    "kind": "club",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Tuesdays, 10 am",
+      "venue": {
+        "kind": "business",
+        "id": "fergie-public-library"
+      }
+    },
+    "website": "https://seniors-coffee.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-community-fb",
+    "name": "Fergie Community Board (Facebook group)",
+    "description": "The town's busiest online group today. Link to it, don't replace it.",
+    "kind": "online",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": null,
+    "website": null,
+    "external_url": "https://facebook.example/groups/fergie-community"
+  },
+  {
+    "id": "fergie-lions",
+    "name": "Fergie Lions Club",
+    "description": "Service club behind the fall fair, the pancake breakfast and eye-glass drives.",
+    "kind": "service",
+    "verification": "pending",
+    "membership_policy": "request",
+    "meets": {
+      "schedule": "First and third Wednesday",
+      "venue": {
+        "kind": "business",
+        "id": "veterans-hall"
+      }
+    },
+    "website": "https://fergie-lions.example",
+    "external_url": null
+  },
+  {
+    "id": "st-andrews",
+    "name": "St. Andrew's Presbyterian Church",
+    "description": "Downtown church with a choir, a youth group and a busy hall.",
+    "kind": "faith",
+    "verification": "verified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Sundays, 10:30 am",
+      "venue": {
+        "kind": "place",
+        "id": "st-andrews-hall"
+      }
+    },
+    "website": "https://st-andrews.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-heritage",
+    "name": "Fergie Heritage Society",
+    "description": "Saving old buildings, one plaque and walking tour at a time.",
+    "kind": "heritage",
+    "verification": "pending",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Last Sunday, 2 pm",
+      "venue": {
+        "kind": "business",
+        "id": "hillcrest-manor"
+      }
+    },
+    "website": "https://fergie-heritage.example",
+    "external_url": null
+  },
+  {
+    "id": "mill-flats-neighbours",
+    "name": "Mill Flats Neighbours",
+    "description": "Neighbourhood association for Mill Flats and the river streets.",
+    "kind": "club",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Quarterly",
+      "venue": {
+        "kind": "business",
+        "id": "bannock-brewing"
+      }
+    },
+    "website": "https://mill-flats-neighbours.example",
+    "external_url": null
+  },
+  {
+    "id": "orchard-hill-parents",
+    "name": "Orchard Hill Parents",
+    "description": "Playdates, hand-me-downs and the outdoor movie night.",
+    "kind": "parents",
+    "verification": "unverified",
+    "membership_policy": "request",
+    "meets": {
+      "schedule": "Playground, Saturday mornings",
+      "venue": {
+        "kind": "place",
+        "id": "orchard-hill-park"
+      }
+    },
+    "website": "https://orchard-hill-parents.example",
+    "external_url": null
+  },
+  {
+    "id": "newcomers-to-fergie",
+    "name": "Newcomers to Fergie",
+    "description": "New in town? Monthly welcome night and a lot of 'who does X?' answers.",
+    "kind": "club",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "First Wednesday",
+      "venue": {
+        "kind": "business",
+        "id": "fergie-public-library"
+      }
+    },
+    "website": "https://newcomers-to-fergie.example",
+    "external_url": null
+  },
+  {
+    "id": "bannock-paddlers",
+    "name": "Bannock Paddlers",
+    "description": "Canoe and kayak club. Evening paddles from the Outfitters dock.",
+    "kind": "sports",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Tuesday evenings, May to September",
+      "venue": {
+        "kind": "business",
+        "id": "bannock-outfitters"
+      }
+    },
+    "website": "https://bannock-paddlers.example",
+    "external_url": null
+  },
+  {
+    "id": "fergie-run-club",
+    "name": "Fergie Run Club",
+    "description": "Saturday 5K from Market Square, all speeds.",
+    "kind": "sports",
+    "verification": "unverified",
+    "membership_policy": "open",
+    "meets": {
+      "schedule": "Saturdays, 8 am",
+      "venue": {
+        "kind": "place",
+        "id": "market-square"
+      }
+    },
+    "website": "https://fergie-run-club.example",
+    "external_url": null
+  }
+]

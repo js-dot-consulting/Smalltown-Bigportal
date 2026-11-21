@@ -1,0 +1,5602 @@
+[
+  {
+    "user_id": "u_004",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-05-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-07-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-01-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_053",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-06-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_066",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-02-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_069",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-06-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-09-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_139",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-05-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_darnell",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-06-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-02-03",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-05-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-09-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "bannock-bakehouse",
+    "created": "2026-02-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-06-18",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_050",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_052",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-03-12",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_065",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-07-13",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-09-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-02-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_120",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-07-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "business",
+    "target_id": "bannock-brewing",
+    "created": "2026-03-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_002",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-05-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_051",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-07-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-03-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_067",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-03-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-10-08",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_133",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-02-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_140",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-02-21",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "bannock-bulk",
+    "created": "2026-02-21",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "bannock-gorge-campground",
+    "created": "2026-07-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_137",
+    "target_kind": "business",
+    "target_id": "bannock-gorge-campground",
+    "created": "2026-04-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "bannock-gorge-campground",
+    "created": "2026-10-31",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "bannock-gorge-campground",
+    "created": "2026-08-31",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_018",
+    "target_kind": "business",
+    "target_id": "bannock-outfitters",
+    "created": "2026-03-18",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "bannock-outfitters",
+    "created": "2026-08-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "bannock-outfitters",
+    "created": "2026-06-28",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_gus",
+    "target_kind": "business",
+    "target_id": "bannock-outfitters",
+    "created": "2026-06-11",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "business",
+    "target_id": "bannock-print",
+    "created": "2026-02-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "bannock-print",
+    "created": "2026-08-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "business",
+    "target_id": "bannock-print",
+    "created": "2026-03-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "bannock-print",
+    "created": "2026-08-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_016",
+    "target_kind": "business",
+    "target_id": "bannock-river-dental",
+    "created": "2026-10-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "bannock-river-dental",
+    "created": "2026-08-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "business",
+    "target_id": "bannock-river-dental",
+    "created": "2026-03-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-05-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-07-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-10-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-06-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_041",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-03-22",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_102",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-04-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "bannock-valley-accounting",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "bannock-valley-vet",
+    "created": "2026-06-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_127",
+    "target_kind": "business",
+    "target_id": "bannock-valley-vet",
+    "created": "2026-10-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_027",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-03-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-08-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-08-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_088",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-07-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_138",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-05-29",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_fatima",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-05-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_harriet",
+    "target_kind": "business",
+    "target_id": "bardsley-antiques",
+    "created": "2026-08-30",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "bardsley-general-store",
+    "created": "2026-09-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "business",
+    "target_id": "bardsley-general-store",
+    "created": "2026-06-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "bardsley-general-store",
+    "created": "2026-10-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "bardsley-general-store",
+    "created": "2026-03-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_hamish",
+    "target_kind": "business",
+    "target_id": "bardsley-general-store",
+    "created": "2026-03-28",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "bardsley-small-engine",
+    "created": "2026-04-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "bardsley-small-engine",
+    "created": "2026-10-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "bardsley-small-engine",
+    "created": "2026-03-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "bardsley-small-engine",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_088",
+    "target_kind": "business",
+    "target_id": "brass-lantern",
+    "created": "2026-09-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "brass-lantern",
+    "created": "2026-05-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "brass-lantern",
+    "created": "2026-01-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "brass-lantern",
+    "created": "2026-09-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_076",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-02-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-08-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_117",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-05-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_138",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-06-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "brubacher-cheese",
+    "created": "2026-05-13",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_004",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-01-09",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-06-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-04-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-02-15",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-03-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-05-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-09-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-05-30",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_061",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-06-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-07-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-04-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-07-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-01-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_134",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-05-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-04-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_hamish",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-02-26",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "chapter-and-verse",
+    "created": "2026-10-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "business",
+    "target_id": "clear-sight-optometry",
+    "created": "2026-05-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "clear-sight-optometry",
+    "created": "2026-05-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_112",
+    "target_kind": "business",
+    "target_id": "clear-sight-optometry",
+    "created": "2026-06-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "clear-sight-optometry",
+    "created": "2026-11-04",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "clear-sight-optometry",
+    "created": "2026-10-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-06-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-04-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_066",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-05-08",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_083",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-07-21",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_099",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-05-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_124",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-03-24",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_131",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-01-17",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-02-24",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "clearview-windows",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "business",
+    "target_id": "country-road-diner",
+    "created": "2026-03-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "country-road-diner",
+    "created": "2026-03-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "country-road-diner",
+    "created": "2026-09-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "country-road-diner",
+    "created": "2026-04-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "business",
+    "target_id": "country-road-diner",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_016",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-04-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-01-18",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-03-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_122",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-02-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "business",
+    "target_id": "fergie-computer-help",
+    "created": "2026-06-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "fergie-credit-union",
+    "created": "2026-03-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_133",
+    "target_kind": "business",
+    "target_id": "fergie-credit-union",
+    "created": "2026-04-17",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_094",
+    "target_kind": "business",
+    "target_id": "fergie-curling-club",
+    "created": "2026-08-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_122",
+    "target_kind": "business",
+    "target_id": "fergie-curling-club",
+    "created": "2026-05-09",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "fergie-curling-club",
+    "created": "2026-09-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "fergie-curling-club",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_097",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-02-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-06-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_121",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-06-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_138",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-05-12",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-09-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "fergie-dance-academy",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "fergie-family-health",
+    "created": "2026-07-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "fergie-family-health",
+    "created": "2026-03-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "fergie-family-health",
+    "created": "2026-05-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_arjun",
+    "target_kind": "business",
+    "target_id": "fergie-family-health",
+    "created": "2026-07-28",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_012",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-08-04",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_022",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-04-04",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-07-09",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_051",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-08-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_072",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-05-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-07-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-09-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-06-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_139",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-07-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-04-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-10-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "fergie-farmers-market",
+    "created": "2026-04-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-05-27",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-03-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-06-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_049",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-03-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-10-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-06-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-09-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-05-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "business",
+    "target_id": "fergie-fish-and-chips",
+    "created": "2026-09-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_002",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-09-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-05-30",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-06-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-05-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_081",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-04-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-10-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_097",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-03-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "business",
+    "target_id": "fergie-fitness-coop",
+    "created": "2026-06-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_030",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-06-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-08-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-03-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_050",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_094",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-08-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_106",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-05-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-09-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_isaac",
+    "target_kind": "business",
+    "target_id": "fergie-fresh-market",
+    "created": "2026-07-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-05-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-04-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-05-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_090",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-05-31",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_112",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-06-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "fergie-pipe-and-drum",
+    "created": "2026-08-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-05-08",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-05-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-03-17",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-04-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_096",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-09-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-05-25",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-03-26",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "fergie-public-library",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "fergie-roofing",
+    "created": "2026-07-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_022",
+    "target_kind": "business",
+    "target_id": "fergie-roofing",
+    "created": "2026-04-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_034",
+    "target_kind": "business",
+    "target_id": "fergie-roofing",
+    "created": "2026-09-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "fergie-roofing",
+    "created": "2026-07-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_harriet",
+    "target_kind": "business",
+    "target_id": "fergie-roofing",
+    "created": "2026-07-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "fergie-taxi",
+    "created": "2026-06-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "fergie-taxi",
+    "created": "2026-05-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "business",
+    "target_id": "fergie-taxi",
+    "created": "2026-10-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_027",
+    "target_kind": "business",
+    "target_id": "fergie-tree-care",
+    "created": "2026-03-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "business",
+    "target_id": "fergie-tree-care",
+    "created": "2026-06-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "business",
+    "target_id": "fergie-tree-care",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_099",
+    "target_kind": "business",
+    "target_id": "fergie-tree-care",
+    "created": "2026-03-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "fergie-tree-care",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "gift-loft",
+    "created": "2026-02-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "gift-loft",
+    "created": "2026-09-27",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_083",
+    "target_kind": "business",
+    "target_id": "gift-loft",
+    "created": "2026-05-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "gift-loft",
+    "created": "2026-03-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "gift-loft",
+    "created": "2026-03-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_017",
+    "target_kind": "business",
+    "target_id": "glow-esthetics",
+    "created": "2026-11-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "business",
+    "target_id": "glow-esthetics",
+    "created": "2026-04-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_037",
+    "target_kind": "business",
+    "target_id": "glow-esthetics",
+    "created": "2026-03-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "glow-esthetics",
+    "created": "2026-06-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "glow-esthetics",
+    "created": "2026-06-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_021",
+    "target_kind": "business",
+    "target_id": "gorge-gallery",
+    "created": "2026-06-09",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_054",
+    "target_kind": "business",
+    "target_id": "gorge-gallery",
+    "created": "2026-08-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "gorge-gallery",
+    "created": "2026-05-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_090",
+    "target_kind": "business",
+    "target_id": "gorge-gallery",
+    "created": "2026-04-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_099",
+    "target_kind": "business",
+    "target_id": "gorge-gallery",
+    "created": "2026-04-03",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "gorge-view-bnb",
+    "created": "2026-07-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_110",
+    "target_kind": "business",
+    "target_id": "gorge-view-bnb",
+    "created": "2026-04-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_016",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-02-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-03-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_049",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-06-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-10-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_139",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-08-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_148",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-04-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-05-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "greenway-landscaping",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_030",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-05-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_075",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-02-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-05-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-03-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "handy-hands",
+    "created": "2026-11-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-02-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-10-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_012",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-06-11",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-02-16",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_017",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-07-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-05-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_049",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-03-31",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_056",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-05-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-07-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-09-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_129",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-01-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_elias",
+    "target_kind": "business",
+    "target_id": "happy-tails-pet-supply",
+    "created": "2026-07-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "hartley-plumbing",
+    "created": "2026-04-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "hartley-plumbing",
+    "created": "2026-09-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "heritage-insurance",
+    "created": "2026-09-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "heritage-insurance",
+    "created": "2026-04-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_fatima",
+    "target_kind": "business",
+    "target_id": "heritage-insurance",
+    "created": "2026-05-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "heritage-insurance",
+    "created": "2026-07-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "heritage-insurance",
+    "created": "2026-09-29",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_048",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-11-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-05-02",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-11-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_112",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-07-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_123",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-04-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_arjun",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-05-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-10-31",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "highland-grind",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "hillcrest-manor",
+    "created": "2026-04-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_041",
+    "target_kind": "business",
+    "target_id": "hillcrest-manor",
+    "created": "2026-03-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "hillcrest-manor",
+    "created": "2026-04-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_054",
+    "target_kind": "business",
+    "target_id": "hillcrest-manor",
+    "created": "2026-10-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "hillcrest-manor",
+    "created": "2026-08-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_023",
+    "target_kind": "business",
+    "target_id": "hollow-tree-honey",
+    "created": "2026-06-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "hollow-tree-honey",
+    "created": "2026-06-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_033",
+    "target_kind": "business",
+    "target_id": "hollow-tree-honey",
+    "created": "2026-06-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "kettleby-painting",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "business",
+    "target_id": "kettleby-painting",
+    "created": "2026-04-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-01-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-04-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_040",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-08-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_045",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-02-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_103",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-10-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "kids-corner-child-care",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-07-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-05-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_041",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-04-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_043",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-04-18",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-08-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_052",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-03-11",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-07-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-05-12",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-06-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "business",
+    "target_id": "kirk-street-noodle",
+    "created": "2026-03-18",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "business",
+    "target_id": "kowalski-auto",
+    "created": "2026-04-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_041",
+    "target_kind": "business",
+    "target_id": "limestone-masonry",
+    "created": "2026-03-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "limestone-masonry",
+    "created": "2026-07-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "limestone-masonry",
+    "created": "2026-03-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "limestone-masonry",
+    "created": "2026-04-27",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_lorna",
+    "target_kind": "business",
+    "target_id": "limestone-masonry",
+    "created": "2026-11-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_023",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-03-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-09-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_070",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-06-13",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-05-31",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "lindqvist-berry-farm",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "lucky-dragon",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_012",
+    "target_kind": "business",
+    "target_id": "lucky-dragon",
+    "created": "2026-05-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "lucky-dragon",
+    "created": "2026-03-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "lucky-dragon",
+    "created": "2026-05-09",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "main-street-sweets",
+    "created": "2026-11-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "main-street-sweets",
+    "created": "2026-02-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_fatima",
+    "target_kind": "business",
+    "target_id": "main-street-sweets",
+    "created": "2026-06-30",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "maple-lane-farm-stay",
+    "created": "2026-09-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "maple-lane-farm-stay",
+    "created": "2026-02-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "maple-lane-farm-stay",
+    "created": "2026-09-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-09-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_037",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-05-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-03-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-07-03",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_097",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-02-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_123",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-03-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_124",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-03-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "business",
+    "target_id": "martin-family-maple",
+    "created": "2026-04-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "mcallister-shaw",
+    "created": "2026-07-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_121",
+    "target_kind": "business",
+    "target_id": "mcallister-shaw",
+    "created": "2026-05-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "mcallister-shaw",
+    "created": "2026-04-03",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-06-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-03-27",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_022",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-01-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-02-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-08-24",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-08-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_088",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-08-11",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-03-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_102",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-03-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-04-29",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-07-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_teodora",
+    "target_kind": "business",
+    "target_id": "mill-flats-hardware",
+    "created": "2026-02-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_021",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-03-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-05-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_067",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-02-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-04-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-06-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_110",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-04-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_132",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-11-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "oakwright-furniture",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-10-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-06-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-10-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_058",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-03-19",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_067",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-04-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_108",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-06-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-04-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-02-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_colleen",
+    "target_kind": "business",
+    "target_id": "old-mill-pottery",
+    "created": "2026-06-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-05-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-08-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_069",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-08-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "old-stone-mill",
+    "created": "2026-04-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "orchard-hill-chiro",
+    "created": "2026-03-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "orchard-hill-chiro",
+    "created": "2026-02-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "business",
+    "target_id": "orchard-hill-chiro",
+    "created": "2026-10-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_123",
+    "target_kind": "business",
+    "target_id": "orchard-hill-chiro",
+    "created": "2026-03-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "orchard-hill-chiro",
+    "created": "2026-04-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-09-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_038",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-04-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-03-16",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-02-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_063",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-11-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-03-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_100",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-03-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-03-01",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_darnell",
+    "target_kind": "business",
+    "target_id": "patchwork-hollow",
+    "created": "2026-04-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-04-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-09-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-02-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_099",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-02-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-04-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-09-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_138",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-05-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-03-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-08-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-06-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_owen",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-11-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "pizza-corners",
+    "created": "2026-11-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_076",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-03-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_079",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-06-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-11-11",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-05-16",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "polished-nail-bar",
+    "created": "2026-10-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-06-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-01-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-05-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-03-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-06-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-08-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_lorna",
+    "target_kind": "business",
+    "target_id": "pressed-apple-cidery",
+    "created": "2026-10-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_023",
+    "target_kind": "business",
+    "target_id": "punjab-kitchen",
+    "created": "2026-03-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_038",
+    "target_kind": "business",
+    "target_id": "punjab-kitchen",
+    "created": "2026-05-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_117",
+    "target_kind": "business",
+    "target_id": "punjab-kitchen",
+    "created": "2026-03-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_gus",
+    "target_kind": "business",
+    "target_id": "punjab-kitchen",
+    "created": "2026-07-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-08-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-08-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-03-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_088",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-07-02",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-04-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "quiet-pines-massage",
+    "created": "2026-10-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_017",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-08-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_027",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-05-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_056",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-07-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_057",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-02-28",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-07-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-09-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-03-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "riverbank-tea-room",
+    "created": "2026-05-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "riverside-pharmacy",
+    "created": "2026-05-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-06-08",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_025",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-05-13",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-10-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_056",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-07-07",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_085",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-07-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_092",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-04-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_099",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-03-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-03-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_127",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-11-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_gus",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-09-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_lorna",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-09-27",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "riverside-players",
+    "created": "2026-11-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "sauder-kennels",
+    "created": "2026-11-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_075",
+    "target_kind": "business",
+    "target_id": "sauder-kennels",
+    "created": "2026-02-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "sauder-kennels",
+    "created": "2026-04-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "sauder-kennels",
+    "created": "2026-01-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "second-helpings-thrift",
+    "created": "2026-09-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "second-helpings-thrift",
+    "created": "2026-11-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "business",
+    "target_id": "second-helpings-thrift",
+    "created": "2026-03-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "second-helpings-thrift",
+    "created": "2026-04-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-11-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_016",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-11-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-09-07",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_048",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-09-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-09-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-05-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-11-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "sharp-and-co",
+    "created": "2026-01-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "spark-electric",
+    "created": "2026-05-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_050",
+    "target_kind": "business",
+    "target_id": "spark-electric",
+    "created": "2026-04-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_123",
+    "target_kind": "business",
+    "target_id": "spark-electric",
+    "created": "2026-05-11",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "spark-electric",
+    "created": "2026-09-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-08-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-05-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_063",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-03-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-03-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-09-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_lorna",
+    "target_kind": "business",
+    "target_id": "station-street-shawarma",
+    "created": "2026-08-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_028",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-09-28",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_092",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_105",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-11-04",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "stone-town-inn",
+    "created": "2026-10-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-11-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_008",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-04-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_012",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-06-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-09-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-08-02",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-06-09",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_063",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-11-17",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "stone-town-realty",
+    "created": "2026-04-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_085",
+    "target_kind": "business",
+    "target_id": "stonebridge-physio",
+    "created": "2026-05-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_135",
+    "target_kind": "business",
+    "target_id": "stonebridge-physio",
+    "created": "2026-02-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_mateo",
+    "target_kind": "business",
+    "target_id": "stonebridge-physio",
+    "created": "2026-11-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-05-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_044",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-09-03",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-04-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-02-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-11-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-04-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_119",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-09-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-05-22",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "sugarbush-pancake-house",
+    "created": "2026-08-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-05-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_020",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-07-31",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-03-26",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-04-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-02-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-05-02",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_isaac",
+    "target_kind": "business",
+    "target_id": "sunny-acres",
+    "created": "2026-08-31",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-06-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-07-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_040",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-06-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_044",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-07-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-08-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_108",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-03-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-03-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-04-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_hamish",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-03-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "business",
+    "target_id": "swan-and-quill",
+    "created": "2026-09-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-05-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_025",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-02-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-08-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_103",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-09-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_127",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-07-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "tangles-hair",
+    "created": "2026-03-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_023",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-04-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_034",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-10-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-07-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_038",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-05-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_055",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-07-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-04-13",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-10-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_122",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "tartan-and-thread",
+    "created": "2026-04-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-04-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-06-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-09-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_124",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-06-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-02-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "the-toy-chest",
+    "created": "2026-08-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_028",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-11-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_040",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-07-22",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_065",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_083",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-08-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-05-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-04-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-09-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_134",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-02-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-02-03",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_hamish",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-03-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "thistle-and-bloom",
+    "created": "2026-08-03",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-02-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-02-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-06-27",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_026",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-05-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_034",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-10-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-09-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-07-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-04-10",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_051",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-07-29",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-05-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-09-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-08-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-04-01",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-10-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-06-02",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-05-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_hamish",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-05-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-08-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "business",
+    "target_id": "thistle-and-thorn",
+    "created": "2026-11-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "business",
+    "target_id": "township-feed-and-seed",
+    "created": "2026-05-03",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "business",
+    "target_id": "township-septic",
+    "created": "2026-09-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_110",
+    "target_kind": "business",
+    "target_id": "township-septic",
+    "created": "2026-06-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "business",
+    "target_id": "township-septic",
+    "created": "2026-04-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "business",
+    "target_id": "township-septic",
+    "created": "2026-04-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_josie",
+    "target_kind": "business",
+    "target_id": "township-septic",
+    "created": "2026-09-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "two-rivers-hvac",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "business",
+    "target_id": "two-rivers-hvac",
+    "created": "2026-03-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_079",
+    "target_kind": "business",
+    "target_id": "two-rivers-hvac",
+    "created": "2026-10-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "business",
+    "target_id": "two-rivers-hvac",
+    "created": "2026-02-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_027",
+    "target_kind": "business",
+    "target_id": "veterans-hall",
+    "created": "2026-05-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_072",
+    "target_kind": "business",
+    "target_id": "veterans-hall",
+    "created": "2026-06-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "business",
+    "target_id": "veterans-hall",
+    "created": "2026-04-27",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "business",
+    "target_id": "wiebe-family-beef",
+    "created": "2026-09-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "wiebe-family-beef",
+    "created": "2026-07-28",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "target_kind": "business",
+    "target_id": "wiebe-family-beef",
+    "created": "2026-02-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "willow-counselling",
+    "created": "2026-10-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_091",
+    "target_kind": "business",
+    "target_id": "willow-counselling",
+    "created": "2026-02-17",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "business",
+    "target_id": "willow-counselling",
+    "created": "2026-05-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "business",
+    "target_id": "willow-counselling",
+    "created": "2026-09-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_wren",
+    "target_kind": "business",
+    "target_id": "willow-counselling",
+    "created": "2026-04-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_008",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-07-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-01-30",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-07-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-06-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_100",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-03-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "business",
+    "target_id": "wool-and-wheel",
+    "created": "2026-03-17",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_002",
+    "target_kind": "creator",
+    "target_id": "cr_amaya",
+    "created": "2026-09-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "creator",
+    "target_id": "cr_baxter",
+    "created": "2026-03-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_131",
+    "target_kind": "creator",
+    "target_id": "cr_baxter",
+    "created": "2026-02-03",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_134",
+    "target_kind": "creator",
+    "target_id": "cr_baxter",
+    "created": "2026-04-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_016",
+    "target_kind": "creator",
+    "target_id": "cr_ellery",
+    "created": "2026-10-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "creator",
+    "target_id": "cr_ellery",
+    "created": "2026-03-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "creator",
+    "target_id": "cr_ellery",
+    "created": "2026-10-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "creator",
+    "target_id": "cr_ellery",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_024",
+    "target_kind": "creator",
+    "target_id": "cr_ferro",
+    "created": "2026-04-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "creator",
+    "target_id": "cr_ferro",
+    "created": "2026-06-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "creator",
+    "target_id": "cr_ferro",
+    "created": "2026-06-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "creator",
+    "target_id": "cr_ferro",
+    "created": "2026-09-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_028",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-11-04",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_074",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-06-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-05-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-08-27",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-11-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-03-19",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_darnell",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-04-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "creator",
+    "target_id": "cr_hesketh",
+    "created": "2026-10-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "creator",
+    "target_id": "cr_ines",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_106",
+    "target_kind": "creator",
+    "target_id": "cr_ines",
+    "created": "2026-05-26",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "creator",
+    "target_id": "cr_ines",
+    "created": "2026-08-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "creator",
+    "target_id": "cr_lindgren",
+    "created": "2026-03-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_096",
+    "target_kind": "creator",
+    "target_id": "cr_lindgren",
+    "created": "2026-08-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "creator",
+    "target_id": "cr_lindgren",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_145",
+    "target_kind": "creator",
+    "target_id": "cr_lindgren",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_067",
+    "target_kind": "creator",
+    "target_id": "cr_lucia",
+    "created": "2026-05-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_087",
+    "target_kind": "creator",
+    "target_id": "cr_lucia",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_066",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-03-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_070",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-06-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-08-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_096",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-08-21",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_122",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-02-03",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "creator",
+    "target_id": "cr_maeve",
+    "created": "2026-10-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_041",
+    "target_kind": "creator",
+    "target_id": "cr_mosaic",
+    "created": "2026-02-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "creator",
+    "target_id": "cr_mosaic",
+    "created": "2026-01-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_094",
+    "target_kind": "creator",
+    "target_id": "cr_mosaic",
+    "created": "2026-05-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_070",
+    "target_kind": "creator",
+    "target_id": "cr_noor",
+    "created": "2026-05-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "creator",
+    "target_id": "cr_noor",
+    "created": "2026-07-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "creator",
+    "target_id": "cr_noor",
+    "created": "2026-02-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_colleen",
+    "target_kind": "creator",
+    "target_id": "cr_noor",
+    "created": "2026-05-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_044",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-10-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-10-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_089",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-05-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_101",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-05-02",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-05-10",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "creator",
+    "target_id": "cr_odile",
+    "created": "2026-05-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "creator",
+    "target_id": "cr_patchwork",
+    "created": "2026-07-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "creator",
+    "target_id": "cr_patchwork",
+    "created": "2026-03-30",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "creator",
+    "target_id": "cr_patchwork",
+    "created": "2026-02-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "creator",
+    "target_id": "cr_patchwork",
+    "created": "2026-11-02",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_128",
+    "target_kind": "creator",
+    "target_id": "cr_patchwork",
+    "created": "2026-11-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "creator",
+    "target_id": "cr_rafa",
+    "created": "2026-09-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "creator",
+    "target_id": "cr_rafa",
+    "created": "2026-04-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_131",
+    "target_kind": "creator",
+    "target_id": "cr_rafa",
+    "created": "2026-02-05",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "target_kind": "creator",
+    "target_id": "cr_rafa",
+    "created": "2026-04-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "creator",
+    "target_id": "cr_takoda",
+    "created": "2026-06-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_129",
+    "target_kind": "creator",
+    "target_id": "cr_takoda",
+    "created": "2026-11-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_134",
+    "target_kind": "creator",
+    "target_id": "cr_takoda",
+    "created": "2026-05-06",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "creator",
+    "target_id": "cr_takoda",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_isaac",
+    "target_kind": "creator",
+    "target_id": "cr_takoda",
+    "created": "2026-07-26",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "creator",
+    "target_id": "cr_tavish",
+    "created": "2026-09-28",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "creator",
+    "target_id": "cr_tavish",
+    "created": "2026-11-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "creator",
+    "target_id": "cr_tavish",
+    "created": "2026-04-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_120",
+    "target_kind": "creator",
+    "target_id": "cr_tavish",
+    "created": "2026-05-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_020",
+    "target_kind": "creator",
+    "target_id": "cr_tobias",
+    "created": "2026-08-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "creator",
+    "target_id": "cr_tobias",
+    "created": "2026-10-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "creator",
+    "target_id": "cr_tobias",
+    "created": "2026-04-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "creator",
+    "target_id": "cr_tobias",
+    "created": "2026-11-05",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "creator",
+    "target_id": "cr_wendell",
+    "created": "2026-09-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_106",
+    "target_kind": "creator",
+    "target_id": "cr_wendell",
+    "created": "2026-04-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_139",
+    "target_kind": "creator",
+    "target_id": "cr_wendell",
+    "created": "2026-07-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "creator",
+    "target_id": "cr_wendell",
+    "created": "2026-08-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_sofia",
+    "target_kind": "creator",
+    "target_id": "cr_wendell",
+    "created": "2026-05-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-06-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-03-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_021",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-03-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_034",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-08-18",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_102",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-06-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-02-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_135",
+    "target_kind": "creator",
+    "target_id": "cr_wynne",
+    "created": "2026-04-14",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "creator",
+    "target_id": "cr_youth",
+    "created": "2026-05-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_082",
+    "target_kind": "creator",
+    "target_id": "cr_youth",
+    "created": "2026-03-24",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "creator",
+    "target_id": "cr_youth",
+    "created": "2026-09-06",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_144",
+    "target_kind": "creator",
+    "target_id": "cr_youth",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "group",
+    "target_id": "bannock-paddlers",
+    "created": "2026-05-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "group",
+    "target_id": "bannock-paddlers",
+    "created": "2026-03-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_080",
+    "target_kind": "group",
+    "target_id": "bannock-paddlers",
+    "created": "2026-07-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "group",
+    "target_id": "bannock-paddlers",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_049",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-05-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-05-10",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-08-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_121",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-04-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_gus",
+    "target_kind": "group",
+    "target_id": "bannock-trail-club",
+    "created": "2026-06-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "group",
+    "target_id": "fergie-community-fb",
+    "created": "2026-02-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "group",
+    "target_id": "fergie-community-fb",
+    "created": "2026-05-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_105",
+    "target_kind": "group",
+    "target_id": "fergie-community-fb",
+    "created": "2026-08-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_120",
+    "target_kind": "group",
+    "target_id": "fergie-community-fb",
+    "created": "2026-07-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "group",
+    "target_id": "fergie-community-fb",
+    "created": "2026-07-29",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_005",
+    "target_kind": "group",
+    "target_id": "fergie-food-bank",
+    "created": "2026-04-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_022",
+    "target_kind": "group",
+    "target_id": "fergie-food-bank",
+    "created": "2026-03-07",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_075",
+    "target_kind": "group",
+    "target_id": "fergie-food-bank",
+    "created": "2026-02-21",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_129",
+    "target_kind": "group",
+    "target_id": "fergie-food-bank",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "group",
+    "target_id": "fergie-food-bank",
+    "created": "2026-10-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-05-08",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_017",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-10-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-02-06",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_040",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-08-11",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-04-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_086",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-07-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_098",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-07-30",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "group",
+    "target_id": "fergie-heritage",
+    "created": "2026-03-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-11-20",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-05-17",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_020",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-09-24",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_039",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-04-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-05-16",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-02-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_063",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-11-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_069",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-06-08",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_095",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-03-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-05-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_priya",
+    "target_kind": "group",
+    "target_id": "fergie-horticultural",
+    "created": "2026-11-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_047",
+    "target_kind": "group",
+    "target_id": "fergie-lions",
+    "created": "2026-02-19",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_100",
+    "target_kind": "group",
+    "target_id": "fergie-lions",
+    "created": "2026-04-21",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_113",
+    "target_kind": "group",
+    "target_id": "fergie-lions",
+    "created": "2026-04-27",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-11-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-04-29",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-10-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_020",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-09-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_067",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-01-29",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_085",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-07-22",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-11-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_131",
+    "target_kind": "group",
+    "target_id": "fergie-minor-hockey",
+    "created": "2026-04-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_010",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-07-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_013",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-01-26",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_105",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-09-25",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-03-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_121",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-05-09",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_151",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-03-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "group",
+    "target_id": "fergie-pipe-band",
+    "created": "2026-10-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_002",
+    "target_kind": "group",
+    "target_id": "fergie-run-club",
+    "created": "2026-09-22",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "group",
+    "target_id": "fergie-run-club",
+    "created": "2026-04-19",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "group",
+    "target_id": "fergie-run-club",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_020",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-09-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_037",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-04-07",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-03-10",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_073",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-05-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_084",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-10-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-07-05",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_130",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-02-23",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "group",
+    "target_id": "mill-flats-neighbours",
+    "created": "2026-11-06",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_147",
+    "target_kind": "group",
+    "target_id": "newcomers-to-fergie",
+    "created": "2026-11-06",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "group",
+    "target_id": "newcomers-to-fergie",
+    "created": "2026-06-20",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_nadia",
+    "target_kind": "group",
+    "target_id": "newcomers-to-fergie",
+    "created": "2026-09-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_003",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-04-19",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_007",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-10-18",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_008",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-06-24",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_059",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-05-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_066",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-05-12",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_110",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-05-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-05-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_116",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-06-05",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_150",
+    "target_kind": "group",
+    "target_id": "orchard-hill-parents",
+    "created": "2026-04-02",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "group",
+    "target_id": "seniors-coffee",
+    "created": "2026-07-10",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_056",
+    "target_kind": "group",
+    "target_id": "seniors-coffee",
+    "created": "2026-06-25",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_meilin",
+    "target_kind": "group",
+    "target_id": "seniors-coffee",
+    "created": "2026-06-08",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_015",
+    "target_kind": "group",
+    "target_id": "st-andrews",
+    "created": "2026-05-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_088",
+    "target_kind": "group",
+    "target_id": "st-andrews",
+    "created": "2026-08-16",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_097",
+    "target_kind": "group",
+    "target_id": "st-andrews",
+    "created": "2026-03-13",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_115",
+    "target_kind": "group",
+    "target_id": "st-andrews",
+    "created": "2026-05-18",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-06-23",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-10-06",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_018",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-03-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_033",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-02-01",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-09-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_046",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-07-24",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_053",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-06-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_100",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-02-28",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_126",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-08-02",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_kenji",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-08-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "outlet",
+    "target_id": "bannock-radio",
+    "created": "2026-11-20",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_009",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-05-01",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_014",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-09-01",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-06-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_042",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-02-17",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_077",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-08-11",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_123",
+    "target_kind": "outlet",
+    "target_id": "county-courier",
+    "created": "2026-03-23",
+    "notify": "none"
+  },
+  {
+    "user_id": "u_011",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-10-04",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_019",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-02-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_032",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-05-14",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_036",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-10-15",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_060",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-06-12",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_082",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-02-15",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_094",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-08-30",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_137",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-01-25",
+    "notify": "digest"
+  },
+  {
+    "user_id": "u_149",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-06-14",
+    "notify": "instant"
+  },
+  {
+    "user_id": "u_quinn",
+    "target_kind": "outlet",
+    "target_id": "fergie-gazette",
+    "created": "2026-11-17",
+    "notify": "digest"
+  }
+]

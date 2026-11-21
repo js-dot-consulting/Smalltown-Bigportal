@@ -1,0 +1,224 @@
+{
+  "source_name": "Statistics Canada, Census Profile, 2021 Census of Population",
+  "source_url": "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00053523025.1..1",
+  "lookup_urls": [
+    "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/codelist/STC_CP/CL_GEO_CSD/latest",
+    "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/codelist/STC_CP/CL_CHARACTERISTIC/latest"
+  ],
+  "license": "Statistics Canada Open Licence",
+  "license_url": "https://www.statcan.gc.ca/en/reference/licence",
+  "credit": "Adapted from Statistics Canada, Census Profile, 2021 Census of Population.",
+  "geography": {
+    "name": "Centre Wellington",
+    "type": "Township (census subdivision)",
+    "dguid": "2021A00053523025",
+    "province": "Ontario",
+    "population_2021": 31093
+  },
+  "retrieved": "2026-11-21",
+  "note": "Group-level counts used only as weights for a fictional town. Fergie is not Centre Wellington.",
+  "rounding_note": "StatCan randomly rounds Census Profile counts to a multiple of 5, so buckets may not sum exactly to their table total. Most groups are 25% sample data; age, household type and home language are 100% data.",
+  "weights": {
+    "age_band": {
+      "18-24": 2218,
+      "25-34": 3460,
+      "35-44": 3685,
+      "45-54": 3750,
+      "55-64": 4650,
+      "65-74": 3975,
+      "75+": 2960
+    },
+    "household_type": {
+      "one_person": 2715,
+      "couple_no_children": 3850,
+      "couple_with_children": 3565,
+      "one_parent": 835,
+      "multigenerational": 370,
+      "other": 635
+    },
+    "tenure": {
+      "own": 9645,
+      "rent": 2325
+    },
+    "language_home": {
+      "en": 29740,
+      "fr": 55,
+      "pa": 95,
+      "de": 75,
+      "pennsylvania_german": 75,
+      "nl": 50,
+      "es": 40
+    },
+    "mobility_5yr": {
+      "non_movers": 18050,
+      "moved_within_csd": 3225,
+      "moved_from_elsewhere": 7665
+    },
+    "work_location": {
+      "usual_place": 9750,
+      "worked_at_home": 3715,
+      "no_fixed_address": 1745,
+      "outside_canada": 50
+    },
+    "commute_destination": {
+      "within_csd": 4330,
+      "different_csd_same_cd": 2960,
+      "different_cd": 2440,
+      "other": 15
+    },
+    "commute_mode": {
+      "car_driver": 10165,
+      "car_passenger": 620,
+      "public_transit": 35,
+      "walked": 430,
+      "bicycle": 65,
+      "other": 175
+    },
+    "labour_force": {
+      "employed": 15260,
+      "unemployed": 1175,
+      "not_in_labour_force": 8880
+    }
+  },
+  "characteristics": {
+    "geography.population_2021": [
+      "[1] Population, 2021"
+    ],
+    "age_band.18-24": [
+      "[15] 20 to 24 years | Total - Age groups of the population - 100% data",
+      "[14] 15 to 19 years x 2/5 (approximation: the Census Profile has no single years of age, so ages 15-19 are assumed evenly spread) | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.25-34": [
+      "[16] 25 to 29 years | Total - Age groups of the population - 100% data",
+      "[17] 30 to 34 years | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.35-44": [
+      "[18] 35 to 39 years | Total - Age groups of the population - 100% data",
+      "[19] 40 to 44 years | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.45-54": [
+      "[20] 45 to 49 years | Total - Age groups of the population - 100% data",
+      "[21] 50 to 54 years | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.55-64": [
+      "[22] 55 to 59 years | Total - Age groups of the population - 100% data",
+      "[23] 60 to 64 years | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.65-74": [
+      "[25] 65 to 69 years | Total - Age groups of the population - 100% data",
+      "[26] 70 to 74 years | Total - Age groups of the population - 100% data"
+    ],
+    "age_band.75+": [
+      "[27] 75 to 79 years | Total - Age groups of the population - 100% data",
+      "[28] 80 to 84 years | Total - Age groups of the population - 100% data",
+      "[29] 85 years and over | Total - Age groups of the population - 100% data"
+    ],
+    "household_type.one_person": [
+      "[110] One-person households | Total - Household type - 100% data"
+    ],
+    "household_type.couple_no_children": [
+      "[104] Without children | Total - Household type - 100% data"
+    ],
+    "household_type.couple_with_children": [
+      "[103] With children | Total - Household type - 100% data"
+    ],
+    "household_type.one_parent": [
+      "[105] One-parent-family households | Total - Household type - 100% data"
+    ],
+    "household_type.multigenerational": [
+      "[106] Multigenerational households | Total - Household type - 100% data"
+    ],
+    "household_type.other": [
+      "[107] Multiple-census-family households | Total - Household type - 100% data",
+      "[108] One-census-family households with additional persons | Total - Household type - 100% data",
+      "[109] Two-or-more-person non-census-family households | Total - Household type - 100% data"
+    ],
+    "tenure.own": [
+      "[1401] Owner | Total - Private households by tenure - 25% sample data"
+    ],
+    "tenure.rent": [
+      "[1402] Renter | Total - Private households by tenure - 25% sample data"
+    ],
+    "mobility_5yr.non_movers": [
+      "[1970] Non-movers | Total - Mobility status 5 years ago - 25% sample data"
+    ],
+    "mobility_5yr.moved_within_csd": [
+      "[1972] Non-migrants | Total - Mobility status 5 years ago - 25% sample data"
+    ],
+    "mobility_5yr.moved_from_elsewhere": [
+      "[1973] Migrants | Total - Mobility status 5 years ago - 25% sample data"
+    ],
+    "work_location.usual_place": [
+      "[2597] Usual place of work | Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data"
+    ],
+    "work_location.worked_at_home": [
+      "[2594] Worked at home | Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data"
+    ],
+    "work_location.no_fixed_address": [
+      "[2596] No fixed workplace address | Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data"
+    ],
+    "work_location.outside_canada": [
+      "[2595] Worked outside Canada | Total - Place of work status for the employed labour force aged 15 years and over - 25% sample data"
+    ],
+    "commute_destination.within_csd": [
+      "[2599] Commute within census subdivision (CSD) of residence | Total - Commuting destination for the employed labour force aged 15 years and over with a usual place of work - 25% sample data"
+    ],
+    "commute_destination.different_csd_same_cd": [
+      "[2600] Commute to a different census subdivision (CSD) within census division (CD) of residence | Total - Commuting destination for the employed labour force aged 15 years and over with a usual place of work - 25% sample data"
+    ],
+    "commute_destination.different_cd": [
+      "[2601] Commute to a different census subdivision (CSD) and census division (CD) within province or territory of residence | Total - Commuting destination for the employed labour force aged 15 years and over with a usual place of work - 25% sample data"
+    ],
+    "commute_destination.other": [
+      "[2602] Commute to a different province or territory | Total - Commuting destination for the employed labour force aged 15 years and over with a usual place of work - 25% sample data"
+    ],
+    "commute_mode.car_driver": [
+      "[2605] Car, truck or van - as a driver | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "commute_mode.car_passenger": [
+      "[2606] Car, truck or van - as a passenger | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "commute_mode.public_transit": [
+      "[2607] Public transit | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "commute_mode.walked": [
+      "[2608] Walked | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "commute_mode.bicycle": [
+      "[2609] Bicycle | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "commute_mode.other": [
+      "[2610] Other method | Total - Main mode of commuting for the employed labour force aged 15 years and over with a usual place of work or no fixed workplace address - 25% sample data"
+    ],
+    "labour_force.employed": [
+      "[2225] Employed | Total - Population aged 15 years and over by labour force status - 25% sample data"
+    ],
+    "labour_force.unemployed": [
+      "[2226] Unemployed | Total - Population aged 15 years and over by labour force status - 25% sample data"
+    ],
+    "labour_force.not_in_labour_force": [
+      "[2227] Not in the labour force | Total - Population aged 15 years and over by labour force status - 25% sample data"
+    ],
+    "language_home.en": [
+      "[724] English | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.fr": [
+      "[725] French | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.pa": [
+      "[949] Punjabi (Panjabi) | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.de": [
+      "[917] German | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.pennsylvania_german": [
+      "[918] Pennsylvania German | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.nl": [
+      "[923] Dutch | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ],
+    "language_home.es": [
+      "[971] Spanish | Total - Language spoken most often at home for the total population excluding institutional residents - 100% data"
+    ]
+  }
+}

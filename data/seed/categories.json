@@ -1,0 +1,50 @@
+[
+  {
+    "id": "food-drink",
+    "name": "Food & Drink"
+  },
+  {
+    "id": "shopping",
+    "name": "Shopping"
+  },
+  {
+    "id": "home-trades",
+    "name": "Home & Trades"
+  },
+  {
+    "id": "health",
+    "name": "Health & Wellness"
+  },
+  {
+    "id": "personal-care",
+    "name": "Personal Care"
+  },
+  {
+    "id": "professional",
+    "name": "Professional Services"
+  },
+  {
+    "id": "arts-culture",
+    "name": "Arts & Culture"
+  },
+  {
+    "id": "farms-markets",
+    "name": "Farms & Markets"
+  },
+  {
+    "id": "lodging-tourism",
+    "name": "Lodging & Tourism"
+  },
+  {
+    "id": "auto-transport",
+    "name": "Auto & Transport"
+  },
+  {
+    "id": "community",
+    "name": "Community & Recreation"
+  },
+  {
+    "id": "pets",
+    "name": "Pets"
+  }
+]

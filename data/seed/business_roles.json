@@ -1,0 +1,639 @@
+[
+  {
+    "user_id": "u_hamish",
+    "business_id": "thistle-and-thorn",
+    "role": "owner",
+    "since": "1998",
+    "public": true
+  },
+  {
+    "user_id": "u_demo_owner",
+    "business_id": "bannock-bakehouse",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_048",
+    "business_id": "highland-grind",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_036",
+    "business_id": "swan-and-quill",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_052",
+    "business_id": "bannock-brewing",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_099",
+    "business_id": "pizza-corners",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_019",
+    "business_id": "pressed-apple-cidery",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_teodora",
+    "business_id": "mill-flats-hardware",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_061",
+    "business_id": "chapter-and-verse",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_084",
+    "business_id": "bardsley-antiques",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_021",
+    "business_id": "oakwright-furniture",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_083",
+    "business_id": "gift-loft",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_018",
+    "business_id": "bannock-outfitters",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_050",
+    "business_id": "spark-electric",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_079",
+    "business_id": "two-rivers-hvac",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_085",
+    "business_id": "stonebridge-physio",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_010",
+    "business_id": "tangles-hair",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_003",
+    "business_id": "bannock-valley-accounting",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_058",
+    "business_id": "old-mill-pottery",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_074",
+    "business_id": "fergie-farmers-market",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_076",
+    "business_id": "brubacher-cheese",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_092",
+    "business_id": "stone-town-inn",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_038",
+    "business_id": "punjab-kitchen",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_057",
+    "business_id": "riverbank-tea-room",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_008",
+    "business_id": "wool-and-wheel",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_090",
+    "business_id": "gorge-gallery",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_023",
+    "business_id": "lindqvist-berry-farm",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_005",
+    "business_id": "happy-tails-pet-supply",
+    "role": "owner",
+    "since": null,
+    "public": true
+  },
+  {
+    "user_id": "u_131",
+    "business_id": "thistle-and-thorn",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_098",
+    "business_id": "thistle-and-thorn",
+    "role": "manager",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_josie",
+    "business_id": "bannock-bakehouse",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_039",
+    "business_id": "highland-grind",
+    "role": "staff",
+    "since": "2014",
+    "public": false
+  },
+  {
+    "user_id": "u_035",
+    "business_id": "lucky-dragon",
+    "role": "staff",
+    "since": "2026",
+    "public": false
+  },
+  {
+    "user_id": "u_041",
+    "business_id": "bannock-brewing",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_102",
+    "business_id": "pizza-corners",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_116",
+    "business_id": "pizza-corners",
+    "role": "staff",
+    "since": "2013",
+    "public": false
+  },
+  {
+    "user_id": "u_028",
+    "business_id": "country-road-diner",
+    "role": "staff",
+    "since": "2026",
+    "public": false
+  },
+  {
+    "user_id": "u_032",
+    "business_id": "country-road-diner",
+    "role": "staff",
+    "since": "2013",
+    "public": false
+  },
+  {
+    "user_id": "u_121",
+    "business_id": "main-street-sweets",
+    "role": "manager",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_143",
+    "business_id": "main-street-sweets",
+    "role": "staff",
+    "since": "2016",
+    "public": false
+  },
+  {
+    "user_id": "u_quinn",
+    "business_id": "tartan-and-thread",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_113",
+    "business_id": "chapter-and-verse",
+    "role": "staff",
+    "since": "2014",
+    "public": false
+  },
+  {
+    "user_id": "u_138",
+    "business_id": "brass-lantern",
+    "role": "manager",
+    "since": "2026",
+    "public": false
+  },
+  {
+    "user_id": "u_073",
+    "business_id": "oakwright-furniture",
+    "role": "staff",
+    "since": "2018",
+    "public": false
+  },
+  {
+    "user_id": "u_103",
+    "business_id": "oakwright-furniture",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_125",
+    "business_id": "oakwright-furniture",
+    "role": "staff",
+    "since": "2015",
+    "public": false
+  },
+  {
+    "user_id": "u_jonah",
+    "business_id": "fergie-fresh-market",
+    "role": "staff",
+    "since": "2016",
+    "public": false
+  },
+  {
+    "user_id": "u_006",
+    "business_id": "bannock-outfitters",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_014",
+    "business_id": "fergie-family-health",
+    "role": "staff",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_112",
+    "business_id": "fergie-family-health",
+    "role": "staff",
+    "since": "2018",
+    "public": false
+  },
+  {
+    "user_id": "u_067",
+    "business_id": "fergie-family-health",
+    "role": "staff",
+    "since": "2021",
+    "public": false
+  },
+  {
+    "user_id": "u_080",
+    "business_id": "fergie-fitness-coop",
+    "role": "staff",
+    "since": "2022",
+    "public": false
+  },
+  {
+    "user_id": "u_144",
+    "business_id": "sharp-and-co",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_056",
+    "business_id": "mcallister-shaw",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_111",
+    "business_id": "mcallister-shaw",
+    "role": "staff",
+    "since": "2024",
+    "public": false
+  },
+  {
+    "user_id": "u_124",
+    "business_id": "stone-town-realty",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_120",
+    "business_id": "fergie-credit-union",
+    "role": "staff",
+    "since": "2026",
+    "public": false
+  },
+  {
+    "user_id": "u_109",
+    "business_id": "heritage-insurance",
+    "role": "manager",
+    "since": "2024",
+    "public": false
+  },
+  {
+    "user_id": "u_119",
+    "business_id": "riverside-players",
+    "role": "staff",
+    "since": "2024",
+    "public": false
+  },
+  {
+    "user_id": "u_062",
+    "business_id": "riverside-players",
+    "role": "staff",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_118",
+    "business_id": "hillcrest-manor",
+    "role": "staff",
+    "since": "2021",
+    "public": false
+  },
+  {
+    "user_id": "u_darnell",
+    "business_id": "hillcrest-manor",
+    "role": "staff",
+    "since": "2021",
+    "public": false
+  },
+  {
+    "user_id": "u_013",
+    "business_id": "fergie-pipe-and-drum",
+    "role": "staff",
+    "since": "2024",
+    "public": false
+  },
+  {
+    "user_id": "u_047",
+    "business_id": "fergie-pipe-and-drum",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_053",
+    "business_id": "old-mill-pottery",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_gus",
+    "business_id": "old-mill-pottery",
+    "role": "staff",
+    "since": "2022",
+    "public": false
+  },
+  {
+    "user_id": "u_137",
+    "business_id": "old-mill-pottery",
+    "role": "staff",
+    "since": "2017",
+    "public": false
+  },
+  {
+    "user_id": "u_132",
+    "business_id": "fergie-farmers-market",
+    "role": "staff",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_colleen",
+    "business_id": "fergie-farmers-market",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_147",
+    "business_id": "martin-family-maple",
+    "role": "staff",
+    "since": "2012",
+    "public": false
+  },
+  {
+    "user_id": "u_104",
+    "business_id": "brubacher-cheese",
+    "role": "staff",
+    "since": "2022",
+    "public": false
+  },
+  {
+    "user_id": "u_owen",
+    "business_id": "brubacher-cheese",
+    "role": "staff",
+    "since": "2019",
+    "public": false
+  },
+  {
+    "user_id": "u_117",
+    "business_id": "bannock-gorge-campground",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_142",
+    "business_id": "fergie-public-library",
+    "role": "staff",
+    "since": "2021",
+    "public": false
+  },
+  {
+    "user_id": "u_149",
+    "business_id": "veterans-hall",
+    "role": "manager",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_kenji",
+    "business_id": "bannock-valley-vet",
+    "role": "staff",
+    "since": "2012",
+    "public": false
+  },
+  {
+    "user_id": "u_114",
+    "business_id": "bannock-valley-vet",
+    "role": "staff",
+    "since": "2019",
+    "public": false
+  },
+  {
+    "user_id": "u_054",
+    "business_id": "kirk-street-noodle",
+    "role": "staff",
+    "since": "2025",
+    "public": false
+  },
+  {
+    "user_id": "u_101",
+    "business_id": "punjab-kitchen",
+    "role": "staff",
+    "since": "2013",
+    "public": false
+  },
+  {
+    "user_id": "u_106",
+    "business_id": "punjab-kitchen",
+    "role": "staff",
+    "since": "2019",
+    "public": false
+  },
+  {
+    "user_id": "u_isaac",
+    "business_id": "station-street-shawarma",
+    "role": "staff",
+    "since": "2026",
+    "public": false
+  },
+  {
+    "user_id": "u_127",
+    "business_id": "station-street-shawarma",
+    "role": "staff",
+    "since": "2024",
+    "public": false
+  },
+  {
+    "user_id": "u_148",
+    "business_id": "bardsley-general-store",
+    "role": "staff",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_150",
+    "business_id": "bardsley-general-store",
+    "role": "staff",
+    "since": "2013",
+    "public": false
+  },
+  {
+    "user_id": "u_141",
+    "business_id": "bardsley-general-store",
+    "role": "staff",
+    "since": "2015",
+    "public": false
+  },
+  {
+    "user_id": "u_133",
+    "business_id": "sugarbush-pancake-house",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_033",
+    "business_id": "thistle-and-bloom",
+    "role": "staff",
+    "since": "2023",
+    "public": false
+  },
+  {
+    "user_id": "u_priya",
+    "business_id": "bannock-bulk",
+    "role": "staff",
+    "since": "2016",
+    "public": false
+  },
+  {
+    "user_id": "u_045",
+    "business_id": "second-helpings-thrift",
+    "role": "staff",
+    "since": "2015",
+    "public": false
+  },
+  {
+    "user_id": "u_129",
+    "business_id": "second-helpings-thrift",
+    "role": "staff",
+    "since": "2020",
+    "public": false
+  },
+  {
+    "user_id": "u_093",
+    "business_id": "the-toy-chest",
+    "role": "manager",
+    "since": "2019",
+    "public": false
+  }
+]

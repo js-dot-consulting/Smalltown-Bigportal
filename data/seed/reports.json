@@ -1,0 +1,92 @@
+[
+  {
+    "id": "rpt_001",
+    "queue_id": "rq_041",
+    "target_kind": "reply",
+    "target_id": "rep_0001",
+    "reporter_user_id": "u_016",
+    "reason": "personal_info",
+    "created": "2026-11-19T09:55"
+  },
+  {
+    "id": "rpt_002",
+    "queue_id": "rq_041",
+    "target_kind": "reply",
+    "target_id": "rep_0001",
+    "reporter_user_id": "u_harriet",
+    "reason": "personal_info",
+    "created": "2026-11-19T11:30"
+  },
+  {
+    "id": "rpt_003",
+    "queue_id": "rq_042",
+    "target_kind": "reply",
+    "target_id": "rep_0040",
+    "reporter_user_id": "u_061",
+    "reason": "unkind",
+    "created": "2026-11-09T10:33"
+  },
+  {
+    "id": "rpt_004",
+    "queue_id": "rq_043",
+    "target_kind": "reply",
+    "target_id": "rep_0087",
+    "reporter_user_id": "u_046",
+    "reason": "unkind",
+    "created": "2026-10-06T08:50"
+  },
+  {
+    "id": "rpt_005",
+    "queue_id": "rq_044",
+    "target_kind": "reply",
+    "target_id": "rep_0088",
+    "reporter_user_id": "u_054",
+    "reason": "unkind",
+    "created": "2026-10-06T22:20"
+  },
+  {
+    "id": "rpt_006",
+    "queue_id": "rq_044",
+    "target_kind": "reply",
+    "target_id": "rep_0088",
+    "reporter_user_id": "u_038",
+    "reason": "unkind",
+    "created": "2026-10-06T23:55"
+  },
+  {
+    "id": "rpt_007",
+    "queue_id": "rq_044",
+    "target_kind": "reply",
+    "target_id": "rep_0088",
+    "reporter_user_id": "u_123",
+    "reason": "unkind",
+    "created": "2026-10-07T01:30"
+  },
+  {
+    "id": "rpt_008",
+    "queue_id": "rq_045",
+    "target_kind": "reply",
+    "target_id": "rep_0165",
+    "reporter_user_id": "u_151",
+    "reason": "off_topic",
+    "created": "2026-08-27T10:00"
+  },
+  {
+    "id": "rpt_009",
+    "queue_id": "rq_046",
+    "target_kind": "reply",
+    "target_id": "rep_0350",
+    "reporter_user_id": "u_034",
+    "reason": "wrong_info",
+    "created": "2026-09-20T19:43"
+  },
+  {
+    "id": "rpt_010",
+    "queue_id": "rq_047",
+    "target_kind": "reply",
+    "target_id": "rep_0652",
+    "reporter_user_id": "u_111",
+    "reason": "off_topic",
+    "created": "2026-10-16T02:00"
+  }
+]

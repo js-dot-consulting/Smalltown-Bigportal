@@ -1,0 +1,654 @@
+{
+  "outlets": [
+    {
+      "id": "fergie-gazette",
+      "name": "The Fergie Gazette",
+      "kind": "weekly newspaper",
+      "website": "https://fergie-gazette.example"
+    },
+    {
+      "id": "bannock-radio",
+      "name": "Bannock Valley Radio 98.1",
+      "kind": "radio station",
+      "website": "https://bannock-radio.example"
+    },
+    {
+      "id": "county-courier",
+      "name": "The County Courier",
+      "kind": "regional news site",
+      "website": "https://county-courier.example"
+    }
+  ],
+  "stories": [
+    {
+      "id": "news_001",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-19",
+      "section": "roads",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Bridge Street bridge closes for repairs until Nov. 29",
+      "summary": "Crews are replacing the deck joints. Detour via Mill Street; the river trail stays open.",
+      "url": "https://fergie-gazette.example/2026-11-19/story-1",
+      "about": {
+        "kind": "topic",
+        "id": "road-closures"
+      },
+      "mentions": [
+        {
+          "kind": "place",
+          "id": "river-trail-footbridge"
+        }
+      ]
+    },
+    {
+      "id": "news_002",
+      "outlet_id": "bannock-radio",
+      "published": "2026-11-18",
+      "section": "events",
+      "byline_user_id": "u_089",
+      "byline": null,
+      "headline": "Santa Claus Parade route announced",
+      "summary": "The parade leaves Market Square at 5 pm on Nov. 28 and ends at Victoria Park.",
+      "url": "https://bannock-radio.example/2026-11-18/story-2",
+      "about": {
+        "kind": "event",
+        "id": "evt_001"
+      },
+      "mentions": [
+        {
+          "kind": "place",
+          "id": "market-square"
+        },
+        {
+          "kind": "place",
+          "id": "victoria-park"
+        }
+      ]
+    },
+    {
+      "id": "news_003",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-12",
+      "section": "council",
+      "byline_user_id": "u_031",
+      "byline": null,
+      "headline": "Council debates future of the old arena site",
+      "summary": "Options include housing, a pool and a mixed-use plan. Public meeting set for December.",
+      "url": "https://fergie-gazette.example/2026-11-12/story-3",
+      "about": {
+        "kind": "place",
+        "id": "old-arena-site"
+      },
+      "mentions": [
+        {
+          "kind": "event",
+          "id": "evt_033"
+        }
+      ]
+    },
+    {
+      "id": "news_004",
+      "outlet_id": "county-courier",
+      "published": "2026-11-09",
+      "section": "business",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Farmers' market moves indoors for the winter",
+      "summary": "Vendors are now at the Veterans' Hall on Saturdays, 8 am to noon.",
+      "url": "https://county-courier.example/2026-11-09/story-4",
+      "about": {
+        "kind": "business",
+        "id": "fergie-farmers-market"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "veterans-hall"
+        }
+      ]
+    },
+    {
+      "id": "news_005",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-05",
+      "section": "events",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Riverside Players reveal 2027 season",
+      "summary": "Three classics, a musical and a new play by a Fergie writer.",
+      "url": "https://fergie-gazette.example/2026-11-05/story-5",
+      "about": {
+        "kind": "business",
+        "id": "riverside-players"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_006",
+      "outlet_id": "bannock-radio",
+      "published": "2026-10-29",
+      "section": "sports",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Curling club opens with record learn-to-curl sign-ups",
+      "summary": "Organizers added a second Tuesday session.",
+      "url": "https://bannock-radio.example/2026-10-29/story-6",
+      "about": {
+        "kind": "business",
+        "id": "fergie-curling-club"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_007",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-10-22",
+      "section": "community",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Library launches weekly tech help drop-in",
+      "summary": "Volunteers help with phones, email, scams and AI tools every Thursday afternoon.",
+      "url": "https://fergie-gazette.example/2026-10-22/story-7",
+      "about": {
+        "kind": "business",
+        "id": "fergie-public-library"
+      },
+      "mentions": [
+        {
+          "kind": "event",
+          "id": "evt_004"
+        }
+      ]
+    },
+    {
+      "id": "news_008",
+      "outlet_id": "county-courier",
+      "published": "2026-10-15",
+      "section": "business",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Second Look Vintage closes after 19 years",
+      "summary": "The owner is retiring. The building at Bardsley Corners is for lease.",
+      "url": "https://county-courier.example/2026-10-15/story-8",
+      "about": {
+        "kind": "business",
+        "id": "second-look-vintage"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_009",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-10-08",
+      "section": "community",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Food bank asks for winter coat donations",
+      "summary": "Drop-off bins are at the library and the credit union until Dec. 15.",
+      "url": "https://fergie-gazette.example/2026-10-08/story-9",
+      "about": {
+        "kind": "group",
+        "id": "fergie-food-bank"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "fergie-public-library"
+        },
+        {
+          "kind": "business",
+          "id": "fergie-credit-union"
+        }
+      ]
+    },
+    {
+      "id": "news_010",
+      "outlet_id": "bannock-radio",
+      "published": "2026-10-05",
+      "section": "community",
+      "byline_user_id": "u_089",
+      "byline": null,
+      "headline": "Swan count on the Bannock hits a ten-year high",
+      "summary": "Volunteers counted 31 swans during the fall survey.",
+      "url": "https://bannock-radio.example/2026-10-05/story-10",
+      "about": {
+        "kind": "event",
+        "id": "evt_022"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_011",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-09-24",
+      "section": "community",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Parents ask council about swimming lessons",
+      "summary": "With the old pool closed since 2024, families say they drive to Riverbend for lessons.",
+      "url": "https://fergie-gazette.example/2026-09-24/story-11",
+      "about": {
+        "kind": "topic",
+        "id": "swimming-lessons"
+      },
+      "mentions": [
+        {
+          "kind": "place",
+          "id": "old-arena-site"
+        }
+      ]
+    },
+    {
+      "id": "news_012",
+      "outlet_id": "county-courier",
+      "published": "2026-09-10",
+      "section": "events",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Highland Gathering draws biggest crowd since 2019",
+      "summary": "Organizers estimate 14,000 visitors across the weekend.",
+      "url": "https://county-courier.example/2026-09-10/story-12",
+      "about": {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_013",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-17",
+      "section": "roads",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Water main break closes Kirk Street",
+      "summary": "The third break on the same stretch this year. Businesses are open; use the Highland Street entrances.",
+      "url": "https://fergie-gazette.example/2026-11-17/story-13",
+      "about": {
+        "kind": "place",
+        "id": "market-square"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "highland-grind"
+        },
+        {
+          "kind": "business",
+          "id": "chapter-and-verse"
+        }
+      ]
+    },
+    {
+      "id": "news_014",
+      "outlet_id": "bannock-radio",
+      "published": "2026-11-16",
+      "section": "weather",
+      "byline_user_id": "u_089",
+      "byline": null,
+      "headline": "First real snow, and a run on furnace repairs",
+      "summary": "Heating contractors say they're booked into next week.",
+      "url": "https://bannock-radio.example/2026-11-16/story-14",
+      "about": {
+        "kind": "topic",
+        "id": "weather"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "two-rivers-hvac"
+        },
+        {
+          "kind": "business",
+          "id": "hartley-plumbing"
+        }
+      ]
+    },
+    {
+      "id": "news_015",
+      "outlet_id": "county-courier",
+      "published": "2026-11-14",
+      "section": "business",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Punjab Kitchen marks five years with a free lunch for volunteers",
+      "summary": "Food bank and fire department volunteers eat free on Nov. 21.",
+      "url": "https://county-courier.example/2026-11-14/story-15",
+      "about": {
+        "kind": "business",
+        "id": "punjab-kitchen"
+      },
+      "mentions": [
+        {
+          "kind": "group",
+          "id": "fergie-food-bank"
+        }
+      ]
+    },
+    {
+      "id": "news_016",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-10",
+      "section": "council",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Council hears request for a downtown EV charger",
+      "summary": "Staff will report back in the spring on costs and grants.",
+      "url": "https://fergie-gazette.example/2026-11-10/story-16",
+      "about": {
+        "kind": "topic",
+        "id": "ev-charging"
+      },
+      "mentions": [
+        {
+          "kind": "place",
+          "id": "market-square"
+        }
+      ]
+    },
+    {
+      "id": "news_017",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-03",
+      "section": "business",
+      "byline_user_id": "u_031",
+      "byline": null,
+      "headline": "Hartley Plumbing changes hands after 36 years",
+      "summary": "The new owner kept the name and the emergency line.",
+      "url": "https://fergie-gazette.example/2026-11-03/story-17",
+      "about": {
+        "kind": "business",
+        "id": "hartley-plumbing"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_018",
+      "outlet_id": "bannock-radio",
+      "published": "2026-10-27",
+      "section": "community",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Newcomers group draws forty to first meetup",
+      "summary": "Organizers plan a monthly welcome night at the library.",
+      "url": "https://bannock-radio.example/2026-10-27/story-18",
+      "about": {
+        "kind": "group",
+        "id": "newcomers-to-fergie"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "fergie-public-library"
+        }
+      ]
+    },
+    {
+      "id": "news_019",
+      "outlet_id": "county-courier",
+      "published": "2026-10-23",
+      "section": "business",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Bike shop owner in Riverbend says half his customers come from Fergie",
+      "summary": "He says he gets calls every week from Fergie families with flat tires and broken gears.",
+      "url": "https://county-courier.example/2026-10-23/story-19",
+      "about": {
+        "kind": "topic",
+        "id": "bike-repair"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_020",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-10-20",
+      "section": "community",
+      "byline_user_id": "u_031",
+      "byline": null,
+      "headline": "Hillcrest Manor digitizes a century of town council minutes",
+      "summary": "Volunteers scanned 40,000 pages. The archive opens online in the new year.",
+      "url": "https://fergie-gazette.example/2026-10-20/story-20",
+      "about": {
+        "kind": "business",
+        "id": "hillcrest-manor"
+      },
+      "mentions": [
+        {
+          "kind": "group",
+          "id": "fergie-heritage"
+        }
+      ]
+    },
+    {
+      "id": "news_021",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-10-13",
+      "section": "events",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Thanksgiving market sells out of pies by 9 am",
+      "summary": "Vendors say it was the busiest market day of the year.",
+      "url": "https://fergie-gazette.example/2026-10-13/story-21",
+      "about": {
+        "kind": "event",
+        "id": "evt_023"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "fergie-farmers-market"
+        },
+        {
+          "kind": "business",
+          "id": "bannock-bakehouse"
+        }
+      ]
+    },
+    {
+      "id": "news_022",
+      "outlet_id": "bannock-radio",
+      "published": "2026-10-12",
+      "section": "roads",
+      "byline_user_id": "u_089",
+      "byline": null,
+      "headline": "County Road 18 resurfacing this week",
+      "summary": "Expect flaggers near the antique shops, Oct. 13 to 16.",
+      "url": "https://bannock-radio.example/2026-10-12/story-22",
+      "about": {
+        "kind": "place",
+        "id": "bardsley-crossroads"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_023",
+      "outlet_id": "county-courier",
+      "published": "2026-10-06",
+      "section": "community",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Child care wait lists stretch past a year",
+      "summary": "Kids' Corner says it has 60 names on its infant list.",
+      "url": "https://county-courier.example/2026-10-06/story-23",
+      "about": {
+        "kind": "business",
+        "id": "kids-corner-child-care"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_024",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-09-30",
+      "section": "business",
+      "byline_user_id": "u_031",
+      "byline": null,
+      "headline": "Gorge Gallery opens fall show of river paintings",
+      "summary": "Twelve Bannock Valley painters, through Nov. 15.",
+      "url": "https://fergie-gazette.example/2026-09-30/story-24",
+      "about": {
+        "kind": "business",
+        "id": "gorge-gallery"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_025",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-09-22",
+      "section": "events",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Fall Fair crowds up despite cancelled tractor parade",
+      "summary": "Organizers cancelled the parade for safety after Saturday's downpour.",
+      "url": "https://fergie-gazette.example/2026-09-22/story-25",
+      "about": {
+        "kind": "event",
+        "id": "evt_018"
+      },
+      "mentions": [
+        {
+          "kind": "event",
+          "id": "evt_019"
+        },
+        {
+          "kind": "group",
+          "id": "fergie-lions"
+        }
+      ]
+    },
+    {
+      "id": "news_026",
+      "outlet_id": "bannock-radio",
+      "published": "2026-09-16",
+      "section": "community",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Lost dogs reunited thanks to the new town board",
+      "summary": "Two dogs missing last week are home after posts on the Fergie board.",
+      "url": "https://bannock-radio.example/2026-09-16/story-26",
+      "about": {
+        "kind": "topic",
+        "id": "lost-and-found"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_027",
+      "outlet_id": "county-courier",
+      "published": "2026-09-14",
+      "section": "business",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Dog owners say Fergie needs a groomer",
+      "summary": "The nearest groomer has a six-week wait, residents say.",
+      "url": "https://county-courier.example/2026-09-14/story-27",
+      "about": {
+        "kind": "topic",
+        "id": "dog-grooming"
+      },
+      "mentions": [
+        {
+          "kind": "business",
+          "id": "happy-tails-pet-supply"
+        },
+        {
+          "kind": "business",
+          "id": "bannock-valley-vet"
+        }
+      ]
+    },
+    {
+      "id": "news_028",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-09-08",
+      "section": "events",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Outdoor movie moved a week after storm forecast",
+      "summary": "Orchard Hill Parents rescheduled to Sept. 12.",
+      "url": "https://fergie-gazette.example/2026-09-08/story-28",
+      "about": {
+        "kind": "event",
+        "id": "evt_017"
+      },
+      "mentions": [
+        {
+          "kind": "group",
+          "id": "orchard-hill-parents"
+        }
+      ]
+    },
+    {
+      "id": "news_029",
+      "outlet_id": "bannock-radio",
+      "published": "2026-09-04",
+      "section": "community",
+      "byline_user_id": null,
+      "byline": "Staff",
+      "headline": "Library card sign-ups jump with back-to-school",
+      "summary": "More than 200 new cards in August.",
+      "url": "https://bannock-radio.example/2026-09-04/story-29",
+      "about": {
+        "kind": "business",
+        "id": "fergie-public-library"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_030",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-08-28",
+      "section": "business",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Wool & Wheel expands into the space next door",
+      "summary": "More room for classes and a spinning wheel library.",
+      "url": "https://fergie-gazette.example/2026-08-28/story-30",
+      "about": {
+        "kind": "business",
+        "id": "wool-and-wheel"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_031",
+      "outlet_id": "county-courier",
+      "published": "2026-08-25",
+      "section": "council",
+      "byline_user_id": "u_081",
+      "byline": null,
+      "headline": "Township approves new sidewalk on Station Street",
+      "summary": "Construction starts in spring, connecting the arena to downtown.",
+      "url": "https://county-courier.example/2026-08-25/story-31",
+      "about": {
+        "kind": "place",
+        "id": "memorial-arena"
+      },
+      "mentions": []
+    },
+    {
+      "id": "news_032",
+      "outlet_id": "fergie-gazette",
+      "published": "2026-11-20",
+      "section": "community",
+      "byline_user_id": "u_030",
+      "byline": null,
+      "headline": "Who's asking? Town board shows what Fergie is missing",
+      "summary": "Bike repair, swimming lessons and a dog groomer top the board's 'looking for' posts.",
+      "url": "https://fergie-gazette.example/2026-11-20/story-32",
+      "about": {
+        "kind": "topic",
+        "id": "community-board"
+      },
+      "mentions": [
+        {
+          "kind": "place",
+          "id": "old-arena-site"
+        }
+      ]
+    }
+  ]
+}

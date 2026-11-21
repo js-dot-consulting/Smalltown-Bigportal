@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "so_001",
+    "author_user_id": "u_sofia",
+    "business_id": "bannock-bakehouse",
+    "status": "approved",
+    "text": "The butter tarts are worth the walk in the snow.",
+    "created": "2026-11-19"
+  },
+  {
+    "id": "so_002",
+    "author_user_id": "u_gus",
+    "business_id": "mill-flats-hardware",
+    "status": "approved",
+    "text": "Teodora found a 1950s faucet washer in a drawer. Legend.",
+    "created": "2026-11-16"
+  },
+  {
+    "id": "so_003",
+    "author_user_id": "u_harriet",
+    "business_id": "riverside-pharmacy",
+    "status": "approved",
+    "text": "Delivered my prescription during the ice storm.",
+    "created": "2026-11-13"
+  },
+  {
+    "id": "so_004",
+    "author_user_id": "u_isaac",
+    "business_id": "kowalski-auto",
+    "status": "approved",
+    "text": "Told me not to fix it and saved me $900.",
+    "created": "2026-11-10"
+  },
+  {
+    "id": "so_005",
+    "author_user_id": "u_meilin",
+    "business_id": "fergie-public-library",
+    "status": "approved",
+    "text": "Tech help Thursdays changed my dad's life.",
+    "created": "2026-11-07"
+  },
+  {
+    "id": "so_006",
+    "author_user_id": "u_colleen",
+    "business_id": "swan-and-quill",
+    "status": "approved",
+    "text": "Took visiting cousins on the tasting flight. They're moving here now.",
+    "created": "2026-11-04"
+  },
+  {
+    "id": "so_007",
+    "author_user_id": "u_darnell",
+    "business_id": "hartley-plumbing",
+    "status": "approved",
+    "text": "Came at 11 pm on a Sunday for a burst pipe.",
+    "created": "2026-11-01"
+  },
+  {
+    "id": "so_008",
+    "author_user_id": "u_kenji",
+    "business_id": "chapter-and-verse",
+    "status": "approved",
+    "text": "Ordered an out-of-print local history book in two days.",
+    "created": "2026-10-29"
+  },
+  {
+    "id": "so_009",
+    "author_user_id": "u_lorna",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Fiddle night is the best thing in town.",
+    "created": "2026-10-26"
+  },
+  {
+    "id": "so_010",
+    "author_user_id": "u_mateo",
+    "business_id": "bannock-outfitters",
+    "status": "approved",
+    "text": "Great river advice for first-time paddlers.",
+    "created": "2026-10-23"
+  },
+  {
+    "id": "so_011",
+    "author_user_id": "u_priya",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "So patient with my anxious kid.",
+    "created": "2026-10-20"
+  },
+  {
+    "id": "so_012",
+    "author_user_id": "u_quinn",
+    "business_id": "old-mill-pottery",
+    "status": "approved",
+    "text": "My lopsided bowl is my favourite thing.",
+    "created": "2026-10-17"
+  },
+  {
+    "id": "so_013",
+    "author_user_id": "u_nadia",
+    "business_id": "brubacher-cheese",
+    "status": "pending",
+    "text": "Fresh curds on Fridays. That's it, that's the shoutout.",
+    "created": "2026-10-14"
+  },
+  {
+    "id": "so_014",
+    "author_user_id": "u_owen",
+    "business_id": "bardsley-antiques",
+    "status": "pending",
+    "text": "Found the exact lamp my grandmother had.",
+    "created": "2026-10-11"
+  },
+  {
+    "id": "so_015",
+    "author_user_id": "u_015",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Took visiting family here. They want to move to Fergie now.",
+    "created": "2026-11-09"
+  },
+  {
+    "id": "so_016",
+    "author_user_id": "u_087",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Took visiting family here. They want to move to Fergie now.",
+    "created": "2026-11-09"
+  },
+  {
+    "id": "so_017",
+    "author_user_id": "u_036",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Friendly staff, and they remembered my order.",
+    "created": "2026-09-24"
+  },
+  {
+    "id": "so_018",
+    "author_user_id": "u_009",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Best cider in the county. Not even close.",
+    "created": "2026-09-22"
+  },
+  {
+    "id": "so_019",
+    "author_user_id": "u_kenji",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Friendly staff, and they remembered my order.",
+    "created": "2026-10-19"
+  },
+  {
+    "id": "so_020",
+    "author_user_id": "u_006",
+    "business_id": "thistle-and-thorn",
+    "status": "approved",
+    "text": "Took visiting family here. They want to move to Fergie now.",
+    "created": "2026-09-15"
+  },
+  {
+    "id": "so_021",
+    "author_user_id": "u_029",
+    "business_id": "fergie-fish-and-chips",
+    "status": "approved",
+    "text": "Best naan in the county. Not even close.",
+    "created": "2026-10-08"
+  },
+  {
+    "id": "so_022",
+    "author_user_id": "u_018",
+    "business_id": "pizza-corners",
+    "status": "approved",
+    "text": "Worth the wait every time.",
+    "created": "2026-11-06"
+  },
+  {
+    "id": "so_023",
+    "author_user_id": "u_052",
+    "business_id": "country-road-diner",
+    "status": "approved",
+    "text": "Took visiting family here. They want to move to Fergie now.",
+    "created": "2026-09-14"
+  },
+  {
+    "id": "so_024",
+    "author_user_id": "u_075",
+    "business_id": "main-street-sweets",
+    "status": "approved",
+    "text": "Best coffee in the county. Not even close.",
+    "created": "2026-08-31"
+  },
+  {
+    "id": "so_025",
+    "author_user_id": "u_153",
+    "business_id": "mill-flats-hardware",
+    "status": "approved",
+    "text": "My go-to for gifts.",
+    "created": "2026-09-25"
+  },
+  {
+    "id": "so_026",
+    "author_user_id": "u_wren",
+    "business_id": "brass-lantern",
+    "status": "approved",
+    "text": "They ordered it in for me in two days.",
+    "created": "2026-10-26"
+  },
+  {
+    "id": "so_027",
+    "author_user_id": "u_josie",
+    "business_id": "patchwork-hollow",
+    "status": "approved",
+    "text": "Real people who know their stuff.",
+    "created": "2026-10-28"
+  },
+  {
+    "id": "so_028",
+    "author_user_id": "u_009",
+    "business_id": "oakwright-furniture",
+    "status": "approved",
+    "text": "They ordered it in for me in two days.",
+    "created": "2026-10-03"
+  },
+  {
+    "id": "so_029",
+    "author_user_id": "u_025",
+    "business_id": "oakwright-furniture",
+    "status": "approved",
+    "text": "They ordered it in for me in two days.",
+    "created": "2026-10-12"
+  },
+  {
+    "id": "so_030",
+    "author_user_id": "u_073",
+    "business_id": "oakwright-furniture",
+    "status": "approved",
+    "text": "My go-to for gifts.",
+    "created": "2026-10-30"
+  },
+  {
+    "id": "so_031",
+    "author_user_id": "u_104",
+    "business_id": "fergie-fresh-market",
+    "status": "approved",
+    "text": "My go-to for gifts.",
+    "created": "2026-11-08"
+  },
+  {
+    "id": "so_032",
+    "author_user_id": "u_demo_owner",
+    "business_id": "fergie-fresh-market",
+    "status": "approved",
+    "text": "My go-to for gifts.",
+    "created": "2026-09-25"
+  },
+  {
+    "id": "so_033",
+    "author_user_id": "u_007",
+    "business_id": "gift-loft",
+    "status": "approved",
+    "text": "They ordered it in for me in two days.",
+    "created": "2026-11-04"
+  },
+  {
+    "id": "so_034",
+    "author_user_id": "u_047",
+    "business_id": "hartley-plumbing",
+    "status": "approved",
+    "text": "Came the same day and fixed it properly.",
+    "created": "2026-09-15"
+  },
+  {
+    "id": "so_035",
+    "author_user_id": "u_073",
+    "business_id": "hartley-plumbing",
+    "status": "approved",
+    "text": "Honest quote, no surprises.",
+    "created": "2026-09-30"
+  },
+  {
+    "id": "so_036",
+    "author_user_id": "u_nadia",
+    "business_id": "hartley-plumbing",
+    "status": "approved",
+    "text": "Cleaned up after themselves. Rare!",
+    "created": "2026-10-26"
+  },
+  {
+    "id": "so_037",
+    "author_user_id": "u_010",
+    "business_id": "limestone-masonry",
+    "status": "pending",
+    "text": "Cleaned up after themselves. Rare!",
+    "created": "2026-10-28"
+  },
+  {
+    "id": "so_038",
+    "author_user_id": "u_140",
+    "business_id": "limestone-masonry",
+    "status": "approved",
+    "text": "Came the same day and fixed it properly.",
+    "created": "2026-10-21"
+  },
+  {
+    "id": "so_039",
+    "author_user_id": "u_wren",
+    "business_id": "greenway-landscaping",
+    "status": "approved",
+    "text": "Talked me out of an expensive fix I didn't need.",
+    "created": "2026-10-16"
+  },
+  {
+    "id": "so_040",
+    "author_user_id": "u_josie",
+    "business_id": "fergie-roofing",
+    "status": "approved",
+    "text": "Cleaned up after themselves. Rare!",
+    "created": "2026-09-27"
+  },
+  {
+    "id": "so_041",
+    "author_user_id": "u_018",
+    "business_id": "fergie-roofing",
+    "status": "approved",
+    "text": "Honest quote, no surprises.",
+    "created": "2026-11-08"
+  },
+  {
+    "id": "so_042",
+    "author_user_id": "u_134",
+    "business_id": "clearview-windows",
+    "status": "approved",
+    "text": "Talked me out of an expensive fix I didn't need.",
+    "created": "2026-10-21"
+  },
+  {
+    "id": "so_043",
+    "author_user_id": "u_116",
+    "business_id": "clearview-windows",
+    "status": "pending",
+    "text": "Talked me out of an expensive fix I didn't need.",
+    "created": "2026-10-25"
+  },
+  {
+    "id": "so_044",
+    "author_user_id": "u_007",
+    "business_id": "two-rivers-hvac",
+    "status": "approved",
+    "text": "Honest quote, no surprises.",
+    "created": "2026-10-26"
+  },
+  {
+    "id": "so_045",
+    "author_user_id": "u_082",
+    "business_id": "two-rivers-hvac",
+    "status": "approved",
+    "text": "Talked me out of an expensive fix I didn't need.",
+    "created": "2026-09-12"
+  },
+  {
+    "id": "so_046",
+    "author_user_id": "u_wren",
+    "business_id": "two-rivers-hvac",
+    "status": "approved",
+    "text": "Cleaned up after themselves. Rare!",
+    "created": "2026-11-15"
+  },
+  {
+    "id": "so_047",
+    "author_user_id": "u_031",
+    "business_id": "handy-hands",
+    "status": "approved",
+    "text": "Talked me out of an expensive fix I didn't need.",
+    "created": "2026-10-16"
+  },
+  {
+    "id": "so_048",
+    "author_user_id": "u_013",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-09-15"
+  },
+  {
+    "id": "so_049",
+    "author_user_id": "u_010",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "So patient with my kids.",
+    "created": "2026-10-11"
+  },
+  {
+    "id": "so_050",
+    "author_user_id": "u_127",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-10-27"
+  },
+  {
+    "id": "so_051",
+    "author_user_id": "u_011",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-10-06"
+  },
+  {
+    "id": "so_052",
+    "author_user_id": "u_056",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "So patient with my kids.",
+    "created": "2026-11-12"
+  },
+  {
+    "id": "so_053",
+    "author_user_id": "u_086",
+    "business_id": "bannock-river-dental",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-10-17"
+  },
+  {
+    "id": "so_054",
+    "author_user_id": "u_mateo",
+    "business_id": "fergie-family-health",
+    "status": "approved",
+    "text": "Got me in the same week.",
+    "created": "2026-11-14"
+  },
+  {
+    "id": "so_055",
+    "author_user_id": "u_077",
+    "business_id": "fergie-family-health",
+    "status": "approved",
+    "text": "Got me in the same week.",
+    "created": "2026-11-10"
+  },
+  {
+    "id": "so_056",
+    "author_user_id": "u_151",
+    "business_id": "riverside-pharmacy",
+    "status": "approved",
+    "text": "So patient with my kids.",
+    "created": "2026-09-28"
+  },
+  {
+    "id": "so_057",
+    "author_user_id": "u_120",
+    "business_id": "stonebridge-physio",
+    "status": "approved",
+    "text": "So patient with my kids.",
+    "created": "2026-10-22"
+  },
+  {
+    "id": "so_058",
+    "author_user_id": "u_kenji",
+    "business_id": "clear-sight-optometry",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-11-11"
+  },
+  {
+    "id": "so_059",
+    "author_user_id": "u_151",
+    "business_id": "clear-sight-optometry",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-09-02"
+  },
+  {
+    "id": "so_060",
+    "author_user_id": "u_074",
+    "business_id": "quiet-pines-massage",
+    "status": "approved",
+    "text": "Kind, thorough and on time.",
+    "created": "2026-09-13"
+  },
+  {
+    "id": "so_061",
+    "author_user_id": "u_141",
+    "business_id": "fergie-fitness-coop",
+    "status": "approved",
+    "text": "So patient with my kids.",
+    "created": "2026-09-24"
+  },
+  {
+    "id": "so_062",
+    "author_user_id": "u_140",
+    "business_id": "sharp-and-co",
+    "status": "approved",
+    "text": "Relaxing, and they actually listen.",
+    "created": "2026-10-25"
+  },
+  {
+    "id": "so_063",
+    "author_user_id": "u_036",
+    "business_id": "polished-nail-bar",
+    "status": "pending",
+    "text": "Relaxing, and they actually listen.",
+    "created": "2026-10-20"
+  },
+  {
+    "id": "so_064",
+    "author_user_id": "u_009",
+    "business_id": "polished-nail-bar",
+    "status": "pending",
+    "text": "Relaxing, and they actually listen.",
+    "created": "2026-10-11"
+  },
+  {
+    "id": "so_065",
+    "author_user_id": "u_104",
+    "business_id": "polished-nail-bar",
+    "status": "approved",
+    "text": "Relaxing, and they actually listen.",
+    "created": "2026-11-14"
+  },
+  {
+    "id": "so_066",
+    "author_user_id": "u_141",
+    "business_id": "mcallister-shaw",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-09-19"
+  },
+  {
+    "id": "so_067",
+    "author_user_id": "u_142",
+    "business_id": "bannock-valley-accounting",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-09-03"
+  },
+  {
+    "id": "so_068",
+    "author_user_id": "u_demo_owner",
+    "business_id": "bannock-valley-accounting",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-08-24"
+  },
+  {
+    "id": "so_069",
+    "author_user_id": "u_036",
+    "business_id": "fergie-credit-union",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-10-19"
+  },
+  {
+    "id": "so_070",
+    "author_user_id": "u_084",
+    "business_id": "fergie-credit-union",
+    "status": "approved",
+    "text": "Made my taxes painless.",
+    "created": "2026-11-04"
+  },
+  {
+    "id": "so_071",
+    "author_user_id": "u_139",
+    "business_id": "heritage-insurance",
+    "status": "pending",
+    "text": "Explained everything in plain English.",
+    "created": "2026-10-02"
+  },
+  {
+    "id": "so_072",
+    "author_user_id": "u_josie",
+    "business_id": "hillcrest-manor",
+    "status": "approved",
+    "text": "My kids talk about the class all week.",
+    "created": "2026-09-25"
+  },
+  {
+    "id": "so_073",
+    "author_user_id": "u_142",
+    "business_id": "old-mill-pottery",
+    "status": "approved",
+    "text": "A gem. Go to the next show.",
+    "created": "2026-09-25"
+  },
+  {
+    "id": "so_074",
+    "author_user_id": "u_demo_resident",
+    "business_id": "fergie-farmers-market",
+    "status": "approved",
+    "text": "The honour box system restores my faith in humanity.",
+    "created": "2026-08-25"
+  },
+  {
+    "id": "so_075",
+    "author_user_id": "u_001",
+    "business_id": "fergie-farmers-market",
+    "status": "approved",
+    "text": "The honour box system restores my faith in humanity.",
+    "created": "2026-10-31"
+  },
+  {
+    "id": "so_076",
+    "author_user_id": "u_108",
+    "business_id": "fergie-farmers-market",
+    "status": "approved",
+    "text": "Fresh, local and the nicest people.",
+    "created": "2026-10-01"
+  },
+  {
+    "id": "so_077",
+    "author_user_id": "u_lorna",
+    "business_id": "martin-family-maple",
+    "status": "approved",
+    "text": "Fresh, local and the nicest people.",
+    "created": "2026-10-12"
+  },
+  {
+    "id": "so_078",
+    "author_user_id": "u_024",
+    "business_id": "brubacher-cheese",
+    "status": "approved",
+    "text": "The honour box system restores my faith in humanity.",
+    "created": "2026-10-17"
+  },
+  {
+    "id": "so_079",
+    "author_user_id": "u_071",
+    "business_id": "stone-town-inn",
+    "status": "approved",
+    "text": "Our guests loved it. Spotless and cosy.",
+    "created": "2026-11-19"
+  },
+  {
+    "id": "so_080",
+    "author_user_id": "u_josie",
+    "business_id": "bannock-gorge-campground",
+    "status": "approved",
+    "text": "Our guests loved it. Spotless and cosy.",
+    "created": "2026-09-30"
+  },
+  {
+    "id": "so_081",
+    "author_user_id": "u_sofia",
+    "business_id": "bannock-gorge-campground",
+    "status": "approved",
+    "text": "Our guests loved it. Spotless and cosy.",
+    "created": "2026-09-17"
+  },
+  {
+    "id": "so_082",
+    "author_user_id": "u_018",
+    "business_id": "bannock-gorge-campground",
+    "status": "approved",
+    "text": "Felt like staying with friends.",
+    "created": "2026-08-23"
+  },
+  {
+    "id": "so_083",
+    "author_user_id": "u_113",
+    "business_id": "bannock-gorge-campground",
+    "status": "approved",
+    "text": "Our guests loved it. Spotless and cosy.",
+    "created": "2026-10-26"
+  },
+  {
+    "id": "so_084",
+    "author_user_id": "u_133",
+    "business_id": "fergie-taxi",
+    "status": "approved",
+    "text": "Got me to the airport at 4 am, on time.",
+    "created": "2026-09-12"
+  },
+  {
+    "id": "so_085",
+    "author_user_id": "u_031",
+    "business_id": "fergie-curling-club",
+    "status": "approved",
+    "text": "The heart of this town.",
+    "created": "2026-10-04"
+  },
+  {
+    "id": "so_086",
+    "author_user_id": "u_126",
+    "business_id": "fergie-public-library",
+    "status": "approved",
+    "text": "The heart of this town.",
+    "created": "2026-10-10"
+  },
+  {
+    "id": "so_087",
+    "author_user_id": "u_036",
+    "business_id": "fergie-public-library",
+    "status": "approved",
+    "text": "The heart of this town.",
+    "created": "2026-08-31"
+  },
+  {
+    "id": "so_088",
+    "author_user_id": "u_jonah",
+    "business_id": "fergie-public-library",
+    "status": "approved",
+    "text": "Volunteers here are amazing.",
+    "created": "2026-09-23"
+  },
+  {
+    "id": "so_089",
+    "author_user_id": "u_029",
+    "business_id": "fergie-public-library",
+    "status": "pending",
+    "text": "The heart of this town.",
+    "created": "2026-08-26"
+  },
+  {
+    "id": "so_090",
+    "author_user_id": "u_078",
+    "business_id": "veterans-hall",
+    "status": "approved",
+    "text": "The heart of this town.",
+    "created": "2026-10-25"
+  },
+  {
+    "id": "so_091",
+    "author_user_id": "u_073",
+    "business_id": "veterans-hall",
+    "status": "approved",
+    "text": "Volunteers here are amazing.",
+    "created": "2026-11-03"
+  },
+  {
+    "id": "so_092",
+    "author_user_id": "u_136",
+    "business_id": "veterans-hall",
+    "status": "approved",
+    "text": "The heart of this town.",
+    "created": "2026-09-29"
+  },
+  {
+    "id": "so_093",
+    "author_user_id": "u_001",
+    "business_id": "veterans-hall",
+    "status": "approved",
+    "text": "Volunteers here are amazing.",
+    "created": "2026-08-31"
+  },
+  {
+    "id": "so_094",
+    "author_user_id": "u_010",
+    "business_id": "kirk-street-noodle",
+    "status": "approved",
+    "text": "Friendly staff, and they remembered my order.",
+    "created": "2026-10-21"
+  },
+  {
+    "id": "so_095",
+    "author_user_id": "u_150",
+    "business_id": "kirk-street-noodle",
+    "status": "approved",
+    "text": "Friendly staff, and they remembered my order.",
+    "created": "2026-10-11"
+  },
+  {
+    "id": "so_096",
+    "author_user_id": "u_josie",
+    "business_id": "station-street-shawarma",
+    "status": "approved",
+    "text": "Worth the wait every time.",
+    "created": "2026-10-11"
+  },
+  {
+    "id": "so_097",
+    "author_user_id": "u_108",
+    "business_id": "station-street-shawarma",
+    "status": "approved",
+    "text": "They stayed open late for our team after the game. Thank you.",
+    "created": "2026-11-13"
+  },
+  {
+    "id": "so_098",
+    "author_user_id": "u_151",
+    "business_id": "riverbank-tea-room",
+    "status": "approved",
+    "text": "Took visiting family here. They want to move to Fergie now.",
+    "created": "2026-11-02"
+  },
+  {
+    "id": "so_099",
+    "author_user_id": "u_colleen",
+    "business_id": "riverbank-tea-room",
+    "status": "approved",
+    "text": "They stayed open late for our team after the game. Thank you.",
+    "created": "2026-10-15"
+  },
+  {
+    "id": "so_100",
+    "author_user_id": "u_139",
+    "business_id": "riverbank-tea-room",
+    "status": "approved",
+    "text": "They stayed open late for our team after the game. Thank you.",
+    "created": "2026-09-10"
+  },
+  {
+    "id": "so_101",
+    "author_user_id": "u_josie",
+    "business_id": "riverbank-tea-room",
+    "status": "approved",
+    "text": "They stayed open late for our team after the game. Thank you.",
+    "created": "2026-10-29"
+  },
+  {
+    "id": "so_102",
+    "author_user_id": "u_142",
+    "business_id": "sugarbush-pancake-house",
+    "status": "approved",
+    "text": "Worth the wait every time.",
+    "created": "2026-11-16"
+  },
+  {
+    "id": "so_103",
+    "author_user_id": "u_046",
+    "business_id": "wool-and-wheel",
+    "status": "approved",
+    "text": "Found exactly what I needed, and a few things I didn't.",
+    "created": "2026-11-12"
+  },
+  {
+    "id": "so_104",
+    "author_user_id": "u_029",
+    "business_id": "the-toy-chest",
+    "status": "approved",
+    "text": "Found exactly what I needed, and a few things I didn't.",
+    "created": "2026-10-30"
+  },
+  {
+    "id": "so_105",
+    "author_user_id": "u_josie",
+    "business_id": "the-toy-chest",
+    "status": "approved",
+    "text": "Found exactly what I needed, and a few things I didn't.",
+    "created": "2026-10-18"
+  },
+  {
+    "id": "so_106",
+    "author_user_id": "u_104",
+    "business_id": "township-feed-and-seed",
+    "status": "approved",
+    "text": "Found exactly what I needed, and a few things I didn't.",
+    "created": "2026-10-15"
+  },
+  {
+    "id": "so_107",
+    "author_user_id": "u_074",
+    "business_id": "township-feed-and-seed",
+    "status": "approved",
+    "text": "My go-to for gifts.",
+    "created": "2026-10-23"
+  },
+  {
+    "id": "so_108",
+    "author_user_id": "u_018",
+    "business_id": "township-feed-and-seed",
+    "status": "approved",
+    "text": "Found exactly what I needed, and a few things I didn't.",
+    "created": "2026-08-28"
+  },
+  {
+    "id": "so_109",
+    "author_user_id": "u_isaac",
+    "business_id": "kettleby-painting",
+    "status": "approved",
+    "text": "Honest quote, no surprises.",
+    "created": "2026-11-16"
+  },
+  {
+    "id": "so_110",
+    "author_user_id": "u_082",
+    "business_id": "glow-esthetics",
+    "status": "pending",
+    "text": "Best haircut I've had in years.",
+    "created": "2026-11-06"
+  },
+  {
+    "id": "so_111",
+    "author_user_id": "u_130",
+    "business_id": "glow-esthetics",
+    "status": "approved",
+    "text": "Best haircut I've had in years.",
+    "created": "2026-09-11"
+  },
+  {
+    "id": "so_112",
+    "author_user_id": "u_052",
+    "business_id": "glow-esthetics",
+    "status": "approved",
+    "text": "Relaxing, and they actually listen.",
+    "created": "2026-08-29"
+  },
+  {
+    "id": "so_113",
+    "author_user_id": "u_isaac",
+    "business_id": "bannock-print",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-10-29"
+  },
+  {
+    "id": "so_114",
+    "author_user_id": "u_005",
+    "business_id": "fergie-computer-help",
+    "status": "pending",
+    "text": "Made my taxes painless.",
+    "created": "2026-10-13"
+  },
+  {
+    "id": "so_115",
+    "author_user_id": "u_jonah",
+    "business_id": "fergie-computer-help",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-09-24"
+  },
+  {
+    "id": "so_116",
+    "author_user_id": "u_084",
+    "business_id": "fergie-computer-help",
+    "status": "approved",
+    "text": "Made my taxes painless.",
+    "created": "2026-09-24"
+  },
+  {
+    "id": "so_117",
+    "author_user_id": "u_103",
+    "business_id": "fergie-computer-help",
+    "status": "approved",
+    "text": "Made my taxes painless.",
+    "created": "2026-11-09"
+  },
+  {
+    "id": "so_118",
+    "author_user_id": "u_133",
+    "business_id": "fergie-computer-help",
+    "status": "approved",
+    "text": "Made my taxes painless.",
+    "created": "2026-10-05"
+  },
+  {
+    "id": "so_119",
+    "author_user_id": "u_034",
+    "business_id": "fergie-computer-help",
+    "status": "approved",
+    "text": "Explained everything in plain English.",
+    "created": "2026-10-02"
+  },
+  {
+    "id": "so_120",
+    "author_user_id": "u_116",
+    "business_id": "gorge-gallery",
+    "status": "approved",
+    "text": "A gem. Go to the next show.",
+    "created": "2026-10-29"
+  },
+  {
+    "id": "so_121",
+    "author_user_id": "u_josie",
+    "business_id": "gorge-gallery",
+    "status": "approved",
+    "text": "A gem. Go to the next show.",
+    "created": "2026-11-04"
+  },
+  {
+    "id": "so_122",
+    "author_user_id": "u_070",
+    "business_id": "gorge-gallery",
+    "status": "pending",
+    "text": "My kids talk about the class all week.",
+    "created": "2026-11-10"
+  },
+  {
+    "id": "so_123",
+    "author_user_id": "u_005",
+    "business_id": "fergie-dance-academy",
+    "status": "approved",
+    "text": "A gem. Go to the next show.",
+    "created": "2026-11-17"
+  },
+  {
+    "id": "so_124",
+    "author_user_id": "u_114",
+    "business_id": "hollow-tree-honey",
+    "status": "approved",
+    "text": "Fresh, local and the nicest people.",
+    "created": "2026-10-30"
+  },
+  {
+    "id": "so_125",
+    "author_user_id": "u_052",
+    "business_id": "kids-corner-child-care",
+    "status": "approved",
+    "text": "Volunteers here are amazing.",
+    "created": "2026-09-13"
+  },
+  {
+    "id": "so_126",
+    "author_user_id": "u_039",
+    "business_id": "happy-tails-pet-supply",
+    "status": "approved",
+    "text": "Gentle with our nervous old cat.",
+    "created": "2026-11-01"
+  }
+]

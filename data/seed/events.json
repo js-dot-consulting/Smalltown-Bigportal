@@ -1,0 +1,1940 @@
+[
+  {
+    "id": "evt_001",
+    "title": "Santa Claus Parade",
+    "type": "festival",
+    "starts": "2026-11-28T17:00-05:00",
+    "ends": "2026-11-28T19:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "market-square"
+    },
+    "location_text": "Market Square to Victoria Park",
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-pipe-band"
+    },
+    "performers": [
+      {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      }
+    ],
+    "description": "Floats, the pipe band and hot chocolate from the Bakehouse. Route: Market Square to Victoria Park.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_002",
+    "title": "Winter Farmers' Market",
+    "type": "market",
+    "starts": "2026-11-21T08:00-05:00",
+    "ends": "2026-11-21T12:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-farmers-market"
+    },
+    "performers": [],
+    "description": "Every Saturday until April.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Sa"
+      ],
+      "from": "2026-11-07",
+      "until": "2027-04-24",
+      "except": [
+        "2026-12-26"
+      ]
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_003",
+    "title": "Learn to Curl Night",
+    "type": "class",
+    "starts": "2026-12-01T19:00-05:00",
+    "ends": "2026-12-01T21:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-curling-club"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-curling-club"
+    },
+    "performers": [],
+    "description": "Equipment provided. Wear clean running shoes.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 15,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 24,
+    "age_range": "12+",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_004",
+    "title": "Tech Help Drop-in",
+    "type": "class",
+    "starts": "2026-12-03T14:00-05:00",
+    "ends": "2026-12-03T16:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "performers": [],
+    "description": "Bring your phone, laptop or questions about AI. Weekly on Thursdays.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Th"
+      ],
+      "from": "2026-10-22",
+      "until": null,
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_005",
+    "title": "Community Christmas Dinner",
+    "type": "fundraiser",
+    "starts": "2026-12-20T17:00-05:00",
+    "ends": "2026-12-20T19:30-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-food-bank"
+    },
+    "performers": [],
+    "description": "Free, all welcome. Volunteers needed.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": 200,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_006",
+    "title": "Ugly Sweater Pub Night",
+    "type": "music",
+    "starts": "2026-12-18T19:00-05:00",
+    "ends": "2026-12-18T23:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "performers": [],
+    "description": "Best sweater wins a growler from Bannock Brewing.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": "19+",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_007",
+    "title": "New Year's Day Polar Dip",
+    "type": "fundraiser",
+    "starts": "2027-01-01T12:00-05:00",
+    "ends": "2027-01-01T13:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "mill-pond"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-food-bank"
+    },
+    "performers": [],
+    "description": "Pledges go to the food bank.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_008",
+    "title": "Pond Skate Day",
+    "type": "sport",
+    "starts": "2027-02-06T11:00-05:00",
+    "ends": "2027-02-06T15:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "mill-pond"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-minor-hockey"
+    },
+    "performers": [],
+    "description": "Shinny, bonfire and skate lending if the ice is safe.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_009",
+    "title": "Maple Weekend",
+    "type": "festival",
+    "starts": "2027-03-27T09:00-04:00",
+    "ends": "2027-03-28T16:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "martin-family-maple"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "martin-family-maple"
+    },
+    "performers": [],
+    "description": "Sugar bush tours, pancakes and taffy on snow.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_010",
+    "title": "Swan Return Parade",
+    "type": "festival",
+    "starts": "2027-04-11T13:00-04:00",
+    "ends": "2027-04-11T14:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "templeton-gardens"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-pipe-band"
+    },
+    "performers": [
+      {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      }
+    ],
+    "description": "The town's swans go back on the river, led by the pipe band.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_011",
+    "title": "Antique Row Days",
+    "type": "festival",
+    "starts": "2027-05-15T09:00-04:00",
+    "ends": "2027-05-16T17:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "bardsley-crossroads"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "bardsley-antiques"
+    },
+    "performers": [],
+    "description": "Every shop on the row opens early, with sidewalk sales.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_012",
+    "title": "Riverside Players: opening night",
+    "type": "theatre",
+    "starts": "2027-06-12T19:30-04:00",
+    "ends": "2027-06-12T22:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "performers": [
+      {
+        "kind": "business",
+        "id": "riverside-players"
+      }
+    ],
+    "description": "Season opener. Tickets online.",
+    "tickets": [
+      {
+        "name": "Adult",
+        "price": 34,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Student",
+        "price": 18,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 180,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_013",
+    "title": "River Cleanup",
+    "type": "meeting",
+    "starts": "2027-04-24T09:00-04:00",
+    "ends": "2027-04-24T12:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "bannock-outfitters"
+    },
+    "location_text": "Bannock Outfitters dock",
+    "organizer": {
+      "kind": "group",
+      "id": "bannock-trail-club"
+    },
+    "performers": [],
+    "description": "Gloves and bags provided. Meet at the Outfitters dock.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_014",
+    "title": "Fergie Highland Gathering",
+    "type": "festival",
+    "starts": "2027-08-13T09:00-04:00",
+    "ends": "2027-08-15T18:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "victoria-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-pipe-band"
+    },
+    "performers": [],
+    "description": "Heavy events, dancing, pipe bands and the clan tent village.",
+    "tickets": [
+      {
+        "name": "Day pass",
+        "price": 25,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Weekend pass",
+        "price": 55,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Under 12",
+        "price": 0,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 15000,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_015",
+    "title": "Open Studio Night",
+    "type": "class",
+    "starts": "2026-12-05T18:00-05:00",
+    "ends": "2026-12-05T21:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "old-mill-pottery"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "old-mill-pottery"
+    },
+    "performers": [],
+    "description": "Try the wheel for $10. Holiday sale in the gallery.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 10,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_016",
+    "title": "Riverside Players: closing night",
+    "type": "theatre",
+    "starts": "2026-09-05T19:30-04:00",
+    "ends": "2026-09-05T22:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "performers": [
+      {
+        "kind": "business",
+        "id": "riverside-players"
+      }
+    ],
+    "description": "Last show of the summer season.",
+    "tickets": [
+      {
+        "name": "Adult",
+        "price": 34,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Student",
+        "price": 18,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 180,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_017",
+    "title": "Outdoor Movie in the Park",
+    "type": "kids",
+    "starts": "2026-09-12T20:00-04:00",
+    "ends": "2026-09-12T22:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "orchard-hill-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "orchard-hill-parents"
+    },
+    "performers": [],
+    "description": "Bring a blanket. Popcorn by donation.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "rescheduled",
+    "previous_starts": [
+      "2026-09-05T20:00-04:00"
+    ],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_018",
+    "title": "Township Fall Fair",
+    "type": "festival",
+    "starts": "2026-09-19T09:00-04:00",
+    "ends": "2026-09-20T17:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "township-fairgrounds"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-lions"
+    },
+    "performers": [],
+    "description": "Livestock shows, a midway, pie judging and the tractor pull.",
+    "tickets": [
+      {
+        "name": "Adult",
+        "price": 8,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Under 12",
+        "price": 0,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 5000,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_019",
+    "title": "Fall Fair Tractor Parade",
+    "type": "festival",
+    "starts": "2026-09-19T11:00-04:00",
+    "ends": "2026-09-19T12:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "township-fairgrounds"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-lions"
+    },
+    "performers": [],
+    "description": "Antique tractors from the fairgrounds to the Corners.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": "evt_018",
+    "rsvp_url": null,
+    "event_status": "cancelled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_020",
+    "title": "Bannock Paddlers Season Wrap",
+    "type": "sport",
+    "starts": "2026-09-26T16:00-04:00",
+    "ends": "2026-09-26T19:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "bannock-outfitters"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "bannock-paddlers"
+    },
+    "performers": [],
+    "description": "Last paddle of the year, then a barbecue.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_021",
+    "title": "Heritage Walking Tour",
+    "type": "tour",
+    "starts": "2026-09-27T14:00-04:00",
+    "ends": "2026-09-27T15:30-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "market-square"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-heritage"
+    },
+    "performers": [],
+    "description": "An hour through the stone downtown. Last tour of the season.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 5,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "monthly",
+      "by_month_week": "last-Su",
+      "from": "2026-05-31",
+      "until": "2026-09-27",
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_022",
+    "title": "Fall Swan Count",
+    "type": "meeting",
+    "starts": "2026-10-04T08:00-04:00",
+    "ends": "2026-10-04T10:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "templeton-gardens"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "bannock-trail-club"
+    },
+    "performers": [],
+    "description": "Bring binoculars. Coffee after at Highland Grind.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_023",
+    "title": "Thanksgiving Market",
+    "type": "market",
+    "starts": "2026-10-10T07:00-04:00",
+    "ends": "2026-10-10T12:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "market-square"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-farmers-market"
+    },
+    "performers": [],
+    "description": "Pies, squash and the last of the corn.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_024",
+    "title": "Bardsley Corners Pumpkin Walk",
+    "type": "kids",
+    "starts": "2026-10-31T18:00-04:00",
+    "ends": "2026-10-31T21:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "bardsley-crossroads"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "bardsley-antiques"
+    },
+    "performers": [],
+    "description": "Carved pumpkins line the road. Hot cider from the Cidery.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_025",
+    "title": "Remembrance Day Ceremony",
+    "type": "meeting",
+    "starts": "2026-11-11T10:45-05:00",
+    "ends": "2026-11-11T11:30-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "victoria-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [
+      {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      }
+    ],
+    "description": "At the cenotaph. Veterans' Hall open after for coffee.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_026",
+    "title": "Fiddle Night",
+    "type": "music",
+    "starts": "2026-11-19T19:00-05:00",
+    "ends": "2026-11-19T22:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "performers": [],
+    "description": "All players welcome. Every Thursday.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": "19+",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Th"
+      ],
+      "from": "2026-10-01",
+      "until": null,
+      "except": [
+        "2026-12-24"
+      ]
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_027",
+    "title": "Flu Shot Clinic",
+    "type": "meeting",
+    "starts": "2026-11-25T10:00-05:00",
+    "ends": "2026-11-25T16:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "riverside-pharmacy"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "riverside-pharmacy"
+    },
+    "performers": [],
+    "description": "Walk in. Bring your health card.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_028",
+    "title": "Author Talk: Stone Town Stories",
+    "type": "meeting",
+    "starts": "2026-11-26T19:00-05:00",
+    "ends": "2026-11-26T20:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "performers": [],
+    "description": "A local historian on the people who built the mill. Now online only.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "online",
+    "online_url": "https://fergie-public-library.example/live",
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "moved_online",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_029",
+    "title": "Newcomers' Welcome Night",
+    "type": "meeting",
+    "starts": "2026-12-02T19:00-05:00",
+    "ends": "2026-12-02T21:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "newcomers-to-fergie"
+    },
+    "performers": [],
+    "description": "New in town? Meet people, get a map and a butter tart.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_030",
+    "title": "Bardsley Corners Christmas Market",
+    "type": "market",
+    "starts": "2026-12-05T10:00-05:00",
+    "ends": "2026-12-06T16:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "bardsley-crossroads"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "bardsley-antiques"
+    },
+    "performers": [],
+    "description": "Every shop open late, carollers and roasted chestnuts.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_031",
+    "title": "Holiday Craft Sale",
+    "type": "market",
+    "starts": "2026-12-06T09:00-05:00",
+    "ends": "2026-12-06T15:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-horticultural"
+    },
+    "performers": [],
+    "description": "Twenty tables of local makers.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_032",
+    "title": "Town Council Meeting",
+    "type": "meeting",
+    "starts": "2026-12-08T19:00-05:00",
+    "ends": "2026-12-08T21:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "town-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [],
+    "description": "Second Tuesday of the month. In person or streamed.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "mixed",
+    "online_url": "https://fergie-town.example/council/live",
+    "recurrence": {
+      "freq": "monthly",
+      "by_month_week": "2-Tu",
+      "from": "2026-01-13",
+      "until": "2027-12-14",
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_033",
+    "title": "Old Arena Site Public Meeting",
+    "type": "meeting",
+    "starts": "2026-12-09T19:00-05:00",
+    "ends": "2026-12-09T21:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "town-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [],
+    "description": "Housing, a pool, or both? Council wants to hear from you.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "mixed",
+    "online_url": "https://fergie-town.example/council/live",
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_034",
+    "title": "Minor Hockey Home Opener",
+    "type": "sport",
+    "starts": "2026-12-12T10:00-05:00",
+    "ends": "2026-12-12T13:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "memorial-arena"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-minor-hockey"
+    },
+    "performers": [],
+    "description": "Under-11 and under-13 games. Bake sale in the lobby.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_035",
+    "title": "St. Andrew's Christmas Concert",
+    "type": "music",
+    "starts": "2026-12-13T15:00-05:00",
+    "ends": "2026-12-13T17:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "st-andrews-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "st-andrews"
+    },
+    "performers": [],
+    "description": "Postponed while the hall's furnace is replaced. New date to come.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "postponed",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_036",
+    "title": "Public Skate",
+    "type": "sport",
+    "starts": "2026-11-22T13:00-05:00",
+    "ends": "2026-11-22T15:00-05:00",
+    "venue": {
+      "kind": "place",
+      "id": "memorial-arena"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [],
+    "description": "Every Sunday afternoon. Helmets for kids under 10.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 3,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Su"
+      ],
+      "from": "2026-11-01",
+      "until": "2027-03-28",
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_037",
+    "title": "Toddler Storytime",
+    "type": "kids",
+    "starts": "2026-11-24T10:30-05:00",
+    "ends": "2026-11-24T11:15-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "performers": [],
+    "description": "Songs and stories for ages 0 to 4. Every Tuesday.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": "0-4",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Tu"
+      ],
+      "from": "2026-09-08",
+      "until": "2027-06-15",
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_038",
+    "title": "Seniors' Coffee",
+    "type": "meeting",
+    "starts": "2026-11-24T10:00-05:00",
+    "ends": "2026-11-24T11:30-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-public-library"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "seniors-coffee"
+    },
+    "performers": [],
+    "description": "Tuesday-morning coffee and conversation.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Tu"
+      ],
+      "from": "2026-01-06",
+      "until": null,
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_039",
+    "title": "Thursday Community Meal",
+    "type": "fundraiser",
+    "starts": "2026-11-26T17:30-05:00",
+    "ends": "2026-11-26T19:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-food-bank"
+    },
+    "performers": [],
+    "description": "Hot supper, no questions asked.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Th"
+      ],
+      "from": "2025-09-04",
+      "until": null,
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_040",
+    "title": "Knit Night",
+    "type": "class",
+    "starts": "2026-11-25T18:30-05:00",
+    "ends": "2026-11-25T20:30-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "wool-and-wheel"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "wool-and-wheel"
+    },
+    "performers": [],
+    "description": "Bring a project. Wednesdays.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "We"
+      ],
+      "from": "2026-01-07",
+      "until": null,
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_041",
+    "title": "Friday Trivia",
+    "type": "music",
+    "starts": "2026-11-27T19:30-05:00",
+    "ends": "2026-11-27T22:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "performers": [],
+    "description": "Teams of up to six. Fridays.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": "19+",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": {
+      "freq": "weekly",
+      "by_day": [
+        "Fr"
+      ],
+      "from": "2026-09-04",
+      "until": null,
+      "except": []
+    },
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_042",
+    "title": "Butter Tart Tasting",
+    "type": "market",
+    "starts": "2026-11-29T11:00-05:00",
+    "ends": "2026-11-29T14:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "bannock-bakehouse"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "bannock-bakehouse"
+    },
+    "performers": [],
+    "description": "Six flavours, vote for next year's special. Free.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "pending",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_043",
+    "title": "Saturday Movie Night",
+    "type": "kids",
+    "starts": "2026-12-12T19:00-05:00",
+    "ends": "2026-12-12T21:30-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-horticultural"
+    },
+    "performers": [],
+    "description": "A trial restart of the old movie nights, if 30 people come.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 5,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "pending",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_044",
+    "title": "Crypto Wealth Seminar",
+    "type": "meeting",
+    "starts": "2026-12-01T19:00-05:00",
+    "ends": "2026-12-01T21:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "veterans-hall"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [],
+    "description": "[removed]",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "rejected",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_045",
+    "title": "Burns Night Supper",
+    "type": "music",
+    "starts": "2027-01-25T18:30-05:00",
+    "ends": "2027-01-25T22:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "thistle-and-thorn"
+    },
+    "performers": [
+      {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      }
+    ],
+    "description": "Haggis, the address, whisky and the pipe band.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 65,
+        "currency": "CAD",
+        "availability": "sold_out"
+      }
+    ],
+    "is_free": false,
+    "capacity": 80,
+    "age_range": "19+",
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_046",
+    "title": "Curling Bonspiel",
+    "type": "sport",
+    "starts": "2027-01-23T08:00-05:00",
+    "ends": "2027-01-24T18:00-05:00",
+    "venue": {
+      "kind": "business",
+      "id": "fergie-curling-club"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-curling-club"
+    },
+    "performers": [],
+    "description": "Team entry, four games guaranteed.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 160,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 64,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_047",
+    "title": "Lions Pancake Breakfast",
+    "type": "fundraiser",
+    "starts": "2027-03-27T08:00-04:00",
+    "ends": "2027-03-27T11:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "sugarbush-pancake-house"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-lions"
+    },
+    "performers": [],
+    "description": "Part of Maple Weekend.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 12,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": "evt_009",
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_048",
+    "title": "Spring Plant Sale",
+    "type": "market",
+    "starts": "2027-05-08T08:00-04:00",
+    "ends": "2027-05-08T12:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "market-square"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-horticultural"
+    },
+    "performers": [],
+    "description": "Perennials split from the society's own gardens.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_049",
+    "title": "Fergie Dance Academy Recital",
+    "type": "kids",
+    "starts": "2027-06-05T14:00-04:00",
+    "ends": "2027-06-05T16:30-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "fergie-public-school"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "fergie-dance-academy"
+    },
+    "performers": [],
+    "description": "Ballet, jazz and Highland dance.",
+    "tickets": [
+      {
+        "name": "General",
+        "price": 12,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 250,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_050",
+    "title": "Community Board Picnic",
+    "type": "festival",
+    "starts": "2027-06-19T12:00-04:00",
+    "ends": "2027-06-19T16:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "orchard-hill-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-community-fb"
+    },
+    "performers": [],
+    "description": "Organised in the Facebook group. RSVP there.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": "https://facebook.example/groups/fergie-community/events/picnic-2027",
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_051",
+    "title": "Canada Day in the Park",
+    "type": "festival",
+    "starts": "2027-07-01T11:00-04:00",
+    "ends": "2027-07-01T22:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "victoria-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "town",
+      "id": "fergie"
+    },
+    "performers": [],
+    "description": "Cake at noon, fireworks at dusk.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_052",
+    "title": "Riverside Players: A Midsummer Night's Dream",
+    "type": "theatre",
+    "starts": "2027-07-09T19:30-04:00",
+    "ends": "2027-07-09T22:00-04:00",
+    "venue": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "business",
+      "id": "riverside-players"
+    },
+    "performers": [
+      {
+        "kind": "business",
+        "id": "riverside-players"
+      }
+    ],
+    "description": "Outdoors on the riverbank. Bring a cushion.",
+    "tickets": [
+      {
+        "name": "Adult",
+        "price": 34,
+        "currency": "CAD",
+        "availability": "in_stock"
+      },
+      {
+        "name": "Student",
+        "price": 18,
+        "currency": "CAD",
+        "availability": "in_stock"
+      }
+    ],
+    "is_free": false,
+    "capacity": 180,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": null,
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_053",
+    "title": "Highland Gathering: Heavy Events",
+    "type": "sport",
+    "starts": "2027-08-14T10:00-04:00",
+    "ends": "2027-08-14T16:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "victoria-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-pipe-band"
+    },
+    "performers": [],
+    "description": "Caber, stone and hammer. Included with a Gathering pass.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": "evt_014",
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  },
+  {
+    "id": "evt_054",
+    "title": "Highland Gathering: Massed Bands",
+    "type": "music",
+    "starts": "2027-08-15T16:00-04:00",
+    "ends": "2027-08-15T17:00-04:00",
+    "venue": {
+      "kind": "place",
+      "id": "victoria-park"
+    },
+    "location_text": null,
+    "organizer": {
+      "kind": "group",
+      "id": "fergie-pipe-band"
+    },
+    "performers": [
+      {
+        "kind": "group",
+        "id": "fergie-pipe-band"
+      }
+    ],
+    "description": "Every band on the field at once.",
+    "tickets": [],
+    "is_free": true,
+    "capacity": null,
+    "age_range": null,
+    "attendance_mode": "in_person",
+    "online_url": null,
+    "recurrence": null,
+    "parent_event_id": "evt_014",
+    "rsvp_url": null,
+    "event_status": "scheduled",
+    "previous_starts": [],
+    "moderation_status": "approved",
+    "source": "seed import"
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "about": "Real public-domain artworks from The Met, credited to their real makers. They are not by Fergie's creators. Use them as stand-ins for art on the site, and keep the maker and museum credit wherever a work appears.",
+  "retrieved": "2026-11-21",
+  "works": [
+    {
+      "id": "met_855672",
+      "title": "Quilt, appliqued",
+      "maker": null,
+      "maker_bio": null,
+      "date": "ca. 1860",
+      "medium": "Cotton, embroidered with wool yarn",
+      "classification": null,
+      "department": "The American Wing",
+      "museum_credit_line": "Gift of Karen B. Cohen, in honor of Rochelle C. Rosenberg, 2022",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-45028-001.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/ad/original/DP-45028-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/855672",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/855672",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_854567",
+      "title": "Quilt, pieced",
+      "maker": null,
+      "maker_bio": null,
+      "date": "ca. 1850",
+      "medium": "Cotton",
+      "classification": null,
+      "department": "The American Wing",
+      "museum_credit_line": "Gift of Karen B. Cohen, in honor of Rochelle C. Rosenberg, 2022",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-42140-001.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/ad/original/DP-42140-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/854567",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/854567",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_857566",
+      "title": "The Cuillin Hills, Isle of Skye",
+      "maker": "Paul Jacob Naftel",
+      "maker_bio": "British, Guernsey 1817–1891 Richmond upon Thames",
+      "date": "1865–71",
+      "medium": "Watercolor and gouache (bodycolor) over graphite",
+      "classification": "Drawings",
+      "department": "Drawings and Prints",
+      "museum_credit_line": "Purchase, Friends of Drawings and Prints Gifts, 2022",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-30274-001.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP-30274-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/857566",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/857566",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_382933",
+      "title": "Near Blair Athol, Scotland, part VI, plate 30 from \"Liber Studiorum\"",
+      "maker": "Joseph Mallord William Turner",
+      "maker_bio": "British, London 1775–1851 London",
+      "date": "June 1, 1811",
+      "medium": "Etching and mezzotint; first state of three",
+      "classification": "Prints",
+      "department": "Drawings and Prints",
+      "museum_credit_line": "Harris Brisbane Dick Fund, 1928",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP821409.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP821409.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/382933",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/382933",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_415909",
+      "title": "Mill River Scenery",
+      "maker": "Frances Flora Bond Palmer",
+      "maker_bio": "American (born England), Leicester 1812–1876 New York",
+      "date": "1857–68",
+      "medium": "Hand-colored lithograph",
+      "classification": "Prints",
+      "department": "Drawings and Prints",
+      "museum_credit_line": "Gift of A. S. Colgate, 1951",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP-39489-001.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP-39489-001.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/415909",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/415909",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_11123",
+      "title": "Harvest Scene",
+      "maker": "Winslow Homer",
+      "maker_bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+      "date": "ca. 1873",
+      "medium": "Oil on canvas",
+      "classification": null,
+      "department": "The American Wing",
+      "museum_credit_line": "George A. Hearn Fund, 1909",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/ad/web-large/ap09.26.6.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/ad/original/ap09.26.6.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/11123",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/11123",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_205100",
+      "title": "Harvest jug",
+      "maker": "Robert Burnal of Cutcombe",
+      "maker_bio": null,
+      "date": "ca. 1781",
+      "medium": "Slipware with graffito decoration",
+      "classification": "Ceramics-Pottery",
+      "department": "European Sculpture and Decorative Arts",
+      "museum_credit_line": "The Charles E. Sampson Memorial Fund, 1969",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/es/web-large/DP-15518-058.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/es/original/DP-15518-058.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/205100",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/205100",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_739712",
+      "title": "Salanio, Salerio and Shylock (Shakespeare, Merchant of Venice, Act 3, Scene 1)",
+      "maker": "John Massey Wright",
+      "maker_bio": "British, London 1777–1866",
+      "date": "1825–40",
+      "medium": "Etching and engraving",
+      "classification": "Prints",
+      "department": "Drawings and Prints",
+      "museum_credit_line": "Gift of Harriet McDonald, 1941",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP870100.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP870100.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/739712",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/739712",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_427722",
+      "title": "The Horseman on the Stone Bridge",
+      "maker": "Allart van Everdingen",
+      "maker_bio": "Dutch, Alkmaar 1621–1675 Amsterdam",
+      "date": null,
+      "medium": "Engraving; second state of three",
+      "classification": "Prints",
+      "department": "Drawings and Prints",
+      "museum_credit_line": "Rogers Fund, 1920",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP837548.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP837548.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/427722",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/427722",
+        "as_of": "2026-11-21"
+      }
+    },
+    {
+      "id": "met_201608",
+      "title": "Bagpipe player",
+      "maker": null,
+      "maker_bio": null,
+      "date": "probably 19th century",
+      "medium": "Lead-glazed earthenware",
+      "classification": "Ceramics-Pottery",
+      "department": "European Sculpture and Decorative Arts",
+      "museum_credit_line": "Gift of Julia A. Berwind, 1953",
+      "image_small_url": "https://images.metmuseum.org/CRDImages/es/web-large/172989.jpg",
+      "image_url": "https://images.metmuseum.org/CRDImages/es/original/172989.jpg",
+      "object_url": "https://www.metmuseum.org/art/collection/search/201608",
+      "license": "CC0 1.0 (The Met Open Access)",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "open_to_selling_prints": true,
+      "source": {
+        "name": "The Metropolitan Museum of Art Collection API",
+        "url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/201608",
+        "as_of": "2026-11-21"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2081 @@
+[
+  {
+    "user_id": "u_005",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-02-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_008",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "bannock-paddlers",
+    "role": "organiser",
+    "joined": "2026-01-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_055",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-05-31",
+    "status": "active"
+  },
+  {
+    "user_id": "u_059",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-02-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_080",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-06-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_092",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-01-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_093",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-09-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_134",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-02-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_138",
+    "group_id": "bannock-paddlers",
+    "role": "member",
+    "joined": "2026-05-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_027",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-03-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_042",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-04-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_072",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-05-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_098",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-05-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_108",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-04-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_114",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-08-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_116",
+    "group_id": "bannock-trail-club",
+    "role": "organiser",
+    "joined": "2026-03-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_124",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-03-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_142",
+    "group_id": "bannock-trail-club",
+    "role": "organiser",
+    "joined": "2026-05-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_143",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_147",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-11-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_elias",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-06-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_isaac",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-06-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_jonah",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-03-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_quinn",
+    "group_id": "bannock-trail-club",
+    "role": "member",
+    "joined": "2026-10-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_001",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_002",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-11-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_003",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_004",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_006",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_008",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-31",
+    "status": "active"
+  },
+  {
+    "user_id": "u_011",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "fergie-community-fb",
+    "role": "organiser",
+    "joined": "2026-03-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_017",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_018",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_019",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-01-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_020",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_023",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_024",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-01-30",
+    "status": "active"
+  },
+  {
+    "user_id": "u_025",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_026",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-01-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_028",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_029",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_034",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_038",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_041",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-01-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_044",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_045",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_046",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_047",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_052",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_054",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-07-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_056",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_057",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_059",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_060",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_061",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_063",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-11-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_064",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_065",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_066",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_068",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-30",
+    "status": "active"
+  },
+  {
+    "user_id": "u_069",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_070",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_073",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_076",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_077",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_078",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-08-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_081",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-01-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_084",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-08-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_085",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_087",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_091",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_092",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_097",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_100",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_101",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_106",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_109",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_111",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_112",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-06-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_114",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_117",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_124",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_127",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_129",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_132",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-08-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_138",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_139",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_140",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_142",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_143",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-11-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_145",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_146",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-31",
+    "status": "active"
+  },
+  {
+    "user_id": "u_148",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_149",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_150",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_colleen",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-05-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_darnell",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_demo_admin",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_gus",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-07-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_josie",
+    "group_id": "fergie-community-fb",
+    "role": "organiser",
+    "joined": "2026-07-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_mateo",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_meilin",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_owen",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_priya",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-10-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_sofia",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_teodora",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-04-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_wren",
+    "group_id": "fergie-community-fb",
+    "role": "member",
+    "joined": "2026-02-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "fergie-food-bank",
+    "role": "organiser",
+    "joined": "2026-03-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_016",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-10-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_018",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-02-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_019",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-02-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_027",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-04-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_062",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-03-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_077",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-08-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_089",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-04-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_090",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-05-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_099",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-03-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_105",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-08-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_106",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-04-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_131",
+    "group_id": "fergie-food-bank",
+    "role": "member",
+    "joined": "2026-02-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_142",
+    "group_id": "fergie-food-bank",
+    "role": "organiser",
+    "joined": "2026-05-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_005",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "fergie-heritage",
+    "role": "organiser",
+    "joined": "2026-02-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_027",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_029",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-02-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_040",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-04-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_046",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-07-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_056",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-05-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_075",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-02-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_089",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_094",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-06-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_100",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_106",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_109",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-02-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_128",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_135",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-02-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_141",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-04-30",
+    "status": "active"
+  },
+  {
+    "user_id": "u_151",
+    "group_id": "fergie-heritage",
+    "role": "organiser",
+    "joined": "2026-03-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_isaac",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_jonah",
+    "group_id": "fergie-heritage",
+    "role": "member",
+    "joined": "2026-03-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_011",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-08-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_036",
+    "group_id": "fergie-horticultural",
+    "role": "organiser",
+    "joined": "2026-07-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_044",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-10-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_047",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-04-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_052",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-02-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_058",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-02-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_066",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-03-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_074",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-05-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_081",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-03-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_086",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-08-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_116",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-02-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_118",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_125",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_131",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-02-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_145",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_148",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-03-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_151",
+    "group_id": "fergie-horticultural",
+    "role": "organiser",
+    "joined": "2026-02-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_153",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-04-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_kenji",
+    "group_id": "fergie-horticultural",
+    "role": "member",
+    "joined": "2026-09-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_008",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_010",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-05-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "fergie-lions",
+    "role": "organiser",
+    "joined": "2026-01-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_033",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-02-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_038",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-05-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_041",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-02-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_049",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-03-18",
+    "status": "requested"
+  },
+  {
+    "user_id": "u_050",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-02-02",
+    "status": "requested"
+  },
+  {
+    "user_id": "u_052",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-03-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_084",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-09-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_088",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-07-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_105",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-10-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_114",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-09-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_117",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-04-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_126",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_145",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-08-31",
+    "status": "active"
+  },
+  {
+    "user_id": "u_arjun",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-02-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_josie",
+    "group_id": "fergie-lions",
+    "role": "organiser",
+    "joined": "2026-07-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_owen",
+    "group_id": "fergie-lions",
+    "role": "member",
+    "joined": "2026-10-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_014",
+    "group_id": "fergie-minor-hockey",
+    "role": "organiser",
+    "joined": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_032",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-02-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_039",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-03-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_045",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-03-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_064",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-01-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_077",
+    "group_id": "fergie-minor-hockey",
+    "role": "organiser",
+    "joined": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_096",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-08-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_099",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-02-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_127",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_demo_resident",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-05-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_gus",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-06-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_jonah",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-03-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_mateo",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-09-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_priya",
+    "group_id": "fergie-minor-hockey",
+    "role": "member",
+    "joined": "2026-10-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_002",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-09-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_006",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-02-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_010",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-05-22",
+    "status": "requested"
+  },
+  {
+    "user_id": "u_020",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-07-30",
+    "status": "active"
+  },
+  {
+    "user_id": "u_022",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-02-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_030",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-06-04",
+    "status": "active"
+  },
+  {
+    "user_id": "u_039",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-04-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_063",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-11-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_068",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-02-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_070",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-05-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_071",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-11-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_077",
+    "group_id": "fergie-pipe-band",
+    "role": "organiser",
+    "joined": "2026-08-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_083",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-05-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_084",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-09-21",
+    "status": "active"
+  },
+  {
+    "user_id": "u_086",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-08-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_094",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-07-13",
+    "status": "active"
+  },
+  {
+    "user_id": "u_095",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-04-06",
+    "status": "requested"
+  },
+  {
+    "user_id": "u_107",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-04-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_111",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-05-20",
+    "status": "requested"
+  },
+  {
+    "user_id": "u_112",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-07-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_121",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-04-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_127",
+    "group_id": "fergie-pipe-band",
+    "role": "member",
+    "joined": "2026-09-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_josie",
+    "group_id": "fergie-pipe-band",
+    "role": "organiser",
+    "joined": "2026-07-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_006",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_008",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-04-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_028",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-11-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_029",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-03-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_036",
+    "group_id": "fergie-run-club",
+    "role": "organiser",
+    "joined": "2026-06-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_047",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-04-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_063",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-11-07",
+    "status": "active"
+  },
+  {
+    "user_id": "u_079",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-07-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_085",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-05-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_087",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-10-08",
+    "status": "active"
+  },
+  {
+    "user_id": "u_100",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-03-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_114",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-09-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_126",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-08-19",
+    "status": "active"
+  },
+  {
+    "user_id": "u_142",
+    "group_id": "fergie-run-club",
+    "role": "organiser",
+    "joined": "2026-06-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_148",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_priya",
+    "group_id": "fergie-run-club",
+    "role": "member",
+    "joined": "2026-10-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_018",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-03-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_052",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-02-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_053",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-05-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_062",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-02-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_065",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-11-18",
+    "status": "active"
+  },
+  {
+    "user_id": "u_077",
+    "group_id": "mill-flats-neighbours",
+    "role": "organiser",
+    "joined": "2026-08-11",
+    "status": "active"
+  },
+  {
+    "user_id": "u_119",
+    "group_id": "mill-flats-neighbours",
+    "role": "member",
+    "joined": "2026-06-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_012",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-05-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_018",
+    "group_id": "newcomers-to-fergie",
+    "role": "organiser",
+    "joined": "2026-03-16",
+    "status": "active"
+  },
+  {
+    "user_id": "u_019",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-03-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_021",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-04-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_031",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-02-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_035",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-08-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_036",
+    "group_id": "newcomers-to-fergie",
+    "role": "organiser",
+    "joined": "2026-07-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_053",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-05-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_074",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-04-27",
+    "status": "active"
+  },
+  {
+    "user_id": "u_151",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-02-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_demo_owner",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-04-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_demo_resident",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-05-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_kenji",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-08-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_priya",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-10-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_quinn",
+    "group_id": "newcomers-to-fergie",
+    "role": "member",
+    "joined": "2026-10-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_013",
+    "group_id": "orchard-hill-parents",
+    "role": "organiser",
+    "joined": "2026-01-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_014",
+    "group_id": "orchard-hill-parents",
+    "role": "member",
+    "joined": "2026-10-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_064",
+    "group_id": "orchard-hill-parents",
+    "role": "member",
+    "joined": "2026-02-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_069",
+    "group_id": "orchard-hill-parents",
+    "role": "member",
+    "joined": "2026-04-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_091",
+    "group_id": "orchard-hill-parents",
+    "role": "member",
+    "joined": "2026-02-14",
+    "status": "active"
+  },
+  {
+    "user_id": "u_096",
+    "group_id": "orchard-hill-parents",
+    "role": "member",
+    "joined": "2026-08-09",
+    "status": "active"
+  },
+  {
+    "user_id": "u_002",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-10-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_009",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-04-17",
+    "status": "active"
+  },
+  {
+    "user_id": "u_017",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-08-26",
+    "status": "active"
+  },
+  {
+    "user_id": "u_036",
+    "group_id": "seniors-coffee",
+    "role": "organiser",
+    "joined": "2026-07-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_047",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_048",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-08-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_051",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-07-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_056",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_068",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_075",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_079",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-07-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_082",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-15",
+    "status": "active"
+  },
+  {
+    "user_id": "u_083",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-06-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_110",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-03-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_119",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-05-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_122",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-01-29",
+    "status": "active"
+  },
+  {
+    "user_id": "u_131",
+    "group_id": "seniors-coffee",
+    "role": "member",
+    "joined": "2026-02-10",
+    "status": "active"
+  },
+  {
+    "user_id": "u_meilin",
+    "group_id": "seniors-coffee",
+    "role": "organiser",
+    "joined": "2026-05-03",
+    "status": "active"
+  },
+  {
+    "user_id": "u_004",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-02-20",
+    "status": "active"
+  },
+  {
+    "user_id": "u_010",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-05-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_011",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-09-25",
+    "status": "active"
+  },
+  {
+    "user_id": "u_014",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_017",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-07-24",
+    "status": "active"
+  },
+  {
+    "user_id": "u_020",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-06-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_023",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-03-22",
+    "status": "active"
+  },
+  {
+    "user_id": "u_024",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-01-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_036",
+    "group_id": "st-andrews",
+    "role": "organiser",
+    "joined": "2026-07-02",
+    "status": "active"
+  },
+  {
+    "user_id": "u_045",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-04-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_062",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-03-05",
+    "status": "active"
+  },
+  {
+    "user_id": "u_084",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-09-23",
+    "status": "active"
+  },
+  {
+    "user_id": "u_092",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-03-06",
+    "status": "active"
+  },
+  {
+    "user_id": "u_112",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-06-01",
+    "status": "active"
+  },
+  {
+    "user_id": "u_116",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-02-28",
+    "status": "active"
+  },
+  {
+    "user_id": "u_132",
+    "group_id": "st-andrews",
+    "role": "member",
+    "joined": "2026-08-12",
+    "status": "active"
+  },
+  {
+    "user_id": "u_josie",
+    "group_id": "st-andrews",
+    "role": "organiser",
+    "joined": "2026-07-08",
+    "status": "active"
+  }
+]

@@ -1,0 +1,554 @@
+[
+  {
+    "id": "rq_001",
+    "reviewed_by": null,
+    "kind": "claim",
+    "business_id": "gorge-view-bnb",
+    "submitted_by": "u_demo_owner",
+    "submitted": "2026-11-15T10:00",
+    "status": "pending",
+    "details": "Owner of Gorge View B&B. Can verify by phone at the number on the listing."
+  },
+  {
+    "id": "rq_002",
+    "reviewed_by": null,
+    "kind": "claim",
+    "business_id": "hartley-plumbing",
+    "submitted_by": "u_elias",
+    "submitted": "2026-11-10T08:20",
+    "status": "pending",
+    "details": "I bought the business from Doug Hartley in September."
+  },
+  {
+    "id": "rq_003",
+    "reviewed_by": "u_demo_admin",
+    "kind": "claim",
+    "business_id": "bannock-bakehouse",
+    "submitted_by": "u_demo_owner",
+    "submitted": "2026-02-21T09:00",
+    "status": "approved",
+    "details": "Verified in person at the shop."
+  },
+  {
+    "id": "rq_004",
+    "reviewed_by": null,
+    "kind": "edit",
+    "business_id": "thistle-and-thorn",
+    "submitted_by": "u_jonah",
+    "submitted": "2026-11-18T21:00",
+    "status": "pending",
+    "details": "They're closed Mondays now.",
+    "proposed": {
+      "hours.mon": []
+    }
+  },
+  {
+    "id": "rq_005",
+    "reviewed_by": null,
+    "kind": "edit",
+    "business_id": "lucky-dragon",
+    "submitted_by": "u_colleen",
+    "submitted": "2026-11-16T12:10",
+    "status": "pending",
+    "details": "They have a website now.",
+    "proposed": {
+      "website": "https://lucky-dragon.example"
+    }
+  },
+  {
+    "id": "rq_006",
+    "reviewed_by": null,
+    "kind": "correction_flag",
+    "business_id": "fergie-roofing",
+    "submitted_by": "u_owen",
+    "submitted": "2026-11-11T15:30",
+    "status": "pending",
+    "details": "Phone number on the listing goes to a fax machine."
+  },
+  {
+    "id": "rq_007",
+    "reviewed_by": null,
+    "kind": "removal_request",
+    "business_id": "second-look-vintage",
+    "submitted_by": "u_fatima",
+    "submitted": "2026-10-16T09:45",
+    "status": "pending",
+    "details": "My mother owned the shop. It closed in June. Please take the listing down or mark it closed."
+  },
+  {
+    "id": "rq_008",
+    "reviewed_by": null,
+    "kind": "event",
+    "business_id": "old-mill-pottery",
+    "submitted_by": "u_sofia",
+    "submitted": "2026-11-19T11:00",
+    "status": "pending",
+    "details": "Kids' clay day, Dec. 27, 10 am to noon, $20."
+  },
+  {
+    "id": "rq_009",
+    "reviewed_by": null,
+    "kind": "creator_work",
+    "creator_id": "cr_ines",
+    "work_id": "wk_ines_2",
+    "submitted_by": "u_meilin",
+    "submitted": "2026-11-17T14:00",
+    "status": "pending",
+    "details": "Uploading Inès's painting for her. She asked me to."
+  },
+  {
+    "id": "rq_010",
+    "kind": "claim",
+    "business_id": "thistle-and-thorn",
+    "submitted_by": "u_hamish",
+    "submitted": "2026-02-15T10:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_011",
+    "kind": "claim",
+    "business_id": "highland-grind",
+    "submitted_by": "u_048",
+    "submitted": "2026-07-30T12:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_012",
+    "kind": "claim",
+    "business_id": "swan-and-quill",
+    "submitted_by": "u_036",
+    "submitted": "2026-06-17T09:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_013",
+    "kind": "claim",
+    "business_id": "bannock-brewing",
+    "submitted_by": "u_052",
+    "submitted": "2026-06-12T13:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_014",
+    "kind": "claim",
+    "business_id": "pizza-corners",
+    "submitted_by": "u_099",
+    "submitted": "2026-06-22T10:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_015",
+    "kind": "claim",
+    "business_id": "pressed-apple-cidery",
+    "submitted_by": "u_019",
+    "submitted": "2026-07-23T15:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_016",
+    "kind": "claim",
+    "business_id": "mill-flats-hardware",
+    "submitted_by": "u_teodora",
+    "submitted": "2026-02-15T10:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_017",
+    "kind": "claim",
+    "business_id": "chapter-and-verse",
+    "submitted_by": "u_061",
+    "submitted": "2026-05-10T16:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_018",
+    "kind": "claim",
+    "business_id": "bardsley-antiques",
+    "submitted_by": "u_084",
+    "submitted": "2026-07-28T15:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_019",
+    "kind": "claim",
+    "business_id": "oakwright-furniture",
+    "submitted_by": "u_021",
+    "submitted": "2026-06-16T11:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_020",
+    "kind": "claim",
+    "business_id": "gift-loft",
+    "submitted_by": "u_083",
+    "submitted": "2026-07-15T12:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_021",
+    "kind": "claim",
+    "business_id": "bannock-outfitters",
+    "submitted_by": "u_018",
+    "submitted": "2026-03-14T12:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_022",
+    "kind": "claim",
+    "business_id": "spark-electric",
+    "submitted_by": "u_050",
+    "submitted": "2026-06-22T13:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_023",
+    "kind": "claim",
+    "business_id": "two-rivers-hvac",
+    "submitted_by": "u_079",
+    "submitted": "2026-07-19T09:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_024",
+    "kind": "claim",
+    "business_id": "stonebridge-physio",
+    "submitted_by": "u_085",
+    "submitted": "2026-05-18T13:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_025",
+    "kind": "claim",
+    "business_id": "tangles-hair",
+    "submitted_by": "u_010",
+    "submitted": "2026-07-26T12:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_026",
+    "kind": "claim",
+    "business_id": "bannock-valley-accounting",
+    "submitted_by": "u_003",
+    "submitted": "2026-03-19T12:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_027",
+    "kind": "claim",
+    "business_id": "old-mill-pottery",
+    "submitted_by": "u_058",
+    "submitted": "2026-03-12T11:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_028",
+    "kind": "claim",
+    "business_id": "fergie-farmers-market",
+    "submitted_by": "u_074",
+    "submitted": "2026-04-23T13:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_029",
+    "kind": "claim",
+    "business_id": "brubacher-cheese",
+    "submitted_by": "u_076",
+    "submitted": "2026-03-27T15:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_030",
+    "kind": "claim",
+    "business_id": "stone-town-inn",
+    "submitted_by": "u_092",
+    "submitted": "2026-03-11T09:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_031",
+    "kind": "claim",
+    "business_id": "punjab-kitchen",
+    "submitted_by": "u_038",
+    "submitted": "2026-06-26T09:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_032",
+    "kind": "claim",
+    "business_id": "riverbank-tea-room",
+    "submitted_by": "u_057",
+    "submitted": "2026-07-19T15:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_033",
+    "kind": "claim",
+    "business_id": "wool-and-wheel",
+    "submitted_by": "u_008",
+    "submitted": "2026-07-28T12:00",
+    "status": "approved",
+    "reviewed_by": "u_wren",
+    "details": "Verified by phone at the listed number."
+  },
+  {
+    "id": "rq_034",
+    "kind": "claim",
+    "business_id": "gorge-gallery",
+    "submitted_by": "u_090",
+    "submitted": "2026-04-15T10:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_035",
+    "kind": "claim",
+    "business_id": "lindqvist-berry-farm",
+    "submitted_by": "u_023",
+    "submitted": "2026-04-22T16:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified with a business registration letter (fictional registry)."
+  },
+  {
+    "id": "rq_036",
+    "kind": "claim",
+    "business_id": "happy-tails-pet-supply",
+    "submitted_by": "u_005",
+    "submitted": "2026-03-20T09:00",
+    "status": "approved",
+    "reviewed_by": "u_demo_admin",
+    "details": "Verified in person."
+  },
+  {
+    "id": "rq_037",
+    "kind": "claim",
+    "business_id": "kirk-street-noodle",
+    "submitted_by": "u_094",
+    "submitted": "2026-11-18T13:20",
+    "status": "pending",
+    "reviewed_by": null,
+    "details": "I'm the owner. Happy to verify by phone."
+  },
+  {
+    "id": "rq_038",
+    "kind": "claim",
+    "business_id": "fergie-tree-care",
+    "submitted_by": "u_070",
+    "submitted": "2026-11-18T13:20",
+    "status": "pending",
+    "reviewed_by": null,
+    "details": "I'm the owner. Happy to verify by phone."
+  },
+  {
+    "id": "rq_039",
+    "kind": "edit",
+    "business_id": "punjab-kitchen",
+    "submitted_by": "u_quinn",
+    "submitted": "2026-11-19T19:45",
+    "status": "pending",
+    "reviewed_by": null,
+    "details": "They're open Mondays now, I ate there last night.",
+    "proposed": {
+      "hours.mon": [
+        [
+          "11:30",
+          "21:00"
+        ]
+      ]
+    }
+  },
+  {
+    "id": "rq_040",
+    "kind": "correction_flag",
+    "business_id": "kids-corner-child-care",
+    "submitted_by": "u_priya",
+    "submitted": "2026-11-17T08:30",
+    "status": "pending",
+    "reviewed_by": null,
+    "details": "The infant wait list is closer to two years now, not one."
+  },
+  {
+    "id": "rq_041",
+    "kind": "reported_reply",
+    "reply_id": "rep_0001",
+    "post_id": "post_001",
+    "submitted_by": "u_016",
+    "submitted": "2026-11-19T09:55",
+    "status": "removed",
+    "reviewed_by": "u_wren",
+    "report_count": 2,
+    "reasons": {
+      "personal_info": 2
+    },
+    "snapshot": "Pretty sure that's the dog from the yellow house at the end of River Road. The owner there lets it run loose all the time.",
+    "outcome": "removed",
+    "public_reason": "personal_info",
+    "appeal": {
+      "status": "appeal_pending",
+      "submitted": "2026-11-20T08:00",
+      "details": "I wasn't naming anyone, I was trying to help find the dog."
+    },
+    "details": "Identifies a private home and its owner."
+  },
+  {
+    "id": "rq_042",
+    "kind": "reported_reply",
+    "reply_id": "rep_0040",
+    "post_id": "post_009",
+    "submitted_by": "u_061",
+    "submitted": "2026-11-09T10:33",
+    "status": "pending",
+    "reviewed_by": null,
+    "report_count": 1,
+    "reasons": {
+      "unkind": 1
+    },
+    "snapshot": "Riverbend again, I guess. Thanks all.",
+    "outcome": null,
+    "public_reason": null,
+    "appeal": null,
+    "details": "One report."
+  },
+  {
+    "id": "rq_043",
+    "kind": "reported_reply",
+    "reply_id": "rep_0087",
+    "post_id": "post_024",
+    "submitted_by": "u_046",
+    "submitted": "2026-10-06T08:50",
+    "status": "kept",
+    "reviewed_by": "u_wren",
+    "report_count": 1,
+    "reasons": {
+      "unkind": 1
+    },
+    "snapshot": "Honestly, council never listens to anyone under 60 on this stuff.",
+    "outcome": "kept",
+    "public_reason": null,
+    "appeal": null,
+    "details": "Criticism of council, not of a person. Kept."
+  },
+  {
+    "id": "rq_044",
+    "kind": "reported_reply",
+    "reply_id": "rep_0088",
+    "post_id": "post_024",
+    "submitted_by": "u_054",
+    "submitted": "2026-10-06T22:20",
+    "status": "pending",
+    "reviewed_by": null,
+    "report_count": 3,
+    "reasons": {
+      "unkind": 3
+    },
+    "snapshot": "People who want a pool should pay for it themselves. Typical whining from the same three families.",
+    "outcome": null,
+    "public_reason": null,
+    "appeal": null,
+    "details": "Three reports, so it was hidden automatically until a moderator decides."
+  },
+  {
+    "id": "rq_045",
+    "kind": "reported_reply",
+    "reply_id": "rep_0165",
+    "post_id": "post_057",
+    "submitted_by": "u_151",
+    "submitted": "2026-08-27T10:00",
+    "status": "pending",
+    "reviewed_by": null,
+    "report_count": 1,
+    "reasons": {
+      "off_topic": 1
+    },
+    "snapshot": "Same question here.",
+    "outcome": null,
+    "public_reason": null,
+    "appeal": null,
+    "details": "One report."
+  },
+  {
+    "id": "rq_046",
+    "kind": "reported_reply",
+    "reply_id": "rep_0350",
+    "post_id": "post_114",
+    "submitted_by": "u_034",
+    "submitted": "2026-09-20T19:43",
+    "status": "pending",
+    "reviewed_by": null,
+    "report_count": 1,
+    "reasons": {
+      "wrong_info": 1
+    },
+    "snapshot": "Appreciate it.",
+    "outcome": null,
+    "public_reason": null,
+    "appeal": null,
+    "details": "One report."
+  },
+  {
+    "id": "rq_047",
+    "kind": "reported_reply",
+    "reply_id": "rep_0652",
+    "post_id": "post_210",
+    "submitted_by": "u_111",
+    "submitted": "2026-10-16T02:00",
+    "status": "pending",
+    "reviewed_by": null,
+    "report_count": 1,
+    "reasons": {
+      "off_topic": 1
+    },
+    "snapshot": "Thanks, that helps.",
+    "outcome": null,
+    "public_reason": null,
+    "appeal": null,
+    "details": "One report."
+  }
+]

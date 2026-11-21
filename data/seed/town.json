@@ -1,0 +1,427 @@
+{
+  "name": "Fergie",
+  "province": "Ontario",
+  "country": "Canada",
+  "kind": "town",
+  "population": 11400,
+  "founded": 1834,
+  "nickname": "The Stone Town on the Bannock",
+  "summary": "Fergie is a fictional small town on the Bannock River, known for its limestone downtown, Scottish roots, a Saturday farmers' market, an antiques row out at Bardsley Corners, and a summer theatre company that punches above its weight.",
+  "seed_anchor_date": "2026-11-20",
+  "timezone": "America/Toronto",
+  "map_center": {
+    "lat": 43.705,
+    "lon": -80.377
+  },
+  "map_note": "Coordinates are approximate and fictional. They sit near a real Ontario town, so a real basemap will show real streets underneath Fergie's made-up ones.",
+  "population_note": "Profiles of Fergie's people are weighted to match group-level 2021 Census figures for a real small Ontario township (see data/open/census_weights.json). Fergie is not that township.",
+  "nearby_places": [
+    {
+      "name": "Kilbourne",
+      "kind": "village",
+      "drive_minutes": 10
+    },
+    {
+      "name": "Wellmont",
+      "kind": "town",
+      "drive_minutes": 20
+    },
+    {
+      "name": "Riverbend",
+      "kind": "city",
+      "drive_minutes": 30
+    }
+  ],
+  "annual_events": [
+    {
+      "name": "Maple Weekend",
+      "month": 3
+    },
+    {
+      "name": "Swan Return Parade",
+      "month": 4
+    },
+    {
+      "name": "Antique Row Days",
+      "month": 5
+    },
+    {
+      "name": "Riverside Players summer season",
+      "month": 6
+    },
+    {
+      "name": "Fergie Highland Gathering",
+      "month": 8
+    },
+    {
+      "name": "Township Fall Fair",
+      "month": 9
+    },
+    {
+      "name": "Santa Claus Parade",
+      "month": 11
+    }
+  ],
+  "neighbourhoods": [
+    {
+      "id": "downtown",
+      "name": "Downtown",
+      "streets": [
+        "Kirk Street",
+        "Highland Street",
+        "Market Square",
+        "Bridge Street",
+        "Queen Street"
+      ]
+    },
+    {
+      "id": "mill-flats",
+      "name": "Mill Flats",
+      "streets": [
+        "Mill Street",
+        "River Road",
+        "Gorge Road"
+      ]
+    },
+    {
+      "id": "north-ward",
+      "name": "North Ward",
+      "streets": [
+        "Thistle Road",
+        "Bannock Drive",
+        "Station Street"
+      ]
+    },
+    {
+      "id": "bardsley-corners",
+      "name": "Bardsley Corners",
+      "streets": [
+        "County Road 18"
+      ]
+    },
+    {
+      "id": "orchard-hill",
+      "name": "Orchard Hill",
+      "streets": [
+        "Orchard Road",
+        "Sugarbush Lane"
+      ]
+    },
+    {
+      "id": "rural",
+      "name": "Rural Fergie",
+      "streets": [
+        "Sideroad 10",
+        "Concession 4",
+        "Township Road 7",
+        "Line 2 North"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "market-square",
+      "name": "Market Square",
+      "kind": "square",
+      "landmark": false,
+      "description": "The town square in front of the old post office. Summer home of the farmers' market.",
+      "address": {
+        "street": "Market Square",
+        "neighbourhood": "downtown",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70475,
+        "lon": -80.37835
+      },
+      "accessible": "yes",
+      "capacity": 1500
+    },
+    {
+      "id": "victoria-park",
+      "name": "Victoria Park and Bandstand",
+      "kind": "park",
+      "landmark": true,
+      "description": "Summer concerts and the Highland Gathering's main stage.",
+      "address": {
+        "street": "Queen Street",
+        "neighbourhood": "downtown",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70582,
+        "lon": -80.37606
+      },
+      "accessible": "limited",
+      "capacity": 15000
+    },
+    {
+      "id": "bannock-gorge-lookout",
+      "name": "Bannock Gorge Lookout",
+      "kind": "trail",
+      "landmark": true,
+      "description": "Limestone cliffs over the river, a short walk from downtown.",
+      "address": {
+        "street": "Gorge Road",
+        "neighbourhood": "mill-flats",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70105,
+        "lon": -80.37244
+      },
+      "accessible": "limited",
+      "capacity": null
+    },
+    {
+      "id": "templeton-gardens",
+      "name": "Templeton Riverside Gardens",
+      "kind": "park",
+      "landmark": true,
+      "description": "Terraced public gardens along the Bannock.",
+      "address": {
+        "street": "River Road",
+        "neighbourhood": "mill-flats",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70273,
+        "lon": -80.37129
+      },
+      "accessible": "yes",
+      "capacity": 800
+    },
+    {
+      "id": "mill-pond",
+      "name": "Mill Pond",
+      "kind": "park",
+      "landmark": true,
+      "description": "Skating in winter, ducks and swans the rest of the year.",
+      "address": {
+        "street": "Mill Street",
+        "neighbourhood": "mill-flats",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70041,
+        "lon": -80.36901
+      },
+      "accessible": "limited",
+      "capacity": 400
+    },
+    {
+      "id": "river-trail-footbridge",
+      "name": "River Trail Footbridge",
+      "kind": "trail",
+      "landmark": false,
+      "description": "Pedestrian bridge where the river trail crosses the Bannock.",
+      "address": {
+        "street": "River Road",
+        "neighbourhood": "mill-flats",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70106,
+        "lon": -80.37031
+      },
+      "accessible": "yes",
+      "capacity": null
+    },
+    {
+      "id": "town-hall",
+      "name": "Fergie Town Hall",
+      "kind": "hall",
+      "landmark": false,
+      "description": "Council chambers upstairs, by elevator. Meetings are also streamed.",
+      "address": {
+        "street": "Highland Street",
+        "neighbourhood": "downtown",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70321,
+        "lon": -80.37481
+      },
+      "accessible": "yes",
+      "capacity": 120
+    },
+    {
+      "id": "st-andrews-hall",
+      "name": "St. Andrew's Church Hall",
+      "kind": "church",
+      "landmark": false,
+      "description": "Church basement hall used for suppers, rummage sales and AA meetings.",
+      "address": {
+        "street": "Kirk Street",
+        "neighbourhood": "downtown",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70618,
+        "lon": -80.37631
+      },
+      "accessible": "limited",
+      "capacity": 150
+    },
+    {
+      "id": "memorial-arena",
+      "name": "Fergie Memorial Arena",
+      "kind": "arena",
+      "landmark": false,
+      "description": "Ice rink and community rooms. There is no pool.",
+      "address": {
+        "street": "Station Street",
+        "neighbourhood": "north-ward",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.71451,
+        "lon": -80.3775
+      },
+      "accessible": "yes",
+      "capacity": 900
+    },
+    {
+      "id": "old-arena-site",
+      "name": "Old Arena Site",
+      "kind": "site",
+      "landmark": false,
+      "description": "Vacant since the old arena and pool closed in 2024. Council is deciding what goes here.",
+      "address": {
+        "street": "Bannock Drive",
+        "neighbourhood": "north-ward",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.71122,
+        "lon": -80.37915
+      },
+      "accessible": "unknown",
+      "capacity": null
+    },
+    {
+      "id": "fergie-public-school",
+      "name": "Fergie Public School gym",
+      "kind": "school",
+      "landmark": false,
+      "description": "School gym used for evening rec programs.",
+      "address": {
+        "street": "Thistle Road",
+        "neighbourhood": "north-ward",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.71277,
+        "lon": -80.37882
+      },
+      "accessible": "yes",
+      "capacity": 250
+    },
+    {
+      "id": "bardsley-crossroads",
+      "name": "Bardsley Corners crossroads",
+      "kind": "square",
+      "landmark": false,
+      "description": "Where the antique shops meet. Closed to traffic for Antique Row Days.",
+      "address": {
+        "street": "County Road 18",
+        "neighbourhood": "bardsley-corners",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70826,
+        "lon": -80.3995
+      },
+      "accessible": "limited",
+      "capacity": 600
+    },
+    {
+      "id": "orchard-hill-park",
+      "name": "Orchard Hill Park",
+      "kind": "park",
+      "landmark": false,
+      "description": "Playground, splash pad and a ball diamond.",
+      "address": {
+        "street": "Orchard Road",
+        "neighbourhood": "orchard-hill",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.69313,
+        "lon": -80.38444
+      },
+      "accessible": "yes",
+      "capacity": 500
+    },
+    {
+      "id": "hillcrest-manor-grounds",
+      "name": "Hillcrest Manor",
+      "kind": "landmark",
+      "landmark": true,
+      "description": "A restored Victorian mansion, now a museum.",
+      "address": {
+        "street": "Orchard Road",
+        "neighbourhood": "orchard-hill",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.69612,
+        "lon": -80.38766
+      },
+      "accessible": "limited",
+      "capacity": 200
+    },
+    {
+      "id": "old-stone-mill-landmark",
+      "name": "Old Stone Mill",
+      "kind": "landmark",
+      "landmark": true,
+      "description": "An 1840s limestone mill on the river, now a restaurant.",
+      "address": {
+        "street": "Mill Street",
+        "neighbourhood": "mill-flats",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.70197,
+        "lon": -80.37076
+      },
+      "accessible": "limited",
+      "capacity": null
+    },
+    {
+      "id": "township-fairgrounds",
+      "name": "Township Fairgrounds",
+      "kind": "park",
+      "landmark": false,
+      "description": "Fall fair, tractor pulls and the overflow parking for the Highland Gathering.",
+      "address": {
+        "street": "Concession 4",
+        "neighbourhood": "rural",
+        "town": "Fergie",
+        "province": "ON"
+      },
+      "geo": {
+        "lat": 43.72756,
+        "lon": -80.37145
+      },
+      "accessible": "limited",
+      "capacity": 5000
+    }
+  ]
+}

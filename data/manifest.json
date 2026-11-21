@@ -1,0 +1,95 @@
+{
+  "manifest_version": 1,
+  "datasets": [
+    {
+      "id": "fergie-seed",
+      "kind": "synthetic",
+      "description": "The fictional town of Fergie: places, businesses, people with coarse optional profiles, groups, events, news, town notices, a community board with threaded replies and reactions, follows, memberships, RSVPs, owner updates, shoutouts, creators, moderation records and 90 days of tracked site activity. Profile mixes are weighted by group-level 2021 Census figures (census-2021-weights). Provided by the track as-is. The script that generates it is kept private, so check the files against their checksums.",
+      "files": [
+        "data/seed/town.json",
+        "data/seed/categories.json",
+        "data/seed/businesses.json",
+        "data/seed/business_roles.json",
+        "data/seed/users.json",
+        "data/seed/groups.json",
+        "data/seed/memberships.json",
+        "data/seed/follows.json",
+        "data/seed/news.json",
+        "data/seed/events.json",
+        "data/seed/rsvps.json",
+        "data/seed/notices.json",
+        "data/seed/board_posts.json",
+        "data/seed/replies.json",
+        "data/seed/reactions.json",
+        "data/seed/business_updates.json",
+        "data/seed/shoutouts.json",
+        "data/seed/review_queue.json",
+        "data/seed/reports.json",
+        "data/seed/creators.json",
+        "data/seed/activity.csv"
+      ],
+      "license": "The Unlicense",
+      "fictional": true,
+      "checksums": {
+        "data/seed/town.json": "a885311475425ae7c3808eb9f62ceab85581ef5db223803156776cc49b38a097",
+        "data/seed/categories.json": "729b5c9331a8552e6799f5e093bd48261b27dabe894ff2a60ac9f1f63602e346",
+        "data/seed/businesses.json": "3edd7af3504f536a9da8bdd3a3fe0ed9c81cfb1ed5155d4a17fad8197c3be06f",
+        "data/seed/business_roles.json": "8406cca017243061eea3bb44a8ce88739aad84235b6eda10f8ded659e51609af",
+        "data/seed/users.json": "07eee25d2feb599d19993f717fec111b3b8c74f0a583a0221387189fdb27e9f4",
+        "data/seed/groups.json": "068e2f52aca48230ed76af3093305ff7cbf7458ae2594a69efbeedbdeaf99f16",
+        "data/seed/memberships.json": "581b8c6abd9116d576abe17d2ac90be92d31f4bb462dd8c40dad5045d56d61d4",
+        "data/seed/follows.json": "dfa00e43e90a53c0550c94a14988671318943e3a8a82b64f0862433d83ac822a",
+        "data/seed/news.json": "a42813922530d9f33556e547a110586787e16b2125f5f52c217cc46db50e7d7f",
+        "data/seed/events.json": "2e51906683a62e748591b9d434beaff18d07eadff0a2617eec9fa8319b28d082",
+        "data/seed/rsvps.json": "8c92ec9feae0fd0a0455f5cad1d8d3d4e3c4ef105c05655cd979c540af185f53",
+        "data/seed/notices.json": "4b0c150c0bedef7ebf598d178c7c64828c208555e0d33a13a5028d7492778e16",
+        "data/seed/board_posts.json": "19b37504e63f23dabd80ff12dd4d63f9abd4ba5fcef8a79dee614dc33db4d9e3",
+        "data/seed/replies.json": "8989c4685b2d95c4bab22a3af02e3387112c0bf5eb274666a1751216c725eeb8",
+        "data/seed/reactions.json": "fc87488ba1bb51842c02b392ff0a3f23c6e24d2a11514c075d0d5d46799521f8",
+        "data/seed/business_updates.json": "59d0c53709e0f97e6071e4db38696c9f9dfc16e151c71cd05883687a52b942cc",
+        "data/seed/shoutouts.json": "e6a3365f8aa928918df465b9987cfc9787a4d39324a64fb8d60d6a1741e08842",
+        "data/seed/review_queue.json": "f8035409e0e194af6a7e35002f5879870e051b733240f8554629f0aaea774955",
+        "data/seed/reports.json": "a15e443e4d61596d576a94ca574dd44385385e4c7093d582bc56bbc0fe663887",
+        "data/seed/creators.json": "2bdbbf58384c245d4d3c3ccd2e2812c92c21eba8b5832f901ca9faec9e6a4bc1",
+        "data/seed/activity.csv": "64d0c187b11b2c9694aa9e51055439b60281a689ee985edd3489d893a95efc22"
+      }
+    },
+    {
+      "id": "census-2021-weights",
+      "kind": "fetched",
+      "description": "Group-level 2021 Census counts for one real small Ontario township (Centre Wellington), used only as weights for Fergie's population mix. No individual data.",
+      "files": [
+        "data/open/census_weights.json"
+      ],
+      "script": "data/open/fetch_census_weights.py",
+      "source_name": "Statistics Canada, Census Profile, 2021 Census of Population",
+      "source_url": "https://api.statcan.gc.ca/census-recensement/profile/sdmx/rest/data/STC_CP,DF_CSD/A5.2021A00053523025.1..1",
+      "license": "Statistics Canada Open Licence",
+      "license_url": "https://www.statcan.gc.ca/en/reference/licence",
+      "credit": "Adapted from Statistics Canada, Census Profile, 2021 Census of Population.",
+      "retrieved": "2026-11-21",
+      "checksums": {
+        "data/open/census_weights.json": "72701f2bde9575e0068c64a2efd94b3bf15280932aa34fa565b6199706fce977"
+      }
+    },
+    {
+      "id": "met-open-access-works",
+      "kind": "fetched",
+      "description": "Ten real public-domain artworks from The Met, credited to their real makers. Stand-ins for art on the site. Not by Fergie's creators.",
+      "files": [
+        "data/open/met_works.json"
+      ],
+      "script": "data/open/fetch_met_works.py",
+      "source_name": "The Metropolitan Museum of Art Collection API",
+      "source_url": "https://metmuseum.github.io/",
+      "license": "CC0 1.0 (works flagged isPublicDomain)",
+      "license_url": "https://github.com/metmuseum/openaccess",
+      "retrieved": "2026-11-21",
+      "records_key": "works",
+      "record_source_field": "source",
+      "checksums": {
+        "data/open/met_works.json": "187d2a98e8d83a3d67ca5662a6bce5983ca62042af0c734fac43316b10b1aa43"
+      }
+    }
+  ]
+}
